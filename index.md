@@ -5,7 +5,6 @@ nav_order: 1
 ---
 
 # Welcome to the guide
-{: .fs-9 }
 
 This guide was inspired by and references BIGJRA’s v13 guide (with permission), and its creation would not have been possible without it. While BigJRA has completed the v13.5 guide, I found it worthwhile to complete my own version that I started prior. The goal of this guide will be to provide a story walkthrough for both routes; Pokémon and hidden item locations; team descriptions, advice, and strategies; and more. Please remember to update your game before you play by hitting the “update” application in your Rejuvenation folder.
 
