@@ -34,6 +34,7 @@ You’ll be asked if you want to put down any passwords. Passwords are used to c
 - Item 1
 - Item 2
 - Item 3
+- Item 4
 
 ### Miscellaneous
 - Item 1
