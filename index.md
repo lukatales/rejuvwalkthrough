@@ -19,20 +19,18 @@ There will be moments where this guide will push backtracking with HMs further b
 
 **Bolded** Pokémon mean that’s the first time you’ve been able to encounter the Pokémon, but does not include the rest of their evolution lines even if they are technically available. For example, if you can catch a Sentret in one area and you could evolve it into a Furret for your Pokédex, Furret will still be bolded when we find it first in another area. Starters or mystery egg Pokémon will not be bolded; instead, they will be bolded when they’re first available for anybody to capture them to account for those looking to have a living Pokédex.
 
-If you are planning a Renegade playthrough, please read the Renegade section at the bottom of the guide (placed there to avoid spoilers). Renegade route demands that you either skip certain quests, or make specific choices that are good to know going in. I would not recommend the Renegade route for your first playthrough.
+If you are planning a Renegade playthrough, please read the Renegade section at the bottom of the guide (placed there to avoid spoilers). Renegade route demands that you either skip certain quests, or make specific choices that are good to know going in. I would not recommend the Renegade route for your first playthrough. 
 
 ---
 
 ## How to use this guide
 
 
+On the sidebar you'll find all of the chapters, mechanics, Pokédex information, etc., which then split off into smaller pages underneath its parent. Go _. If you are looking for a specific item, Pokémon, moment, you can use the search function at the top of the page to help you locate it. Rattata
 
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+| GRASS:MORNING  | Night      | three |
+|:---------------|:------------------|:------|
+| Rattata...12%| good swedish fish | nice  |
+| Duraludon...100%| good and plenty   | nice  |
+| ok             | good `oreos`      | hmm   |
+| ok             | good `zoute` drop | yumm  |
