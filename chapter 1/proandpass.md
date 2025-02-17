@@ -1,7 +1,7 @@
 ---
 title: INTRODUCTION
 layout: default
-parent: Chapter 1
+parent: Chapter 1 - Crossroads of Destiny
 nav_order: 1
 ---
 
