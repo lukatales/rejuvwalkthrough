@@ -27,7 +27,7 @@ You’ll be asked if you want to put down any passwords. Passwords are used to c
 
 ### Quality of Life
 - Item 1
-- Item 2
+  - Item 22323
 - Item 3
 
 ### Difficulty
@@ -45,3 +45,5 @@ You’ll be asked if you want to put down any passwords. Passwords are used to c
 - Item 1
 - Item 2
 - Item 3
+
+If this is your first playthrough, I wouldn’t stress too much about passwords. Focus on the QOL ones if you’d like to make life a little easier for yourself or if you have a need to change the difficulty a little bit. You’ll be able to add or remove passwords later. Don’t enter the same password again if you’re using a password pack.
