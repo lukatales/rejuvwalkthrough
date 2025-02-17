@@ -4,27 +4,30 @@ layout: home
 nav_order: 1
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# Welcome to the guide
+{: .fs-9 }
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+This guide was inspired by and references BIGJRA’s v13 guide (with permission), and its creation would not have been possible without it. While BigJRA has completed the v13.5 guide, I found it worthwhile to complete my own version that I started prior. The goal of this guide will be to provide a story walkthrough for both routes; Pokémon and hidden item locations; team descriptions, advice, and strategies; and more. Please remember to update your game before you play by hitting the “update” application in your Rejuvenation folder.
 
-More specifically, the created site:
+{: .warning }
+> This guide contains spoilers, though I've done my best to keep my descriptions as vague as possible.
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+---
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+## Getting started
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+There will be moments where this guide will push backtracking with HMs further back in order to provide the most efficient experience. This means that it's possible to obtain certain items and Pokémon earlier than listed, but this is the cost of reducing the monumental amount of backtracking Rejuvenation asks for. For those that want to explore as soon as possible, I’ll be providing the names of the sections you can jump to when the HM becomes available.
 
-To get started with creating a site, simply:
+**Bolded** Pokémon mean that’s the first time you’ve been able to encounter the Pokémon, but does not include the rest of their evolution lines even if they are technically available. For example, if you can catch a Sentret in one area and you could evolve it into a Furret for your Pokédex, Furret will still be bolded when we find it first in another area. Starters or mystery egg Pokémon will not be bolded; instead, they will be bolded when they’re first available for anybody to capture them to account for those looking to have a living Pokédex.
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+While I’ll be explaining mechanics as they appear, there’s also a “Mechanics” section that you can easily jump to for reminders. Crest information and Aevian Pokémon stats will also be in this section.
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+If you are planning a Renegade playthrough, please read the Renegade section at the bottom of the guide (placed there to avoid spoilers). Renegade route demands that you either skip certain quests, or make specific choices that are good to know going in. I would not recommend the Renegade route for your first playthrough.
 
-----
+## Getting started
+
+
+
 
 [^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
 
