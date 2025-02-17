@@ -26,38 +26,38 @@ Before registering, you’ll have a chance to review and rebind your controls wi
 You’ll be asked if you want to put down any passwords. Passwords are used to change the game by adding or removing difficulty, providing QOL, or introduce other possibly strange interactions. Here are the following available passwords and what they do:
 
   ### Quality of Life
-Receive 5 of each Nature Mint at the start of the game after speaking to Tesla on the docks:
+- Receive 5 of each Nature Mint at the start of the game after speaking to Tesla on the docks:
   - mintyfresh
   - mintpack
-Receive the *Exp. All* at the start of the game:
+- Receive the *Exp. All* at the start of the game:
   - freeexpall
-Receive the *Shiny Charm* at the start of the game:
+- Receive the *Shiny Charm* at the start of the game:
   - shinycharm
   - earlyshiny
-Receive the *Mega-Z Ring* at the start of the game:
+- Receive the *Mega-Z Ring* at the start of the game:
   - freemegaz
-Receive all of the golden tools that remove the need for HM users on your team at the start of the game:
+- Receive all of the golden tools that remove the need for HM users on your team at the start of the game:
   - easyhms
   - nohms
   - hmitems
   - notmxneeded
-Receive the *Remote PC* at the start of the game:
+- Receive the *Remote PC* at the start of the game:
   - freeremotepc
-Receive thethe EV training keycards at the start of the game:
+- Receive thethe EV training keycards at the start of the game:
   - powerpack
-Exanbles the incubator at the daycare to hatch eggs immediately:
+- Enables the incubator at the daycare to hatch eggs immediately:
   - antidote
   - nopoisondam
-Disables overworld poison damage:
+- Disables overworld poison damage:
   - nodamageroll
   - norolls
   - rolls
-Allows you to gain Exp. Candies from level-up trainers without having the battle them:
+- Disablesdamage variation in battle:
+  - nodamageroll
+  - norolls
+  - roll
+- Allows you to gain Exp. Candies from level-up trainers without having the battle them:
   - pinata
-
-
-
-
 
 ### Difficulty
 - Item 1
