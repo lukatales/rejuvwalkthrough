@@ -29,14 +29,17 @@ You’ll be asked if you want to put down any passwords. Passwords are used to c
 - Item 1
 - Item 2
 - Item 3
+
 ### Difficulty
 - Item 1
 - Item 2
 - Item 3
+
 ### Miscellaneous
 - Item 1
 - Item 2
 - Item 3
+
 ### Password Packs
 - Item 1
 - Item 2
