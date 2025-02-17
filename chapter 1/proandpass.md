@@ -25,3 +25,19 @@ Before registering, you’ll have a chance to review and rebind your controls wi
 
 You’ll be asked if you want to put down any passwords. Passwords are used to change the game by adding or removing difficulty, providing QOL, or introduce other possibly strange interactions. Here are the following available passwords and what they do:
 
+### Quality of Life
+- Item 1
+- Item 2
+- Item 3
+### Difficulty
+- Item 1
+- Item 2
+- Item 3
+### Miscellaneous
+- Item 1
+- Item 2
+- Item 3
+### Password Packs
+- Item 1
+- Item 2
+- Item 3
