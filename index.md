@@ -11,6 +11,8 @@ This guide was inspired by and references BIGJRA’s v13 guide (with permission)
 {: .warning }
 > This guide contains major spoilers, though I've done my best to keep my descriptions as vague as possible.
 
+> <script> const toggleDarkMode = document.querySelector('.js-toggle-dark-mode'); jtd.addEvent(toggleDarkMode, 'click', function(){ if (jtd.getTheme() === 'dark') { jtd.setTheme('light'); toggleDarkMode.textContent = 'Change to Light Theme'; } else { jtd.setTheme('dark'); toggleDarkMode.textContent = 'Change to Dark Theme'; } }); </script>
+
 ---
 
 ## Before getting started
