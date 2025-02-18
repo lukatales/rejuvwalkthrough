@@ -7,7 +7,7 @@ nav_order: 1
 
 ## PROLOGUE
 ---
-Once you start the game, it will show you a list of warnings, then ask if you would like to skip the prologue. If this is your first playthrough, I would recommend playing through it, but skipping it does not affect any story decisions later on.
+Once you start the game, it will show you a list of warnings, then ask if you would like to skip the prologue. If this is your first playthrough, I would recommend playing through it, but skipping it does not affect any story decisions later on. Wurmple
 
 After reading through the Zorua and Pangoro story, take Maria downstairs to talk to Mom. Afterwards, enter the bottom room on the left wall and go down the stairs. Go up and interact with the strange table in the center of the room.
 
