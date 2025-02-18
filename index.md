@@ -3,7 +3,7 @@ title: Home
 layout: home
 nav_order: 1
 ---
-
+{: .text-blue-000}
 # Welcome to the guide
 ---
 
@@ -12,6 +12,7 @@ This guide was inspired by and references BIGJRA’s v13 guide (with permission)
 {: .warning }
 > This guide contains major spoilers, though I've done my best to keep my descriptions as vague as possible.
 
+{: .text-blue-000}
 ## Before getting started
 ---
 
