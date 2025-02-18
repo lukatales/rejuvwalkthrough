@@ -135,6 +135,7 @@ You’ll be asked if you want to put down any passwords. Passwords are used to c
 
 If this is your first playthrough, I wouldn’t stress too much about passwords. Focus on the QOL ones if you’d like to make life a little easier for yourself or if you have a need to change the difficulty a little bit. You’ll be able to add or remove passwords later. Don’t enter the same password again if you’re using a password pack.
 
+{: .text-blue-000}
 ## S.S. OCEANA
 ---
 After you’re done registering, exit the room to talk to your mom. The game will teach you about friendship values and how dialogue will affect how other characters will see you. Depending on your actions and dialogue you might see music notes above a character's head. Blue or gold music notes mean that you’ve gained favor with that character, while red notes mean that you’ve lost favor. Friendship values affect a variety of things, so respond how you would like, but just know that it’ll have consequences either way!
