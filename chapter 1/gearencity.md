@@ -20,6 +20,6 @@ Enter the lab and watch a cutscene. The woman to the left of Nurse Joy will expl
 | *Repel*        | $350   |
 | *Poké Ball*    | $200   |
 
-You start with $3000. Pick up some Poké Balls if you like. Repels are worthless in this game thanks to an item we'll get very soon, so I recommend never paying for any.
+You start with $3000. Pick up some Poké Balls if you like. Repels are worthless in this game thanks to an item we'll get very soon, so I recommend never paying for any as well as selling any that you come across.
 
 Head through
