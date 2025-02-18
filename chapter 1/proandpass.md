@@ -5,6 +5,7 @@ parent: Chapter 1 - Crossroads of Destiny
 nav_order: 1
 ---
 
+{: .text-blue-000}
 ## PROLOGUE
 ---
 Once you start the game, it will show you a list of warnings, then ask if you would like to skip the prologue. If this is your first playthrough, I would recommend playing through it, but skipping it does not affect any story decisions later on. Wurmple
@@ -15,13 +16,14 @@ Climb back up the stairs and go into the top room along the left wall to talk to
 
 Go down, right, and up towards the entrance and watch the end of the prologue.
 
+{: .text-blue-000}
 ## INTRO AND PASSWORDS
 ---
 The game will now ask you what difficulty you would like to play on. I recommend Story mode for those that are more interested in the story, characters, and lore and are not interested in spending too much time figuring out hard battles, and Classic Mode for those that would like a bit more challenge and enjoy a puzzling battle or two. Regardless of what choice you make, you will be able to change the difficulty later. This guide will cover battles as they appear in **Classic Mode.**
 
 Before registering, you’ll have a chance to review and rebind your controls with ‘F1.’ Register yourself as a trainer by picking your gender, character design, and name.
 
-{.fs-3} You’ll be asked if you want to put down any passwords. Passwords are used to change the game by adding or removing difficulty, providing QOL, or introduce other possibly strange interactions. Here are the following available passwords and what they do:
+You’ll be asked if you want to put down any passwords. Passwords are used to change the game by adding or removing difficulty, providing QOL, or introduce other possibly strange interactions. Here are the following available passwords and what they do:
 
 ### Quality of Life
 - Receive 5 of each Nature Mint at the start of the game after speaking to Tesla on the docks:
