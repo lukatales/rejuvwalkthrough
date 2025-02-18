@@ -13,7 +13,7 @@ Walk directly north. Before entering the building pick up the hidden *Ice Heal* 
 Enter the lab and watch a cutscene. The woman to the left of Nurse Joy will explain more things about Rejuvenation's mechanics if you want clarification. The counter on the lower left of the first floor serves as out first PokéMart.
 
 {: .text-blue-000}
-**Gearen Lab Mart**
+Gearen Lab Mart
 
 | ITEM           | PRICE  |
 |:---------------|:-------|
@@ -40,7 +40,7 @@ You can press the ‘S’ key to check the stat changes of all the Pokémon on t
 Go back down to talk to Professor Jenner where you’ll fight Ren. You can win or lose this one too!
 
 {: .text-blue-000}
-**Ren Battle**
+Ren Battle
 
 After battling, Jenner will ask you to check in on his daughter Melia on Route 1. For your trouble you get a *Pokédex* and a *Cybernav*! The Pokédex is self explanatory, but there’s a few features on the Cybernav that are very helpful to us. You can check where you are with the “Map” and change what music you’re listening to with the “Jukebox” apps. “Achievements” allows you to track your progress on all the achievements listed, and help you figure out what you need to do to complete them. “Spice Scent” essentially replaces the need for repels forever, as it changes the encounter rate. Don’t want to run back and forth waiting for an encounter? Set it to 9999 and you’ll be running into a Pokémon on every tile! Or you can set it to 0 and never run into any Pokémon at all! 
 
