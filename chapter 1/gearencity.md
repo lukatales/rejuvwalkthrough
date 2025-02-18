@@ -62,12 +62,12 @@ East Gearen City (Left)
 
 | GRASS: MORN         | %   | GRASS: DAY       | %   | GRASS: NIGHT         | %   |
 |:--------------------|:----|:-----------------|:----|:---------------------|:----|
-| **!Wurmple**        | 27% | **!Wurmple**     | 27% | **!Wurmple**         | 27% |
-| **!Alolan Rattata** | 25% | **!Bidoof**      | 25% | **!Alolan Rattata**  | 25% |
-| **!Patrat**         | 15% | **!Patrat**      | 15% | **!Poochyena**       | 15% |
-| **!Pidgey**         | 15% | **!Pidove**      | 15% | **!Hoothoot**        | 15% |
-| **!WBellsprout**    | 12% | **!Bellsprout**  | 12% | **!Oddish**          | 12% |
-| **!Sunkern**        | 6%  | **!Sunkern**     | 6%  | **!Chingling**       | 6%  |
+| **Wurmple**        | 27% | **Wurmple**     | 27% | **Wurmple**         | 27% |
+| **Alolan Rattata** | 25% | **Bidoof**      | 25% | **Alolan Rattata**  | 25% |
+| **Patrat**         | 15% | **Patrat**      | 15% | **Poochyena**       | 15% |
+| **Pidgey**         | 15% | **Pidove**      | 15% | **Hoothoot**        | 15% |
+| **Bellsprout**     | 12% | **Bellsprout**  | 12% | **Oddish**          | 12% |
+| **Sunkern**        | 6%  | **Sunkern**     | 6%  | **Chingling**       | 6%  |
 
 Wurmple evolving into Dustox is good for the first gym, as well as Chingling and Hoothoot. Alolan Rattata is also a certified beast in early game with the boosts it gets in City Field, as well as its significant speed.
 
