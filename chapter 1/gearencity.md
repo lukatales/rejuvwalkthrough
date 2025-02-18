@@ -12,6 +12,7 @@ Walk directly north. Before entering the building pick up the hidden *Ice Heal* 
 
 Enter the lab and watch a cutscene. The woman to the left of Nurse Joy will explain more things about Rejuvenation's mechanics if you want clarification. The counter on the lower left of the first floor serves as out first PokéMart.
 
+{: .text-blue-000}
 **GEAREN LAB MART**
 
 | ITEM           | PRICE  |
@@ -51,6 +52,7 @@ There are two NPCs that have side quests available to us in the Lab, evident by 
 
 Finally, let’s exit the lab and explore what the city has to offer!
 
+{: .text-blue-000}
 ## East Gearen City
 ---
 
