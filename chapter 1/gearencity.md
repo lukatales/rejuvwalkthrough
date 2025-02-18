@@ -57,6 +57,8 @@ This guide won't be covering minor NPC trainers, but from this point forward you
 
 The patches of grass around East Gearen have opened so consider catching some Pokémon!
 
+{: .text-blue-000}
+East Gearen City (Left)
 
 | GRASS: MORNING      | %   | GRASS: DAY          | %   | GRASS: DAY          | %   |
 |:--------------------|:----|:--------------------|:----|:--------------------|:----|
