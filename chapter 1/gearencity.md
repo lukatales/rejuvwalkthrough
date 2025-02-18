@@ -99,11 +99,14 @@ Back in East Gearen, let’s start going through all the buildings. To the left 
 
 In the house next door there's a repel that you can sell for some quick cash because of the lovely Spice Scent app.
 
-Exit and go to the right, all the way to where you fought that charmer and go up past the bridge. Going further up will find you a **Nidoran F** that will run away from you and go to one of the following locations. It will give you a hint on which direction it’s heading when it runs away.
-  	To the right of the Route 1 train station
-  	In front of the Help Plaza
-  	To the left of the tree where you battled that Charmer
-  	To the right of the Purple Building where you can battle it
+Exit and go to the right, all the way to where you fought that charmer and go up past the bridge. Going further up will find you a **Nidoran F** that will run away from you and go to one of the following locations. It will give you a hint on which direction it’s heading when it runs away:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To the right of the Route 1 train station
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In front of the Help Plaza
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To the left of the tree where you battled that Charmer
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To the right of the Purple Building where you can battle it
 
 Go to the Emerald Building and talk to the lady in the green dress, then beat the guy in front of the elevator to be able to use it. The second floor will have a *Red Shard* in the bottom left corner. Talking to the red-haired girl will grant you a *Full Heal*, talking to the old woman will grant you a *Super Repel*, and talking to the brown haired lady will grant you a *Chesto Berry*. Enter the third floor at night time for the chance to battle a level 5 **Shuppet**. Ghost Pokémon that can learn Curse, and any Pokémon that can learn Destiny Bond for that matter, are incredibly valuable to help with some of the harder boss fights in the game, so consider catching it.
 
