@@ -122,7 +122,7 @@ Hidden in the rock in the patch of grass is a *Super Potion*. There’s also a *
 Head all the way back toward the right to enter the next section of East Gearen City. We’re not even close to being done!
 
 {: .text-blue-000}
-## GEAREN LAB
+## EAST GEAREN CITY (RIGHT)
 ---
 
 Some more patches of grass here, this time with a slightly different set of Pokémon.
