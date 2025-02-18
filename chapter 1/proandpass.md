@@ -21,7 +21,7 @@ The game will now ask you what difficulty you would like to play on. I recommend
 
 Before registering, you’ll have a chance to review and rebind your controls with ‘F1.’ Register yourself as a trainer by picking your gender, character design, and name.
 
-You’ll be asked if you want to put down any passwords. Passwords are used to change the game by adding or removing difficulty, providing QOL, or introduce other possibly strange interactions. Here are the following available passwords and what they do:
+{.fs-3} You’ll be asked if you want to put down any passwords. Passwords are used to change the game by adding or removing difficulty, providing QOL, or introduce other possibly strange interactions. Here are the following available passwords and what they do:
 
 ### Quality of Life
 - Receive 5 of each Nature Mint at the start of the game after speaking to Tesla on the docks:
