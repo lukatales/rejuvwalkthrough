@@ -141,8 +141,10 @@ I’ll be writing out each dialogue option with the amount of points that you ca
 
 {: .label }
 Friendship Value Choices
-- I’m fine. (Mom +2)
-- … (Mom -1)
+
+  ~ I’m fine. (Mom +2)
+  
+  ~ … (Mom -1)
 
 After talking to Mom you’re free to explore the S.S. Oceana. I highly recommend getting in the habit of talking to everyone and investigating places that seem to be of interest. You’ll gain lots of new information that way, as well as discovering new Pokémon and obtaining items.
 
