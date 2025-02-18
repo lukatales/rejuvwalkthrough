@@ -22,4 +22,10 @@ Enter the lab and watch a cutscene. The woman to the left of Nurse Joy will expl
 
 You start with $3000. Pick up some Poké Balls if you like. Repels are worthless in this game thanks to an item we'll get very soon, so I recommend never paying for any as well as selling any that you come across.
 
-Head through
+Head through the blue door in the top left, narrowly avoid getting run over, and meet this region's professor. You’ll be taken to a room where you can pick one of 24 starters organized by type and the generation they were introduced in. If you’d like, interact with the rainbow machine on the right side to get a randomly chosen starter.
+
+You can quick save with ‘D’ in front of the starter you’d like and press ‘F12’ to soft reset for natures, shininess, and abilities. In this game all Pokémon can be shiny and have a chance to have their hidden ability. The base shiny rate is a little over 1%, and you can check for shininess in the nickname screen.
+
+For those that’d like a strong starter to make the game a bit easier, Speed Boost Torchic is easily the most recommended option, followed by Libero Scorbunny and Protean Froakie. The first gym specializes in poison types, so grass types might have more of a difficult time in there, but all starters are viable in one way or another, so pick whatever you’d like! 
+
+Once you’ve picked out your starter, talk to Amanda and get ready for a battle! You can win or lose this one.
