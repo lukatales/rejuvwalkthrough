@@ -60,19 +60,77 @@ You’ll be asked if you want to put down any passwords. Passwords are used to c
   - pinata
 
 ### Difficulty
-- Item 1
-- Item 2
-- Item 3
-- Item 4
+- Opponent Pokémon will be set to always have 0 EVs and 0 IVs:
+  - litemode
+  - noevs
+  - emptyevs
+- All money earned from winning battles is 20% of the original amount:
+  - nopenny
+- All opponents will have 252 EVs in each stats and 31 IVs in each stat:
+  - fullevs
+- Stops the player from using medical items in battle:
+  - noitems
+- Doubles all the money earned from winning trainer battles:
+  - moneybags
+  - richboy
+  - doublemoney
+- All Pokémon obtained will have 31 IVs in each stat:
+  - fullivs
+  - 31ivs
+  - allivs
+  - mischievous
+- All Pokémon obtained will have 0 IVs in each stat:
+  - emptyivs
+  - 0ivs
+  - noivs
+- Allows the player to add or subtract levels from all trainers:
+  - leveloffset
+  - setlevel
+  - flatlevel
+- Allows the player to increase or decrease levels by a set percentage:
+  - percentlevel
+  - levelpercent
+- Prevents the player’s Pokémon from gaining EVs:
+  - stopitems
+- Prevents the player’s Pokémon from gaining EXP:
+  - noexp
+  - zeroexp
+  - 0exp
+  - nodamageroll
+- All opponent Pokémon will have 85 EVs in each stat:
+  - flatevs
+  - 85evs
+- Allows the player’s Pokémon to gain 252 EVs in each stat:
+  - noevcap
+  - gen2mode
 
 ### Miscellaneous
-- Item 1
-- Item 2
-- Item 3
+- Weather now lasts indefinitely in battle unless changed by another move or ability:
+  - gen5weather
+- Speeds up the day/night cycle by not tying it to the user’s PC time:
+  - eeveepls
+- Field boosted moves are more powerful and weakened moves are weakened even more:
+  - fieldfrenzy
+  - morefield
+- Skips the S.S. Oceana intro and starts the player at East Gearen Docks (You’ll miss out on Friendship Value with Nancy):
+  - nointro
+  - skipintro
+- Allows the user to play as Ana, a secret protagonist:
+  - 9494
+- Skips to the start of the Terajuma story arc where you’ll be able to choose from a Renegade or Paragon playthrough, and has a pre-set team depending on protagonist sprite. You will miss out on certain items and not recommended for 100% a specific playthrough:
+  - terajuma
+- Enables an inconsistent Easter Egg:
+  - hello eizen.
 
 ### Password Packs
-- Item 1
-- Item 2
-- Item 3
+- Combines the noitems, fullivs, easyhms, and norolls passwords:
+  - casspack
+  - goodtaste
+- Combines the fullivs, moneybags, litemode, and stopitems passwords:
+  - easymode
+- Combines the noitems, nopenny, fullevs, and emptyivs passwords:
+  - hardmode
+- Combines the easyhms, nopoisondam, and freeexpall passwords:
+  - qol
 
 If this is your first playthrough, I wouldn’t stress too much about passwords. Focus on the QOL ones if you’d like to make life a little easier for yourself or if you have a need to change the difficulty a little bit. You’ll be able to add or remove passwords later. Don’t enter the same password again if you’re using a password pack.
