@@ -154,6 +154,7 @@ Once you’re ready to proceed, head upstairs to the third level and talk to Cap
 
 Watch the cutscene, then follow the only available path through the ship until you’re whisked off it.
 
+{: .text-blue-000}
 ## OCEANA PIER
 ---
 After you finish talking to Tesla, feel free to explore the pier, but you won’t be able to interact with much until you get your starter. Now’s a good time to look through your settings if you haven’t already. You can access  the photosensitivity/streamer mode here if you need it. 
