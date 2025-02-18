@@ -122,7 +122,7 @@ You’ll be asked if you want to put down any passwords. Passwords are used to c
 - Enables an inconsistent Easter Egg:
   - hello eizen.
 
-## Password Packs
+### Password Packs
 - Combines the noitems, fullivs, easyhms, and norolls passwords:
   - casspack
   - goodtaste
