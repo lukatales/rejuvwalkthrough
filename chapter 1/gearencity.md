@@ -6,7 +6,7 @@ nav_order: 2
 ---
 
 {: .text-blue-000}
-## Gearen Lab
+## GEAREN LAB
 ---
 Walk directly north. Before entering the building pick up the hidden *Ice Heal* in the rock to the right.
 
@@ -53,7 +53,7 @@ There are two NPCs that have side quests available to us in the Lab, evident by 
 Finally, let’s exit the lab and explore what the city has to offer!
 
 {: .text-blue-000}
-## East Gearen City
+## EAST GEAREN CITY (LEFT)
 ---
 
 This guide won't be covering minor NPC trainers, but from this point forward you'll start to see field effects in battle. For more information on what field effect does you can visit the Field_Effect_Manual in your Rejuvenation folder, or visit the Field Effect Manual page on this guide. I'll also be covering relevant effects and strategies for major battles.
