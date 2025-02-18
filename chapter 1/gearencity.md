@@ -29,3 +29,5 @@ You can quick save with ‘D’ in front of the starter you’d like and press �
 For those that’d like a strong starter to make the game a bit easier, Speed Boost Torchic is easily the most recommended option, followed by Libero Scorbunny and Protean Froakie. The first gym specializes in poison types, so grass types might have more of a difficult time in there, but all starters are viable in one way or another, so pick whatever you’d like! 
 
 Once you’ve picked out your starter, talk to Amanda and get ready for a battle! You can win or lose this one.
+
+![amanda1](https://cdn.discordapp.com/attachments/1339439520315346994/1341229208231219250/image.png?ex=67b53c8a&is=67b3eb0a&hm=9221a36ce71690b25b45d3195d5e3b5fa5a045f8b6313459fdbd317b1f741c39&)  
