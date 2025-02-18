@@ -5,6 +5,7 @@ parent: Chapter 1 - Crossroads of Destiny
 nav_order: 2
 ---
 
+{: .text-blue-000}
 ## Gearen Lab
 ---
 Walk directly north. Before entering the building pick up the hidden *Ice Heal* in the rock to the right.
