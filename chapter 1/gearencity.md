@@ -201,24 +201,92 @@ Go up but don’t pass the hedges yet. Pick up the hidden *Paralyze Heal* on the
 Enter the Crisola Hotel.
 
 {: .text-blue-000}
-### CHRISOLA HOTEL
+### Chrisola Hotel
 ---
 
+Watch a short cutscene where you almost get run over by a Ms. Blakeory. Oops! (Saki +1)
 
+After regaining control you can talk to the black belt in the bottom right corner for a free *Super Potio*. Go to the right hallway and grab *TM126 - Whirlpool* in the first open room you see. Circle around to the left and enter the middle room. Stand on the tile 1 down and 1 to the right of the upper left plant and hit the interact button when facing the bed to get $1500!
 
+Go back to the lobby and go to the elevator to head to the Casino/AP Center. Talk to the girl with red hair to get her to flush her Coin Case down the toilet so we can pick it up later.
 
+If you’ve been paying attention to the achievement pop ups you’ve noticed that you’ve been earning something called “AP,” or Achievement Points. Talk to the Lass next to the counter on the right to receive an Achievement Card that will help you check out how many AP you have anywhere you go. AP points are used to buy things from this counter like HM items that allow you to use HM moves without wasting a moveslot, cards to allow you into the training room back at Gearen Lab, nature changing mints, PP Ups, and Ability Capsules. There’s also an Exp. All, but I recommend holding off on buying it unless you really need it.
 
+{: .text-blue-000}
+AP Center
 
+| ITEM             | PRICE  | ITEM             | PRICE  |
+|:-----------------|:-------|:-----------------|:-------|
+| *Poké Ball*      | $200   | *Poké Ball*      | $200   |
+| *Burn Heal*      | $250   | *Poké Ball*      | $200   |
+| *Potion*         | $300   | *Poké Ball*      | $200   |
+| *Gourmet Treat*  | $1500  | *Poké Ball*      | $200   |
+| *Repel*          | $350   | *Poké Ball*      | $200   |
+| *Reverse Cancy*  | $50    | *Poké Ball*      | $200   |
+| *Potion*         | $300   | *Poké Ball*      | $200   |
+| *Gourmet Treat*  | $1500  | *Poké Ball*      | $200   |
+| *Repel*          | $350   | *Poké Ball*      | $200   |
+| *Reverse Cancy*  | $50    | *Poké Ball*      | $200   |
 
+The cards allow you into each of their respective training rooms where you’ll find the respective Power item: *Power Anklet*, *Power Band*, *Power Belt*, *Power Bracer*, *Power Lens*, and *Power Weight*. I tend to focus on buying the golden items, starting with the Hammer since we get Rock Smash first.
 
+That’s all we can do here for now so let’s go up to the rooftop where there are new Pokémon to greet us.
 
+{: .text-blue-000}
+Chrisola Rooftop (Right)
 
+| GRASS: MORN    | %   | GRASS: DAY     | %   | GRASS: NIGHT     | %   |
+|:---------------|:----|:---------------|:----|:-----------------|:----|
+| **Paras**      | 29% | **Paras**      | 29% | **Jigglypuff**   | 29% |
+| Alolan Rattata | 25% | Bidoof         | 25% | Alolan Rattata   | 25% |
+| Patrat         | 17% | Patrat         | 17% | Poochyena        | 17% |
+| **Pidgey**     | 15% | Pidove         | 15% | Hoothoot         | 15% |
+| **Klink**      | 4%  | **Bellsprout** | 4%  | **Klink**        | 4%  |
 
+There’s an Audino breeder here that will make grinding a breeze. Each time you beat them you’ll get *3 Exp. Candy S*. In the center of the rooftop there’s also a white-haired trainer with a quest marker, but I highly recommend waiting before you interact with her.
 
+There’s a hidden *Oran Berry* 3 tiles down and 2 to the right of the top left lamp post below the bench, a *Reverse Candy* diagonally left from the purple flower on the right in front of the helicopter pad, and a *Resist Wing* all he way to the right and up one tile from the bottom center lantern.
 
+Go back into the elevator and grab yourself a *Repel* in the pool room, hidden in the first rack of towels along the top wall. More free money!
 
+We’re done with the hotel for now, so let’s exit and go straight down in between the train station and the gym. There’s a *Reverse Candy* waiting for us to pick it up, and in the grass patch to the left there's a hidden *Tiny Mushroom* in the sixth patch of grass. 3 tiles to the right and 2 tiles up from the biker there’s a *Blue Shard* on the floor.
 
+Ignore the gym and the house next to it for now and continue to the left where you can enter the Aqua Building. Pick up the *Iron* on the first floor as well as the *Old Rod*! There’s a mysterious tenant on the third floor that will battle you, but I don’t recommend it. She’ll seem easy at first until you get jumpscared by a level 80 Pokémon. Let’s just leave her alone for now and exit the building with no sudden movements.
 
+Head back to the right and down to enter Gearen Park where you’ll find a new set of available Pokémon.
+
+{: .text-blue-000}
+Gearen Park (Right)
+
+| GRASS: MORN    | %   | GRASS: DAY     | %   | GRASS: NIGHT     | %   |
+|:---------------|:----|:---------------|:----|:-----------------|:----|
+| **Paras**      | 29% | **Paras**      | 29% | **Jigglypuff**   | 29% |
+| Alolan Rattata | 25% | Bidoof         | 25% | Alolan Rattata   | 25% |
+| Patrat         | 17% | Patrat         | 17% | Poochyena        | 17% |
+| **Pidgey**     | 15% | Pidove         | 15% | Hoothoot         | 15% |
+| **Klink**      | 4%  | **Bellsprout** | 4%  | **Klink**        | 4%  |
+
+The blue flowers to the right of the entrance have a *Blue Shard* hidden in them. There’s a hidden *Honey* to the right of the large rock formation in the tile next to it with no tall grass. Go down just a little bit to get a hidden *Carbos* in one of the flower patches of grass between the teal and dark green tree. Go back up and grab the other *Honey* in one of the purple flowers.
+
+Keep going up to find a mysterious crack in the ground that spawns an endless amount of **Unowns** at night.
+
+Go back around and towards the right to stand in front of the fountain. 3 tiles down from the rightmost lamp and 3 to the right will find you another *Yellow Shard*. Keep going up and grab the *Muscle Wing* hidden one tile down and to the right of the flower patch of grass in front of the tent.
+
+Enter the tent and prepare for excellence.
+
+{: .text-blue-000}
+### Mr. Luck's Tent
+---
+
+This tent will serve as the hub for a number of things. For one, the Marshadow in front of the bookcase is a Move Tutor. More Marshadows will appear with better and better moves as you progress throughout the story.
+
+{: .text-blue-000}
+Marshie
+
+| ITEM             | PRICE  |
+|:-----------------|:-------|
+| *Heavy Ball*     | $200   |
+| *Moon Ball*      | $300   |
 
 
 
