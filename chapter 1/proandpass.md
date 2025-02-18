@@ -137,10 +137,10 @@ If this is your first playthrough, I wouldn’t stress too much about passwords.
 ---
 After you’re done registering, exit the room to talk to your mom. The game will teach you about friendship values and how dialogue will affect how other characters will see you. Depending on your actions and dialogue you might see music notes above a character's head. Blue or gold music notes mean that you’ve gained favor with that character, while red notes mean that you’ve lost favor. Friendship values affect a variety of things, so respond how you would like, but just know that it’ll have consequences either way!
 
-I’ll be writing out each dialogue option with the amount of points that you can gain or lose. If a dialogue branch doesn’t affect the friendship values of a character, I won’t be mentioning it. STUPID
+I’ll be writing out each dialogue option with the amount of points that you can gain or lose. If a dialogue branch doesn’t affect the friendship values of a character, I won’t be mentioning it.
 
 {: .text-blue-000}
-**Friendship Value Choeices**
+**Friendship Value Choices**
   - I’m fine. (Mom +2)
   - … (Mom -1)
 
