@@ -134,3 +134,29 @@ You’ll be asked if you want to put down any passwords. Passwords are used to c
   - qol
 
 If this is your first playthrough, I wouldn’t stress too much about passwords. Focus on the QOL ones if you’d like to make life a little easier for yourself or if you have a need to change the difficulty a little bit. You’ll be able to add or remove passwords later. Don’t enter the same password again if you’re using a password pack.
+
+## S.S. Oceana
+
+After you’re done registering, exit the room to talk to your mom. The game will teach you about friendship values and how dialogue will affect how other characters will see you. Depending on your actions and dialogue you might see music notes above a character's head. Blue or gold music notes mean that you’ve gained favor with that character, while red notes mean that you’ve lost favor. Friendship values affect a variety of things, so respond how you would like, but just know that it’ll have consequences either way!
+
+I’ll be writing out each dialogue option with the amount of points that you can gain or lose. If a dialogue branch doesn’t affect the friendship values of a character, I won’t be mentioning it.
+
+Friendship Value Choices
+I’m fine. (Mom +2)
+… (Mom -1)
+
+After talking to Mom you’re free to explore the S.S. Oceana. I highly recommend getting in the habit of talking to everyone and investigating places that seem to be of interest. You’ll gain lots of new information that way, as well as discovering new Pokémon and obtaining items.
+
+For example, going downstairs to the room on the far left, you’ll see a small crack on the wall where you’ll be able to overhear a conversation between a mysterious figure named Crescent and your mom. Heading into the room directly below that and interacting with a similar crack in the wall will allow you to overhear another conversation between a trio of suspicious figures.
+
+Once you’re ready to proceed, head upstairs to the third level and talk to Captain Augustus. He’ll explain a few of Rejuvenation’s mechanics, if you want. Head back downstairs and through the double doors to talk to Nancy and get the farewell banquet started.
+
+Watch the cutscene, then follow the only available path through the ship until you’re off of it.
+
+## Oceana Pier
+
+After you finish talking to Tesla, feel free to explore the pier, but you won’t be able to interact with much until you get your starter. Now’s a good time to look through your settings if you haven’t already. You can access  the photosensitivity/streamer mode here if you need it. 
+
+If you’d like to get the world's quickest game over, head over to the yacht on the right side of the pier and talk to the guide. FREE TRIP! FREE TRIP! FREE TRIP!
+
+Head north through the gate when you’re ready, time to get our first Pokémon!
