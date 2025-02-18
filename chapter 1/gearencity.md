@@ -5,6 +5,17 @@ parent: Chapter 1 - Crossroads of Destiny
 nav_order: 2
 ---
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+---
+
 {: .text-blue-000}
 ## GEAREN LAB
 ---
@@ -33,7 +44,7 @@ For those that’d like a strong starter to make the game a bit easier, Speed Bo
 Once you’ve picked out your starter, talk to Amanda and get ready for a battle! You can win or lose this one.
 
 {: .text-blue-000}
-**Amanda Battle**
+Amanda Battle
 
 You can press the ‘S’ key to check the stat changes of all the Pokémon on the field, as well as the field effect, weather, screens, and other nifty information. Amanda will give you 5 Poké Balls to get started after the battle.
 
