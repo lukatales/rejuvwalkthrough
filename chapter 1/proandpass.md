@@ -146,11 +146,11 @@ I’ll be writing out each dialogue option with the amount of points that you ca
 
 After talking to Mom you’re free to explore the S.S. Oceana. I highly recommend getting in the habit of talking to everyone and investigating places that seem to be of interest. You’ll gain lots of new information that way, as well as discovering new Pokémon and obtaining items.
 
-For example, going downstairs to the room on the far left, you’ll see a small crack on the wall where you’ll be able to overhear a conversation between a mysterious figure named Crescent and your mom. Heading into the room directly below that and interacting with a similar crack in the wall will allow you to overhear another conversation between a trio of suspicious figures.
+For example, if you go downstairs to the room on the far left and up you’ll see a small crack on the wall where you’ll be able to overhear a conversation between a mysterious figure named Crescent and your mom. Heading into the room directly below that and interacting with a similar crack in the wall will allow you to overhear another conversation between a trio of suspicious figures.
 
-Once you’re ready to proceed, head upstairs to the third level and talk to Captain Augustus. He’ll explain a few of Rejuvenation’s mechanics, if you want. Head back downstairs and through the double doors to talk to Nancy and get the farewell banquet started.
+Once you’re ready to proceed, head upstairs to the third level and talk to Captain Augustus. He’ll explain a few of Rejuvenation’s mechanics if you want. Head back downstairs and through the double doors to talk to Nancy and get the farewell banquet started.
 
-Watch the cutscene, then follow the only available path through the ship until you’re off of it.
+Watch the cutscene, then follow the only available path through the ship until you’re whisked off it.
 
 ## OCEANA PIER
 ---
