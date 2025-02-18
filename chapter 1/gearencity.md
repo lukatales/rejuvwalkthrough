@@ -74,8 +74,8 @@ The patches of grass around East Gearen have opened so consider catching some Po
 {: .text-blue-000}
 East Gearen City (Left)
 
-| GRASS: MORN         | %   | GRASS: DAY       | %   | GRASS: NIGHT         | %   |
-|:--------------------|:----|:-----------------|:----|:---------------------|:----|
+| GRASS: MORN        | %   | GRASS: DAY      | %   | GRASS: NIGHT        | %   |
+|:-------------------|:----|:----------------|:----|:--------------------|:----|
 | **Wurmple**        | 27% | **Wurmple**     | 27% | **Wurmple**         | 27% |
 | **Alolan Rattata** | 25% | **Bidoof**      | 25% | **Alolan Rattata**  | 25% |
 | **Patrat**         | 15% | **Patrat**      | 15% | **Poochyena**       | 15% |
@@ -120,6 +120,82 @@ Beating the thug in a battle will grant you (+1 Karma), a variable used to track
 Hidden in the rock in the patch of grass is a *Super Potion*. There’s also a *Red Shard* to the right of the guard blocking the station entrance in one of the flower patches of grass.
 
 Head all the way back toward the right to enter the next section of East Gearen City. We’re not even close to being done!
+
+{: .text-blue-000}
+## GEAREN LAB
+---
+
+Some more patches of grass here, this time with a slightly different set of Pokémon.
+
+{: .text-blue-000}
+East Gearen City (Right)
+
+| GRASS: MORN    | %   | GRASS: DAY     | %   | GRASS: NIGHT     | %   |
+|:---------------|:----|:---------------|:----|:-----------------|:----|
+| **Paras**      | 29% | **Paras**      | 29% | **Jigglypuff**   | 29% |
+| Alolan Rattata | 25% | Bidoof         | 25% | Alolan Rattata   | 25% |
+| Patrat         | 17% | Patrat         | 17% | Poochyena        | 17% |
+| **Pidgey**     | 15% | Pidove         | 15% | Hoothoot         | 15% |
+| **Klink**      | 4%  | **Bellsprout** | 4%  | **Klink**        | 4%  |
+
+Catch a female Jigglypuff to breed later.
+
+There’s a few more shops to look through! First off, talk to the black belt in front of the Lilligant sign. He’s selling IPoké Balls* for $400 a pop which is definitely a rip off. However, if you buy four he’ll accidently give you a **Voltorb**!
+
+{: .text-blue-000}
+East Gearen City Mart
+
+| ITEM             | PRICE  |
+|:-----------------|:-------|
+| *Poké Ball*      | $200   |
+| *Burn Heal*      | $250   |
+| *Potion*         | $300   |
+| *Gourmet Treat*  | $1500  |
+| *Repel*          | $350   |
+| *Reverse Cancy*  | $50    |
+
+Here’s a good spot to sell all those repels you don’t need anymore. You can also sell any vitamins or wings since EV training items are easier to come by. Reverse Candies don’t seem incredibly useful until you realize that you can use Rare Candies to over level yourself past the hard cap to evolve or learn a move, then use the Reverse Candy to get yourself back down to the cap so your Pokémon doesn’t become truant. I recommend buying a couple of Gourmet Treats if you’re already out as well, since they’re always good to have on hand.
+
+Next to the mart there’s a guy next to a truck. He’s going to be how we fast travel around Floria Island, but we can’t do anything with him right now.
+
+Enter the Petal Salon. They sell haircuts on the top floor but you can’t get those until you finish a quest. For now just enjoy the berries sold on the first floor
+
+{: .text-blue-000}
+Berry Emporium
+
+| ITEM             | PRICE  |
+|:-----------------|:-------|
+| *Oran Berry*     | $200   |
+| *Pecha Berry*    | $300   |
+
+Consider getting a few of each for the early game.
+
+The building above sells specialty Poké Balls.
+
+{: .text-blue-000}
+Poké Ball Boutique
+
+| ITEM             | PRICE  |
+|:-----------------|:-------|
+| *Heavy Ball*     | $200   |
+| *Moon Ball*      | $300   |
+
+The rock to the right of the boutique that’s sitting in a patch of grass holds a hidden *Potion*. Go up and through the fence to get a *Super Repel* hidden in the rock to the right, as well as the *Super Potion* laying there to the left. There’s also a hidden *Resist Wing* in the rock behind the *Super Potion*.
+
+To the left of the berry filled backyard there’s an alleyway with new Pokémon.
+
+{: .text-blue-000}
+Gearen Alleyway
+
+| LAND          | %   | LAND          | %   | LAND          | %   |
+|:--------------|:----|:--------------|:----|:--------------|:----|
+| **Purrloin**  | 35% | **Drowzee**   | 32% | **Rattata**   | 20% |
+| Pidgey        | 10% | klink         | 4% |    |  |
+
+
+
+
+
 
 
 
