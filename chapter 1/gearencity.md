@@ -60,14 +60,14 @@ The patches of grass around East Gearen have opened so consider catching some Po
 {: .text-blue-000}
 East Gearen City (Left)
 
-| GRASS: MORNING      | %   | GRASS: DAY          | %   | GRASS: DAY          | %   |
-|:--------------------|:----|:--------------------|:----|:--------------------|:----|
-| **!Wurmple**        | 27% | **!Wurmple**        | 27% | **!Wurmple**        | 27% |
-| **!Wurmple**        | 27% | **!Wurmple**        | 27% | **!Wurmple**        | 27% |
-| **!Wurmple**        | 27% | **!Wurmple**        | 27% | **!Wurmple**        | 27% |
-| **!Wurmple**        | 27% | **!Wurmple**        | 27% | **!Wurmple**        | 27% |
-| **!Wurmple**        | 27% | **!Wurmple**        | 27% | **!Wurmple**        | 27% |
-| **!Wurmple**        | 27% | **!Wurmple**        | 27% | **!Wurmple**        | 27% |
+| GRASS: MORN         | %   | GRASS: DAY       | %   | GRASS: NIGHT         | %   |
+|:--------------------|:----|:-----------------|:----|:---------------------|:----|
+| **!Wurmple**        | 27% | **!Wurmple**     | 27% | **!Wurmple**         | 27% |
+| **!Alolan Rattata** | 25% | **!Bidoof**      | 25% | **!Alolan Rattata**  | 25% |
+| **!Patrat**         | 15% | **!Patrat**      | 15% | **!Poochyena**       | 15% |
+| **!Pidgey**         | 15% | **!Pidove**      | 15% | **!Hoothoot**        | 15% |
+| **!WBellsprout**    | 12% | **!Bellsprout**  | 12% | **!Oddish**          | 12% |
+| **!Sunkern**        | 6%  | **!Sunkern**     | 6%  | **!Chingling**       | 6%  |
 
 
 
