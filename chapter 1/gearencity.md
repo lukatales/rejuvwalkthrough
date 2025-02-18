@@ -69,6 +69,11 @@ East Gearen City (Left)
 | **!WBellsprout**    | 12% | **!Bellsprout**  | 12% | **!Oddish**          | 12% |
 | **!Sunkern**        | 6%  | **!Sunkern**     | 6%  | **!Chingling**       | 6%  |
 
+Wurmple evolving into Dustox is good for the first gym, as well as Chingling and Hoothoot. Alolan Rattata is also a certified beast in early game with the boosts it gets in City Field, as well as its significant speed.
+
+There’s a *Gourmet Treat* in a flowery tile in the grass patch below the lab, to the left of the round bush. These treats are used to encounter some event Pokémon, so make sure to always have a few on hand!
+
+Below that patch of grass there's a rock with a hidden *Poké Ball* in it. If you go to the right and down and talk to the nerd, he’ll give you a *Reverse Candy*. Below him and to the right there’s a rock with a *Potion*, and to the right there’s another rock with a *Green Shard*.  Go north of the charmer that battles you and in the patch of lighter colored grass to the right of the girl there's a hidden *Oran Berry*.
 
 
 
