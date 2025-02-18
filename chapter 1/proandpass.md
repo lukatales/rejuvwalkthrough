@@ -5,7 +5,7 @@ parent: Chapter 1 - Crossroads of Destiny
 nav_order: 1
 ---
 
-### PROLOGUE
+## PROLOGUE
 ---
 Once you start the game, it will show you a list of warnings, then ask if you would like to skip the prologue. If this is your first playthrough, I would recommend playing through it, but skipping it does not affect any story decisions later on.
 
@@ -15,7 +15,7 @@ Climb back up the stairs and go into the top room along the left wall to talk to
 
 Go down, right, and up towards the entrance and watch the end of the prologue.
 
-### INTRO AND PASSWORDS
+## INTRO AND PASSWORDS
 ---
 The game will now ask you what difficulty you would like to play on. I recommend Story mode for those that are more interested in the story, characters, and lore and are not interested in spending too much time figuring out hard battles, and Classic Mode for those that would like a bit more challenge and enjoy a puzzling battle or two. Regardless of what choice you make, you will be able to change the difficulty later. This guide will cover battles as they appear in **Classic Mode.**
 
@@ -120,7 +120,7 @@ You’ll be asked if you want to put down any passwords. Passwords are used to c
 - Enables an inconsistent Easter Egg:
   - hello eizen.
 
-### Password Packs
+## Password Packs
 - Combines the noitems, fullivs, easyhms, and norolls passwords:
   - casspack
   - goodtaste
@@ -133,7 +133,7 @@ You’ll be asked if you want to put down any passwords. Passwords are used to c
 
 If this is your first playthrough, I wouldn’t stress too much about passwords. Focus on the QOL ones if you’d like to make life a little easier for yourself or if you have a need to change the difficulty a little bit. You’ll be able to add or remove passwords later. Don’t enter the same password again if you’re using a password pack.
 
-### S.S. OCEANA
+## S.S. OCEANA
 ---
 After you’re done registering, exit the room to talk to your mom. The game will teach you about friendship values and how dialogue will affect how other characters will see you. Depending on your actions and dialogue you might see music notes above a character's head. Blue or gold music notes mean that you’ve gained favor with that character, while red notes mean that you’ve lost favor. Friendship values affect a variety of things, so respond how you would like, but just know that it’ll have consequences either way!
 
@@ -151,7 +151,7 @@ Once you’re ready to proceed, head upstairs to the third level and talk to Cap
 
 Watch the cutscene, then follow the only available path through the ship until you’re off of it.
 
-### OCEANA PIER
+## OCEANA PIER
 ---
 After you finish talking to Tesla, feel free to explore the pier, but you won’t be able to interact with much until you get your starter. Now’s a good time to look through your settings if you haven’t already. You can access  the photosensitivity/streamer mode here if you need it. 
 
