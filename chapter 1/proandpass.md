@@ -140,7 +140,8 @@ After you’re done registering, exit the room to talk to your mom. The game wil
 {: .fs-3 }
 I’ll be writing out each dialogue option with the amount of points that you can gain or lose. If a dialogue branch doesn’t affect the friendship values of a character, I won’t be mentioning it. STUPID
 
-**Friendship Value Choices**
+{: .text-blue-000}
+**Friendship Value Choeices**
   - I’m fine. (Mom +2)
   - … (Mom -1)
 
