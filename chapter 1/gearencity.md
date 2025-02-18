@@ -190,7 +190,38 @@ Gearen Alleyway
 | LAND          | %   | LAND          | %   | LAND          | %   |
 |:--------------|:----|:--------------|:----|:--------------|:----|
 | **Purrloin**  | 35% | **Drowzee**   | 32% | **Rattata**   | 20% |
-| Pidgey        | 10% | klink         | 4% |    |  |
+| Pidgey        | 10% | Klink         | 4% |    |  |
+
+There’s a *Red Shard* hidden on the floor 3 tiles four tiles right and two tiles up from the trainer, a *Blue Shard* in the rock along the bottom, and a *Rare Candy* in the rock at the top.
+
+Exit the alleyway, go down and then all the way to the right until you hit the ocean. You’ll see a **Buizel** staring sadly off into the ocean. Interact with it and win the battle against its old trainer to get it to join your team!
+
+Go up but don’t pass the hedges yet. Pick up the hidden *Paralyze Heal* on the left fence before entering the area. There’s an Iron in the upper left corner and a *Green Shard* in the blue and white flower tile  right before the maze entrance. In the maze you’ll find an *Antidote* in the top right, a hidden *Revive* in the bottom right (in a blue and white flower tile), a hidden *Repel* in the rock in the middle, and a hidden *Red Shard* next to *TM83 - Infestation*!
+
+Enter the Crisola Hotel.
+
+{: .text-blue-000}
+### CHRISOLA HOTEL
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
