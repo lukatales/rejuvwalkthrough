@@ -30,6 +30,7 @@ For those that’d like a strong starter to make the game a bit easier, Speed Bo
 
 Once you’ve picked out your starter, talk to Amanda and get ready for a battle! You can win or lose this one.
 
+{: .text-blue-000}
 **AMANDA BATTLE**
 
 ![amanda1](https://cdn.discordapp.com/attachments/1339439520315346994/1341229890699268116/image.png?ex=67b53d2c&is=67b3ebac&hm=69efa2ea3cbf330070b56ff6fcc9e090dc4afa5a48947e8c3fd6fd685ce4bd31&)  
