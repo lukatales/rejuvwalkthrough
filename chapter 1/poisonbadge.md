@@ -19,3 +19,39 @@ nav_order: 3
 {: .text-blue-000}
 ## THE POISON HEART BADGE
 ---
+
+It’s finally time to take on the first of many gym battles! This gym’s puzzle is pretty easy and there’s a shop in the lower left corner for convenience, even if you have to walk all the way back to the lab to heal. You can also catch some Pokémon here!
+
+{: .text-blue-000}
+East Gearen Gym Wild Battle Spaces
+
+| GRASS: MORN    | %   | GRASS: DAY    | %   | GRASS: NIGHT    | %   |
+|:---------------|:----|:--------------|:----|:----------------|:----|
+| Koffing    | 50% | Trubbish   | 25% | Grimer     | 15% |
+| **Skrelp**    | 10% | | | | |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
