@@ -1,5 +1,5 @@
 ---
-title: EAST GEAREN CITY
+title: THE POISON HEART BADGE
 layout: default
 parent: Chapter 1 - Crossroads of Destiny
 nav_order: 3
