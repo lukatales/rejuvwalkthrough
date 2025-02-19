@@ -313,7 +313,7 @@ Prism Pokémon have a 1% spawn rate, so get to grinding if you want to change ba
 Return to Mr. Luck once you have your new shiny Black Prism and complete the quest. Try and exit the room before Mr. Luck stops you, and you’ll unlock the Prism shop in his tent. Doxie provides items while Mr. Luck provides contracts that can change a variety of things in your playthrough.
 
 {: .text-blue-000}
-Marshie
+Doxie's Prism Shop
 
 | ITEM                | PRICE           |
 |:--------------------|:----------------|
@@ -323,10 +323,13 @@ Marshie
 | *10 Green Shards*   | 3 Black Prisms  |
 | *4 Nuggets*         | 3 Black Prisms  |
 | *3 Pearl Strings*   | 3 Black Prisms  |
-| *2 Cell Imprints    | 3 Black Prisms  |
+| *2 Cell Imprints*    | 3 Black Prisms  |
 | *3 Glitter Balls*   | 3 Black Prisms  |
 
 Useful trades if you’re in desperate need of a few items! Cell Imprints change one chosen stat to have 31 IVs, while Glitter Balls have a higher chance of catching shiny Pokémon or change the caught Pokémon into a shiny.
+
+{: .text-blue-000}
+Mr. Luck's Contracts
 
 | CONTRACT             | PRICE             |
 |:---------------------|:------------------|
@@ -359,7 +362,7 @@ You can stack different contracts together, but you can’t stack duplicate cont
 
 If you’re eyeing that ??? ? Just remember that Mr. Luck knows all, and you signed a contract (even if you didn’t bother reading it) that said you’re not allowed to cheat. And if you actually do get it legitimately… well you’ll have to wait for your reward until much later in the game. Sorry!
 
-
+Exit Gearen Park when you’re ready so we can finally continue the story! Enter the front yard of the house to the left of the gym to watch a cutscene, then go to the Berry Emporium to receive a Pecha Berry? From the clerk. Give it to the girl on the floor.
 
 
 
