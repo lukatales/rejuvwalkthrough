@@ -364,13 +364,117 @@ If you’re eyeing that ??? ? Just remember that Mr. Luck knows all, and you sig
 
 Exit Gearen Park when you’re ready so we can finally continue the story! Enter the front yard of the house to the left of the gym to watch a cutscene, then go to the Berry Emporium to receive a Pecha Berry? From the clerk. Give it to the girl on the floor.
 
+{: .text-blue-000}
+**Friendship Value Choices**
+ - All me. (Venam +2)
+ - Maybe (Venam +1)
+ - No, actually. (Neutral)
 
+Head to the right and down to watch a cutscene play out between Venam and Ren and enter the sewers.
 
+{: .text-blue-000}
+## Abandoned Sewers
+---
 
+You’ll be accompanied by Ren in all trainer and wild battlers once you enter and he’ll graciously heal your party after every battle too! If you want to catch a Pokémon with Ren around, you’ll have to knock out the other Pokémon you don’t want to get, but you can always come back here alone later if you don’t want to deal with that.
 
+Some stinky new Pokémon live here!
 
+{: .text-blue-000}
+Abandoned Sewers
 
+| LAND          | %   | LAND          | %   | OLD ROD          | %   |
+|:--------------|:----|:--------------|:----|:--------------|:----|
+| **Purrloin**  | 35% | **Drowzee**   | 32% | **Rattata**   | 20% |
+| Pidgey        | 10% | Klink         | 4% |    |  |
 
+Qwilfish is an incredibly useful Pokémon, especially later in the game. With its Intimidate ability to weaken enemy Pokémon (especially in double battles) and Destiny Bond that can be boosted with Swift Swim if necessary, it’s a great addition for a lot of the boss battles. If you want Geodude and Noibat I recommend waiting until just right after the first gym, since they’re much more common then.
 
+{: .text-blue-000}
+### Ruthless Pokémon
+---
 
+Time for a quick lesson on Ruthless Pokémon! These are the signature Boss Pokémon here in Rejuvenation and modeled after the shield system in Raid Dens with a lot more fun mechanics and dynamics. Melia will give you some handy note cards to educate yourself if you haven’t played through the game before but I’ll summarize and explain further details on them here:
+ - Each RP (Ruthless Pokémon) will have a set number of shields. Each shield is worth one full HP bar and when you break a shield you will trigger one of the shield break effects. After breaking the shields you will also have to knock out the RP on its own, so if you see a RP with 2 shields, you’ll have to lower that HP bar 3 times.
+ - When a shield breaks the effect takes place immediately, not at the end of the turn. HOWEVER, if its moveset changes it will still pull from the old moveset, not the new one it just got.
+ - Shield break effects can include one or multiple of the following: type changes, ability changes, field changes, weather changes, item changes, moveset changes, and stat changes. Pay attention to the text after a shield breaks as well as the type symbols in the UI so you’re never caught off guard!
+ - RP can call for help by summoning other Pokémon. These Pokémon do not have shields but if you defeat the RP first, you’ll still need to defeat the summoned Pokémon. If they’re summoned in the middle of a turn, summoned Pokémon don’t move until the next turn.
+ - You can PP stall a RP but once a shield breaks it may get a new move that will have its full PP. RP often change out their movesets so this strategy is not always completely viable unless you’re trying to set up for some kind of sweep or toxic stall.
+ - You can status a RP, but it might cleanse itself between shield breaks depending on the specific boss battle.
+ - Veteran players might remember that the old boss battles in Rejuvenation prohibited some moves to be used against RPs, but that’s no longer the case apart from a few restrictions. For example, Destiny Bond now works on RP but only once and only takes down one shield, after that it will always fail. Moves like Soak or Worry Seed also work, but some RP can cleanse themselves of those effects after a shield breaks.
 
+For this guide I’ll be using a specific template to try and streamline as much of the information on these boss fights as possible. The first column will have details on what happens when the battle starts and any changes with each shield break. The middle column will include any changes to movesets, type, ability, or item and have it line up with the shield break that it occurs in. The third column (which might not always be there) will include details on the Pokémon that the RP can summon, also lined up with the shield break that they start appearing in.
+
+{: .text-blue-000}
+Garbodor Boss Battle
+
+They’ve kept it pretty simple for your first boss fight, just keep an eye on that type change when all the shields go down, especially if you’re relying on psychic moves. Fast, hard hitting Pokémon will do good things here, especially with Ren and his 3 Pokémon at your side. 
+
+Watch the following cutscene until you gain control over yourself again. Before we do anything else let’s get the most important thing out of the way: gambling!
+
+{: .text-blue-000}
+### Chrisola Casino
+---
+
+There’s a total of 120 coins that you can find around the casino to get you started. 
+
+{: .text-blue-000}
+Coin Shop
+
+| ITEM           | PRICE  |
+|:---------------|:-------|
+| *Potion*       | $300   |
+| *Antidote*     | $100   |
+
+{: .text-blue-000}
+Left Shop
+
+| ITEM           | PRICE  |
+|:---------------|:-------|
+| *Potion*       | $300   |
+| *Antidote*     | $100   |
+
+{: .text-blue-000}
+Right Shop
+
+| ITEM           | PRICE  |
+|:---------------|:-------|
+| *Potion*       | $300   |
+| *Antidote*     | $100   |
+
+{: .text-blue-000}
+Lottery Corner
+
+| ITEM           | PRICE  |
+|:---------------|:-------|
+| *Potion*       | $300   |
+| *Antidote*     | $100   |
+
+You can get coins by buying them or playing your way around the casino. Voltorb Flip is the most efficient out of these games if you know how to play, and even if you don’t there’s a website that can calculate results for you to the best of its ability. There's still a bit of luck involved, but it’s still the most reliable way to grind out coins.
+
+[Voltorb Flip Calculator]([https://just-the-docs.com](http://voltorbflip.com/)){: .btn .btn-blue }
+
+Out of the prizes, Spoink is an easy choice for the first gym and Hidden Power is useful for adding variety to your movesets. We’ll also have to get Flash from here later, so you can grab it early if you’d like.
+
+After you’ve spent the next seven or eight hours gambling your life away, exit the casino to get a few more optional friendship values with Melia in Gearen Park by watching the cutscene.
+
+{: .text-blue-000}
+**Friendship Value Choices**
+ - You like photography? (Melia +1)
+ - Maybe (Neutral)
+
+{: .text-blue-000}
+**Friendship Value Choices**
+ - I love photography! (Melia +2)
+ - I appreciate the art! (Melia +1)
+ - It’s not for me. (Neutral)
+ - Photography’s boring. (Melia -2)
+
+Finishing the cutscene gets you an even higher value. (Melia +3)
+
+You can also go back to the library to fight Ren for some extra experience and cash!
+
+{: .text-blue-000}
+Ren Battle
+
+A simple Pokémon battle, all things considered. It’s finally time to head to East Gearen’s gym! It’s located right next to Venam’s house.
