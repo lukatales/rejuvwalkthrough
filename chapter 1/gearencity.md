@@ -109,7 +109,7 @@ Go to the Emerald Building and talk to the lady in the green dress, then beat th
 
 Exit and go further left to find a Help Plaza. This building acts as a hub for most of the sidequests in the game. As stated before, you can find sidequests both here and in the overworld - and some side quests won’t be connected to a Help Plaza at all, so be vigilant in your travels. I’ll be covering all of the sidequests found here later.
 
-Next to the Plaza you’ll find the library where you can enter for $300, but there’s really no need to just yet. Instead, take the stairs and talk to the person on the far right of the room. This is Zumi and she’ll give us a quest to find and catch a Dedenne, a task we’ll keep note of for later.
+Next to the plaza you’ll find the library where you can enter for $300, but there’s really no need to just yet. Instead, take the stairs and talk to the person on the far right of the room. This is Zumi and she’ll give us a quest to find and catch a Dedenne, a task we’ll keep note of for later.
 
 On the bridge next to this building you’ll be blocked by a thug who will force you to cough up $300 dollars or battle him to get passed. He uses 3 12-13 level Pokémon, so only battle him if you’re ready.
 
@@ -140,7 +140,7 @@ East Gearen City (Right)
 
 Catch a female Jigglypuff to breed later.
 
-There’s a few more shops to look through! First off, talk to the black belt in front of the Lilligant sign. He’s selling IPoké Balls* for $400 a pop which is definitely a rip off. However, if you buy four he’ll accidently give you a **Voltorb**!
+There’s a few more shops to look through! First off, talk to the black belt in front of the Lilligant sign. He’s selling *Poké Balls* for $400 a pop which is definitely a rip off. However, if you buy four he’ll accidently give you a **Voltorb**!
 
 {: .text-blue-000}
 East Gearen City Mart
@@ -383,10 +383,12 @@ Some stinky new Pokémon live here!
 {: .text-blue-000}
 Abandoned Sewers
 
-| LAND          | %   | LAND          | %   | OLD ROD          | %   |
-|:--------------|:----|:--------------|:----|:--------------|:----|
-| **Purrloin**  | 35% | **Drowzee**   | 32% | **Rattata**   | 20% |
-| Pidgey        | 10% | Klink         | 4% |    |  |
+| LAND            | %   | LAND         | %   | OLD ROD          | %   |
+|:----------------|:----|:-------------|:----|:--------------|:----|
+| Alolan Rattata  | 30% | Poochyena    | 10% | **Grimer**   | 70% |
+| **Trubbish**    | 15% | **Koffing**  | 9%  | **Qwilfish** | 30% |
+| **Gulpin**      | 12% | **Noibat**   | 7%  |    |  |
+| **Ekans**       | 10% | **Geodude**  | 2%  |    |  |
 
 Qwilfish is an incredibly useful Pokémon, especially later in the game. With its Intimidate ability to weaken enemy Pokémon (especially in double battles) and Destiny Bond that can be boosted with Swift Swim if necessary, it’s a great addition for a lot of the boss battles. If you want Geodude and Noibat I recommend waiting until just right after the first gym, since they’re much more common then.
 
@@ -421,34 +423,40 @@ There’s a total of 120 coins that you can find around the casino to get you st
 {: .text-blue-000}
 Coin Shop
 
-| ITEM           | PRICE  |
-|:---------------|:-------|
-| *Potion*       | $300   |
-| *Antidote*     | $100   |
+| ITEM            | PRICE  |
+|:----------------|:-------|
+| *50 Coins*      | $1000  |
+| *500 Coins*     | $10000 |
 
 {: .text-blue-000}
 Left Shop
 
-| ITEM           | PRICE  |
-|:---------------|:-------|
-| *Potion*       | $300   |
-| *Antidote*     | $100   |
+| ITEM                   | PRICE      |
+|:-----------------------|:-----------|
+| *TM70 - Flash*         | 1000 Coins |
+| *TM10 - Hidden Power*  | 5000 Coins |
 
 {: .text-blue-000}
 Right Shop
 
-| ITEM           | PRICE  |
-|:---------------|:-------|
-| *Potion*       | $300   |
-| *Antidote*     | $100   |
+| POKEMON         | PRICE  |
+|:----------------|:-------|
+| **Seel**        | 1000 Coins |
+| **Spoink**      | 4000 Coins |
+| **Maractus**    | 5000 Coins |
+| **Helioptile**  | 6000 Coins |
 
 {: .text-blue-000}
 Lottery Corner
 
-| ITEM           | PRICE  |
-|:---------------|:-------|
-| *Potion*       | $300   |
-| *Antidote*     | $100   |
+| ITEM          | #'S MATCHING  |
+|:--------------|:--------------|
+| *Master Ball* | 5   |
+| *Max Revive*  | 4   |
+| *Exp. Share*  | 3   |
+| *PP Up*       | 2   |
+| *Ultra Ball*  | 1   |
+
 
 You can get coins by buying them or playing your way around the casino. Voltorb Flip is the most efficient out of these games if you know how to play, and even if you don’t there’s a website that can calculate results for you to the best of its ability. There's still a bit of luck involved, but it’s still the most reliable way to grind out coins.
 
