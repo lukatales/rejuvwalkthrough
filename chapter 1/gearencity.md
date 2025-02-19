@@ -360,7 +360,7 @@ Shiny Pokémon are easier to find, but can run away suddenly like in Safari batt
 
 You can stack different contracts together, but you can’t stack duplicate contracts.
 
-If you’re eyeing that ??? ? Just remember that Mr. Luck knows all, and you signed a contract (even if you didn’t bother reading it) that said you’re not allowed to cheat. And if you actually do get it legitimately… well you’ll have to wait for your reward until much later in the game. Sorry!
+If you’re eyeing that ??? ust remember that Mr. Luck knows all, and you signed a contract (even if you didn’t bother reading it) that said you’re not allowed to cheat. And if you actually do get it legitimately… well you’ll have to wait for your reward until much later in the game. Sorry!
 
 Exit Gearen Park when you’re ready so we can finally continue the story! Enter the front yard of the house to the left of the gym to watch a cutscene, then go to the Berry Emporium to receive a Pecha Berry? From the clerk. Give it to the girl on the floor.
 
