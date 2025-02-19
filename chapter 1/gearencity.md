@@ -152,7 +152,7 @@ East Gearen City Mart
 | *Potion*         | $300   |
 | *Gourmet Treat*  | $1500  |
 | *Repel*          | $350   |
-| *Reverse Cancy*  | $50    |
+| *Reverse Candy*  | $50    |
 
 Here’s a good spot to sell all those repels you don’t need anymore. You can also sell any vitamins or wings since EV training items are easier to come by. Reverse Candies don’t seem incredibly useful until you realize that you can use Rare Candies to over level yourself past the hard cap to evolve or learn a move, then use the Reverse Candy to get yourself back down to the cap so your Pokémon doesn’t become truant. I recommend buying a couple of Gourmet Treats if you’re already out as well, since they’re always good to have on hand.
 
@@ -215,18 +215,23 @@ If you’ve been paying attention to the achievement pop ups you’ve noticed th
 {: .text-blue-000}
 AP Center
 
-| ITEM             | PRICE  | ITEM             | PRICE  |
-|:-----------------|:-------|:-----------------|:-------|
-| *Poké Ball*      | $200   | *Poké Ball*      | $200   |
-| *Burn Heal*      | $250   | *Poké Ball*      | $200   |
-| *Potion*         | $300   | *Poké Ball*      | $200   |
-| *Gourmet Treat*  | $1500  | *Poké Ball*      | $200   |
-| *Repel*          | $350   | *Poké Ball*      | $200   |
-| *Reverse Cancy*  | $50    | *Poké Ball*      | $200   |
-| *Potion*         | $300   | *Poké Ball*      | $200   |
-| *Gourmet Treat*  | $1500  | *Poké Ball*      | $200   |
-| *Repel*          | $350   | *Poké Ball*      | $200   |
-| *Reverse Cancy*  | $50    | *Poké Ball*      | $200   |
+| ITEM               | PRICE  | ITEM                 | PRICE  |
+|:-------------------|:-------|:---------------------|:-------|
+| *Adamant Mint*     | 3 AP   | *Golden Lantern*     | 10 AP  |
+| *Jolly Mint*       | 3 AP   | *Golden Surfboard*   | 10 AP  |
+| *Brave Mint*       | 3 AP   | *Golden Gauntlet*    | 15 AP  |
+| *Modest Mint*      | 3 AP   | *Golden Scuba Gear*  | 15 AP  |
+| *Timid Mint*       | 3 AP   | *Golden Wings*       | 15 AP  |
+| *Quiet Mint*       | 3 AP   | *Golden Jetpack*     | 20 AP  |
+| *Calm Mint*        | 3 AP   | *Golden Drift Board* | 20 AP  |
+| *Bold Mint*        | 3 AP   | *Golden Claws*       | 2 AP   |
+| *Naughty Mint*     | 3 AP   | *Exp. All*           | 30 AP  |
+| *Rash Mint*        | 3 AP   | *HP Card*            | 10 AP  |
+| *Lonely Mint*      | 3 AP   | *Attack Card*        | 10 AP  |
+| *Mild Mint*        | 3 AP   | *Defense Card*       | 10 AP  |
+| *Ability Capsule*  | 3 AP   | *Speed Card*         | 10 AP  |
+| *PP Up*            | 6 AP   | *SPAttack Card*      | 10 AP  |
+| *Golden Axe*       | 10 AP  | *SPDefense Card*     | 10 AP  |
 
 The cards allow you into each of their respective training rooms where you’ll find the respective Power item: *Power Anklet*, *Power Band*, *Power Belt*, *Power Bracer*, *Power Lens*, and *Power Weight*. I tend to focus on buying the golden items, starting with the Hammer since we get Rock Smash first.
 
@@ -235,13 +240,13 @@ That’s all we can do here for now so let’s go up to the rooftop where there 
 {: .text-blue-000}
 Chrisola Rooftop (Right)
 
-| GRASS: MORN    | %   | GRASS: DAY     | %   | GRASS: NIGHT     | %   |
-|:---------------|:----|:---------------|:----|:-----------------|:----|
-| **Paras**      | 29% | **Paras**      | 29% | **Jigglypuff**   | 29% |
-| Alolan Rattata | 25% | Bidoof         | 25% | Alolan Rattata   | 25% |
-| Patrat         | 17% | Patrat         | 17% | Poochyena        | 17% |
-| **Pidgey**     | 15% | Pidove         | 15% | Hoothoot         | 15% |
-| **Klink**      | 4%  | **Bellsprout** | 4%  | **Klink**        | 4%  |
+| GRASS: MORN  | %   | GRASS: DAY     | %   | GRASS: NIGHT | %   |
+|:-------------|:----|:---------------|:----|:-------------|:----|
+| **Skitty**   | 29% | **Paras**      | 29% | Purrloin     | 29% |
+| **Caterpie** | 22% | **Caterpie**   | 22% | **Weedle**   | 22% |
+| **Glameow**  | 25% | **Glameow**    | 25% | **Meowth**   | 25% |
+| Meowth       | 10% | Meowth         | 10% | **Glameow**  | 10% |
+| Bellsprout   | 4%  | Bellsprout     | 4%  | Oddish       | 4%  |
 
 There’s an Audino breeder here that will make grinding a breeze. Each time you beat them you’ll get *3 Exp. Candy S*. In the center of the rooftop there’s also a white-haired trainer with a quest marker, but I highly recommend waiting before you interact with her.
 
@@ -256,15 +261,17 @@ Ignore the gym and the house next to it for now and continue to the left where y
 Head back to the right and down to enter Gearen Park where you’ll find a new set of available Pokémon.
 
 {: .text-blue-000}
-Gearen Park (Right)
+Gearen Park 
 
-| GRASS: MORN    | %   | GRASS: DAY     | %   | GRASS: NIGHT     | %   |
-|:---------------|:----|:---------------|:----|:-----------------|:----|
-| **Paras**      | 29% | **Paras**      | 29% | **Jigglypuff**   | 29% |
-| Alolan Rattata | 25% | Bidoof         | 25% | Alolan Rattata   | 25% |
-| Patrat         | 17% | Patrat         | 17% | Poochyena        | 17% |
-| **Pidgey**     | 15% | Pidove         | 15% | Hoothoot         | 15% |
-| **Klink**      | 4%  | **Bellsprout** | 4%  | **Klink**        | 4%  |
+| GRASS: MORN    | %   | GRASS: DAY    | %   | GRASS: NIGHT    | %   |
+|:---------------|:----|:--------------|:----|:----------------|:----|
+| **Pansage**    | 27% | **Pansear**   | 27% | **Panpour**     | 27% |
+| **Spearow**    | 25% | **Spearow**   | 25% | **Spearow**     | 25% |
+| **Psyduck**    | 15% | **Psyduck**   | 15% | **Psyduck**     | 15% |
+| **Skwovet**    | 15% | **Skwovet**   | 15% | **Stunky**      | 15% |
+| **Fomantis**   | 12% | **Fomantis**  | 12% | **Kricketot**   | 12% |
+| **Seedot**     | 6%  | **Seedot**    | 6%  | **Seedot**      | 6%  |
+| **Mankey**     | 6%  | **Mankey**    | 6%  | **Mankey**      | 6%  |
 
 The blue flowers to the right of the entrance have a *Blue Shard* hidden in them. There’s a hidden *Honey* to the right of the large rock formation in the tile next to it with no tall grass. Go down just a little bit to get a hidden *Carbos* in one of the flower patches of grass between the teal and dark green tree. Go back up and grab the other *Honey* in one of the purple flowers.
 
@@ -283,10 +290,74 @@ This tent will serve as the hub for a number of things. For one, the Marshadow i
 {: .text-blue-000}
 Marshie
 
-| ITEM             | PRICE  |
-|:-----------------|:-------|
-| *Heavy Ball*     | $200   |
-| *Moon Ball*      | $300   |
+| MOVE           | PRICE           |
+|:---------------|:----------------|
+| Bind           | 2 Red Shards    |
+| Covet          | 2 Blue Shards   |
+| Block          | 2 Yellow Shards |
+| Spite          | 2 Green Shards  |
+| Swift          | 2 Yellow Shards |
+| After You      | 2 Red Shards    |
+| Gravity        | 2 Green Shards  |
+| Magic Coat     | 2 Blue Shards   |
+| Venom Drench   | 2 Blue Shards   |
+
+Nothing extraordinary, but a few that can be used in fun strats if you’d like. There’s a PC star on the rightmost wall if you wanna change out your Pokémon to teach them moves.
+
+Talk to Mr. Luck when you’re ready, but be careful and make sure to read through his dialogue carefully. I wouldn’t want you to sign any contracts without your explicit consent, y’know? Unfortunately, signing Mr. Luck’s contract is actually the only way to continue with his quest, so we’re just going to have to hope for the best and sign it anyway!
+
+Surprise, he’s changed you into the legacy design of your chosen character! Talk to him again and follow him to the room on the right to find out about Prism Pokémon and Black Prisms. If you’ve encountered a Pokémon with a rainbow aura then you’ve already figured out that they get a +2 to each stat at the start of the battle. You’ll have to catch the rainbow Pokémon to take the Black Prism off of it. Unfortunately, equipping that prism onto your own Pokémon won’t give us that stat boost, but at least your Pokémon will look pretty!
+
+Prism Pokémon have a 1% spawn rate, so get to grinding if you want to change back to your original sprite.
+
+Return to Mr. Luck once you have your new shiny Black Prism and complete the quest. Try and exit the room before Mr. Luck stops you, and you’ll unlock the Prism shop in his tent. Doxie provides items while Mr. Luck provides contracts that can change a variety of things in your playthrough.
+
+{: .text-blue-000}
+Marshie
+
+| ITEM                | PRICE           |
+|:--------------------|:----------------|
+| *10 Green Shards*   | 3 Black Prisms  |
+| *10 Green Shards*   | 3 Black Prisms  |
+| *10 Green Shards*   | 3 Black Prisms  |
+| *10 Green Shards*   | 3 Black Prisms  |
+| *4 Nuggets*         | 3 Black Prisms  |
+| *3 Pearl Strings*   | 3 Black Prisms  |
+| *2 Cell Imprints    | 3 Black Prisms  |
+| *3 Glitter Balls*   | 3 Black Prisms  |
+
+Useful trades if you’re in desperate need of a few items! Cell Imprints change one chosen stat to have 31 IVs, while Glitter Balls have a higher chance of catching shiny Pokémon or change the caught Pokémon into a shiny.
+
+| CONTRACT             | PRICE             |
+|:---------------------|:------------------|
+| Technique Contract   | 3 Black Prisms    |
+| Wealth Contract      | 3 Black Prisms    |
+| Shiny Contract       | 0 Black Prisms    |
+| Legacy Contract      | 5 Black Prisms    |
+| Aevis Contract       | 5 Black Prisms    |
+| Aevia Contract       | 5 Black Prisms    |
+| Axel  Contract       | 5 Black Prisms    |
+| Ariana Contract      | 5 Black Prisms    |
+| Alain Contract       | 5 Black Prisms    |
+| Aero Contract        | 5 Black Prisms    |
+| Ana Contract         | 5 Black Prisms    | 
+| Difficulty Contract  | 0 Black Prisms    |
+| ???                  | 999 Black Prisms  |
+
+Here’s where you can change the difficulty of the game, change your chosen protagonist sprite, or sign one of the many contracts that Mr. Luck has for you.
+
+**The Technique Contract**
+Makes Pokémon harder to catch for the next 20 encounters, but they can have rarer moves. What this means is that one of the moves in a Pokémons learn set is replaced with one move from its egg move, TM, or tutor move pool completely randomly. For example, if I encounter a Hoothoot it might replace Echoed Voice, a move that it learns at level 13, with Shadow Ball, a move that it can learn through TM. This contract works on wild Pokémon, Legendaries, static encounters like event Pokémon, and basically anything you can battle capture. It does NOT work on gift Pokémon, shadow and raid den Pokémon, and Pokémon that already come with four event moves.
+
+**The Wealth Contract**
+You won’t receive any prize money for the next 10 battles, but the following 10 will have double the money. This can kind of be useful if you time it right by fighting rich trainers, but overall is outclassed by items like an Amulet Coin later on.
+
+**The Shiny Contract**
+Shiny Pokémon are easier to find, but can run away suddenly like in Safari battles for the next 80 encounters. Trapping moves or abilities like Mean Look and Shadow Tag do not work on stopping these Pokémon from escaping. This contract works on Pokémon you can battle and catch and static event Pokémon. It does NOT work on gift Pokémon or Pokémon hatched from eggs.
+
+You can stack different contracts together, but you can’t stack duplicate contracts.
+
+If you’re eyeing that ??? ? Just remember that Mr. Luck knows all, and you signed a contract (even if you didn’t bother reading it) that said you’re not allowed to cheat. And if you actually do get it legitimately… well you’ll have to wait for your reward until much later in the game. Sorry!
 
 
 
