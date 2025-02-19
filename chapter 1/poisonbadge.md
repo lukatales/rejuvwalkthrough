@@ -30,6 +30,15 @@ East Gearen Gym Wild Battle Spaces
 | Koffing    | 50% | Trubbish   | 25% | Grimer     | 15% |
 | **Skrelp**    | 10% | | | | |
 
+{: .text-blue-000}
+East Gearen Gym Mart
+
+| ITEM           | PRICE  |
+|:---------------|:-------|
+| *Potion*       | $300   |
+| *Antidote*     | $100   |
+| *Repel*        | $350   |
+| *Poké Ball*    | $200   |
 
 
 
