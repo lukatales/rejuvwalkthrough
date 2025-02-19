@@ -373,7 +373,7 @@ Exit Gearen Park when you’re ready so we can finally continue the story! Enter
 Head to the right and down to watch a cutscene play out between Venam and Ren and enter the sewers.
 
 {: .text-blue-000}
-## Abandoned Sewers
+## ABANDONED SEWERS
 ---
 
 You’ll be accompanied by Ren in all trainer and wild battlers once you enter and he’ll graciously heal your party after every battle too! If you want to catch a Pokémon with Ren around, you’ll have to knock out the other Pokémon you don’t want to get, but you can always come back here alone later if you don’t want to deal with that.
