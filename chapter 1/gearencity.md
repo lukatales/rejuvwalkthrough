@@ -452,7 +452,7 @@ Lottery Corner
 
 You can get coins by buying them or playing your way around the casino. Voltorb Flip is the most efficient out of these games if you know how to play, and even if you don’t there’s a website that can calculate results for you to the best of its ability. There's still a bit of luck involved, but it’s still the most reliable way to grind out coins.
 
-[Voltorb Flip Calculator]([https://just-the-docs.com](http://voltorbflip.com/)){: .btn .btn-blue }
+[Voltorb Flip Calculator](http://voltorbflip.com/){: .btn .btn-blue }
 
 Out of the prizes, Spoink is an easy choice for the first gym and Hidden Power is useful for adding variety to your movesets. We’ll also have to get Flash from here later, so you can grab it early if you’d like.
 
