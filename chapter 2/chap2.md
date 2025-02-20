@@ -22,7 +22,7 @@ nav_order: 3
 The following is everything that you should have gotten in Chapter 1 - Crossroads of Destiny:
 
 {: 	.text-blue-000}
-#### Z Cell Count
+##### Z Cell Count
 
 4
 
