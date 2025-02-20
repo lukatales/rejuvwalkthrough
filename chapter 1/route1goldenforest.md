@@ -81,6 +81,10 @@ You’ll get *5 Exp. Candy S* and *5 Great Balls* for the trauma. (+1 Karma)
 
 Head all the way north until you see the cave entrance, then take a left on the bridge. At the end of this path there’s a rock (just above a yellow flower) that has a hidden Potion. Enter the cave when you’re ready.
 
+{: .text-blue-000}
+## GOLDENWOOD CAVE
+---
+
 An even newer area and even newer Pokémon are here.
 
 {: .text-blue-000}
@@ -123,6 +127,10 @@ Welcome to the Silent Grove! You can follow Melia all the way up to the castle-l
 MeliaBattle
 
 Melia doesn’t get a boost to basically anything on her team on this field, so this battle is pretty straightforward.
+
+{: .text-blue-000}
+## TEAM XEN AMBUSH
+---
 
 Follow Melia out of the Silent Grove, then out of the Goldenwood Cave. After the cutscene type in 3845 first to get an *Ability Capsule*, then 6489 to get yourself a free *Snag Machine* and *15 Poké Balls*!
 
