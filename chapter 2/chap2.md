@@ -27,9 +27,97 @@ The following is everything that you should have gotten in Chapter 1 - Crossroad
  - *TM60 - Quash*
 
 {: 	.text-blue-000}
+##### Mega Stone, Z-Crystal Count, and Crest:
+
+**0**
+
+{: 	.text-blue-000}
 ##### Pokémon Count:
 
-(This includes all of the newly caught Pokémon, not Pokémon hat could have been evolved from them or, in future chapters, from previously obtained Pokémon)
+(This includes all of the newly caught Pokémon, not Pokémon hat could have been evolved from them or, in future chapters, from previously obtained Pokémon. Meaning, if you evolved you Fletchling into a Fletchinder, the Fletchinder will not appear on this list, as it is not available to be caught)
+
+ - Wurmple
+ - Alolan Rattata
+ - Patrat
+ - Pidgey
+ - Bellsprout
+ - Sunkern
+ - Bidoof
+ - Pidove
+ - Poochyena
+ - Hoothoot
+ - Oddish
+ - Chingling
+ - Nidoran M
+ - Fletchling
+ - Pachirisu
+ - Nidoran F
+ - Shuppet
+ - Paras
+ - Klink
+ - Jigglypuff
+ - Voltorb
+ - Purrloin
+ - Drowzee
+ - Rattata
+ - Buizel
+ - Skitty
+ - Caterpie
+ - Glameow
+ - Meowth
+ - Weedle
+ - Pansage
+ - Pansear
+ - Panpour
+ - Spearow
+ - Psyduck
+ - Skwovet
+ - Fomantis
+ - Seedot
+ - Mankey
+ - Stunky
+ - Kricketot
+ - Unown
+ - Trubbish
+ - Gulpin
+ - Ekans
+ - Koffing
+ - Noibat
+ - Geodude
+ - Grimer
+ - Qwilfish
+ - Seel
+ - Spoink
+ - Maractus
+ - Helioptile
+ - Skrelp
+ - Gossifleur
+ - Litleo
+ - Pichu
+ - Sentret
+ - Scatterbug
+ - Deerling
+ - Furret
+ - Sewaddle
+ - Kakuna
+ - Metapod
+ - Furret
+ - Whismur
+ - Spewpa
+ - Finneon
+ - Yanma
+ - Woobat
+ - Goldeen
+ - Aevian Sewaddle
+
+
+
+
+
+
+
+
+
 
 
 
