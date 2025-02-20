@@ -4,9 +4,10 @@ layout: default
 nav_order: 2
 ---
 
-# S.S. OCEANA
-
 {: 	.text-blue-000}
-**NOVAE AND RORIM BATTLE**
+# CHAPTER SUMMARY
+---
 
-![Novae and Rorim](https://media.discordapp.net/attachments/1339439520315346994/1341146343053332540/image.png?ex=67b4ef5d&is=67b39ddd&hm=49653f29d1da019f481c76cb5e4f206a34cbed1088abd4440b37bf17fc1e4458&=&format=webp&quality=lossless)  
+This is the home page for the chapter. While there's nothing to show here since it is the start of the game, these home pages will provide a checklist for completion. They'll list all of the new Pokémon that you should have caught for a living PokéDex; the number of ZCells; the TMs; and the Mega Stones, Z-Crystals and Crests that you should have gotten before started the next chapter.
+
+Hopefully these will help you keep track of all of the items necessary for 100% completion.
