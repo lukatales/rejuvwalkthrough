@@ -62,7 +62,7 @@ Gearen Alleyway (Gym Entrance)
 There’s another hidden *Psychic Gem* 4 tiles to the right of the rock above the warp pad, and a *Fresh Water* in the bin with the yellow stuff in it. You can also get a **Seviper** Egg at the very end of the alley! Go back and step on the left tile, then the center heart tile when you’re ready to battle.
 
 {: .text-blue-000}
-Venam Battle
+VenamBattle
 
 Make sure to listen to the advice that Jan gives out from that podium whenever you get to a gym battle as he’ll have some really solid advice as well as information about each gym leader’s ace and their signature move. 
 
