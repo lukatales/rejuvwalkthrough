@@ -56,7 +56,7 @@ Gearen Alleyway (Gym Entrance)
 
 | LAND          | %   | LAND          | %   | LAND          | %   |
 |:--------------|:----|:--------------|:----|:--------------|:----|
-| **Purrloin**  | 35% | **Drowzee**   | 32% | **Rattata**   | 20% |
+| Purrloin      | 35% | Drowzee       | 32% | **Rattata     | 20% |
 | Pidgey        | 10% | Klink         | 4% |    |  |
 
 There’s another hidden *Psychic Gem* 4 tiles to the right of the rock above the warp pad, and a *Fresh Water* in the bin with the yellow stuff in it. You can also get a **Seviper** Egg at the very end of the alley! Go back and step on the left tile, then the center heart tile when you’re ready to battle.
