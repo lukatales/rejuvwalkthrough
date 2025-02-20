@@ -105,7 +105,9 @@ Exit and go to the right, all the way to where you fought that charmer and go up
  - To the left of the tree where you battled that Charmer
  - To the right of the Purple Building where you can battle it
 
-Go to the Emerald Building and talk to the lady in the green dress, then beat the guy in front of the elevator to be able to use it. The second floor will have a *Red Shard* in the bottom left corner. Talking to the red-haired girl will grant you a *Full Heal*, talking to the old woman will grant you a *Super Repel*, and talking to the brown haired lady will grant you a *Chesto Berry*. Enter the third floor at night time for the chance to battle a level 5 **Shuppet**. Ghost Pokémon that can learn Curse, and any Pokémon that can learn Destiny Bond for that matter, are incredibly valuable to help with some of the harder boss fights in the game, so consider catching it.
+In this area pick up the hidden *Gourmet Treat* on the rightmost tile of the three shipping crates and the hidden *Super Repel* in the little crevice on the building's wall tile.
+
+Go to the Emerald Building and talk to the lady in the green dress, then beat the guy in front of the elevator to be able to use it. The second floor will have a *Red Shard* in the bottom left corner. Talking to the red-haired girl will grant you a *Full Heal* and talking to the old woman will grant you a *Super Repel*.. Enter the third floor at night time for the chance to battle a level 5 **Shuppet**. Ghost Pokémon that can learn Curse, and any Pokémon that can learn Destiny Bond for that matter, are incredibly valuable to help with some of the harder boss fights in the game, so consider catching it.
 
 Exit and go further left to find a Help Plaza. This building acts as a hub for most of the sidequests in the game. As stated before, you can find sidequests both here and in the overworld - and some side quests won’t be connected to a Help Plaza at all, so be vigilant in your travels. I’ll be covering all of the sidequests found here later.
 
@@ -117,7 +119,7 @@ Since this is your first real “hurdle,” now’s a good time to talk about wh
 
 Beating the thug in a battle will grant you (+1 Karma), a variable used to track your good deeds around Aevium.
 
-Hidden in the rock in the patch of grass is a *Super Potion*. There’s also a *Red Shard* to the right of the guard blocking the station entrance in one of the flower patches of grass.
+Hidden in the rock in the patch of grass is a *Super Potion* and there's a hidden *Yellow Shard* on the top tile of the dumpster before the little girl. There’s also a *Red Shard* to the right of the guard blocking the station entrance in one of the flower patches of grass.
 
 Head all the way back toward the right to enter the next section of East Gearen City. We’re not even close to being done!
 
@@ -180,7 +182,7 @@ Poké Ball Boutique
 | *Heavy Ball*     | $200   |
 | *Moon Ball*      | $300   |
 
-The rock to the right of the boutique that’s sitting in a patch of grass holds a hidden *Potion*. Go up and through the fence to get a *Super Repel* hidden in the rock to the right, as well as the *Super Potion* laying there to the left. There’s also a hidden *Resist Wing* in the rock behind the *Super Potion*.
+The rock to the right of the boutique that’s sitting in a patch of grass holds a hidden *Potion*. Go up and through the fence to get a *Super Repel* hidden in the rock to the right, as well as the *Super Potion* laying there to the left. There’s also a hidden *Resist Wing* in the rock behind the Super Potion.
 
 To the left of the berry filled backyard there’s an alleyway with new Pokémon.
 
@@ -256,7 +258,9 @@ Go back into the elevator and grab yourself a *Repel* in the pool room, hidden i
 
 We’re done with the hotel for now, so let’s exit and go straight down in between the train station and the gym. There’s a *Reverse Candy* waiting for us to pick it up, and in the grass patch to the left there's a hidden *Tiny Mushroom* in the sixth patch of grass. 3 tiles to the right and 2 tiles up from the biker there’s a *Blue Shard* on the floor.
 
-Ignore the gym and the house next to it for now and continue to the left where you can enter the Aqua Building. Pick up the *Iron* on the first floor as well as the *Old Rod*! There’s a mysterious tenant on the third floor that will battle you, but I don’t recommend it. She’ll seem easy at first until you get jumpscared by a level 80 Pokémon. Let’s just leave her alone for now and exit the building with no sudden movements.
+Ignore the gym and the house next to it for now and continue to the left, picking up the hidden *Repel* 3 tiles down and 5 tiles right of the blond trainer. Near the locked house below him you'll find a hidden *Heart Scale* in the barrels. Go up the bridge and interact with the dumpster across the hiker to get a hidden *Clever Wing*.
+
+Head inside the Aqua Building. Pick up the *Iron* on the first floor as well as the *Old Rod*! There’s a mysterious tenant on the third floor that will battle you, but I don’t recommend it. She’ll seem easy at first until you get jumpscared by a level 80 Pokémon. Let’s just leave her alone for now and exit the building with no sudden movements.
 
 Head back to the right and down to enter Gearen Park where you’ll find a new set of available Pokémon.
 
