@@ -40,7 +40,7 @@ The following is everything that you should have gotten in Chapter 1 - Crossroad
 {: 	.text-blue-000}
 ##### Mega Stone, Z-Crystal, and Crest Count
 
-**None available**
+None available
 
 {: 	.text-blue-000}
 ##### Pokémon Count
