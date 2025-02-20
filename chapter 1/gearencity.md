@@ -44,14 +44,14 @@ For those that’d like a strong starter to make the game a bit easier, Speed Bo
 Once you’ve picked out your starter, talk to Amanda and get ready for a battle! You can win or lose this one.
 
 {: .text-blue-000}
-Amanda Battle
+AmandaBattle
 
 You can press the ‘S’ key to check the stat changes of all the Pokémon on the field, as well as the field effect, weather, screens, and other nifty information. Amanda will give you 5 Poké Balls to get started after the battle.
 
 Go back down to talk to Professor Jenner where you’ll fight Ren. You can win or lose this one too!
 
 {: .text-blue-000}
-Ren Battle
+RenBattle
 
 After battling, Jenner will ask you to check in on his daughter Melia on Route 1. For your trouble you get a *Pokédex* and a *Cybernav*! The Pokédex is self explanatory, but there’s a few features on the Cybernav that are very helpful to us. You can check where you are with the “Map” and change what music you’re listening to with the “Jukebox” apps. “Achievements” allows you to track your progress on all the achievements listed, and help you figure out what you need to do to complete them. “Spice Scent” essentially replaces the need for repels forever, as it changes the encounter rate. Don’t want to run back and forth waiting for an encounter? Set it to 9999 and you’ll be running into a Pokémon on every tile! Or you can set it to 0 and never run into any Pokémon at all! 
 
@@ -416,7 +416,7 @@ Time for a quick lesson on Ruthless Pokémon! These are the signature Boss Poké
 For this guide I’ll be using a specific template to try and streamline as much of the information on these boss fights as possible. The first column will have details on what happens when the battle starts and any changes with each shield break. The middle column will include any changes to movesets, type, ability, or item and have it line up with the shield break that it occurs in. The third column (which might not always be there) will include details on the Pokémon that the RP can summon, also lined up with the shield break that they start appearing in.
 
 {: .text-blue-000}
-Garbodor Boss Battle
+GarbodorBoss
 
 They’ve kept it pretty simple for your first boss fight, just keep an eye on that type change when all the shields go down, especially if you’re relying on psychic moves. Fast, hard hitting Pokémon will do good things here, especially with Ren and his 3 Pokémon at your side. 
 
@@ -491,6 +491,6 @@ Finishing the cutscene gets you an even higher value. (Melia +3)
 You can also go back to the library to fight Ren for some extra experience and cash!
 
 {: .text-blue-000}
-Ren Battle
+RenBattle
 
 A simple Pokémon battle, all things considered. It’s finally time to head to East Gearen’s gym! It’s located right next to Venam’s house.
