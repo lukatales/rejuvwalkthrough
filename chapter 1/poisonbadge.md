@@ -40,6 +40,15 @@ East Gearen Gym Mart
 | *Repel*        | $350   |
 | *Poké Ball*    | $200   |
 
+The teal haired girl to the left explains how the gym puzzle works, and the podium next to it contacts Jan to get some advice for the upcoming gym battle. 
+
+First, we want to step on the white tile in the center stage to teleport behind the shop desk and pick up the *Psychic Gem* in the trash. Talk to the merchant to go back to the main area.
+
+Enter the door in the top right and make your way across the tiles to the top, starting from the leftmost tile and continuing to press forward. Interact with the screen to turn on the power and step on the warp pad to the left to exit. 
+
+Do the same thing in the room to the left of the stage. You can now use the warp pads in the top room, but first we have to find out the secret about this gym! Battling and interacting with the blue haired girl in the center room, and then talking to the boy with the orange cap in the left room will give you the numbers to complete this 8 digit code: 2332-4332.
+
+Thankfully, the tiles are labeled for us! Go ahead and input the code and enter the room at the top. Step on the right tile to get teleported to an alleyway. Interact with the sign to get a cutscene.
 
 
 
