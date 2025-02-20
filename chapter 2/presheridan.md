@@ -54,28 +54,28 @@ There’s a *Carbos* down and to the right of the purple flower near the station
 {: .text-blue-000}
 Route 2 Grass
 
-| GRASS: MORN    | %   | GRASS: DAY    | %   | GRASS: NIGHT    | %   |
-|:---------------|:----|:--------------|:----|:----------------|:----|
-| **Pansage**    | 27% | **Pansear**   | 27% | **Panpour**     | 27% |
-| **Spearow**    | 25% | **Spearow**   | 25% | **Spearow**     | 25% |
-| **Psyduck**    | 15% | **Psyduck**   | 15% | **Psyduck**     | 15% |
-| **Skwovet**    | 15% | **Skwovet**   | 15% | **Stunky**      | 15% |
-| **Fomantis**   | 12% | **Fomantis**  | 12% | **Kricketot**   | 12% |
-| **Seedot**     | 6%  | **Seedot**    | 6%  | **Seedot**      | 6%  |
-| **Mankey**     | 6%  | **Mankey**    | 6%  | **Mankey**      | 6%  |
+| GRASS: MORN  | %   | GRASS: DAY   | %   | GRASS: NIGHT    | %   |
+|:-------------|:----|:-------------|:----|:----------------|:----|
+| Deerling     | 32% | **Combee**     | 32% | Drowzee       | 20% |
+| **Combee**   | 25% | **Cherubi**    | 44% | **Swirlix**   | 25% |
+| Spearow      | 20% | **Volbeat**    | 15% | **Illumise**  | 12% |
+| **Cherubi**  | 15% | **Pidgeotto**  | 5%  | **Spinarak**  | 15% |
+| **Dedenne**  | 4%  | **Dedenne**    | 4%  | Oddish        | 15% |
+| **Spritzee** | 2%  |                |     | Hoothoot      | 9%  |
+| **Swirlix**  | 2%  |                |     | Chingling     | 4%  |
 
 {: .text-blue-000}
 Route 2 Misc.
 
-| GRASS: MORN    | %   | GRASS: DAY    | %   | GRASS: NIGHT    | %   |
-|:---------------|:----|:--------------|:----|:----------------|:----|
-| **Pansage**    | 27% | **Pansear**   | 27% | **Panpour**     | 27% |
-| **Spearow**    | 25% | **Spearow**   | 25% | **Spearow**     | 25% |
-| **Psyduck**    | 15% | **Psyduck**   | 15% | **Psyduck**     | 15% |
-| **Skwovet**    | 15% | **Skwovet**   | 15% | **Stunky**      | 15% |
-| **Fomantis**   | 12% | **Fomantis**  | 12% | **Kricketot**   | 12% |
-| **Seedot**     | 6%  | **Seedot**    | 6%  | **Seedot**      | 6%  |
-| **Mankey**     | 6%  | **Mankey**    | 6%  | **Mankey**      | 6%  |
+| HEADBUTT TREES  | %   | ROCK SMASH    | %   | OLD ROD     | %   |
+|:----------------|:----|:--------------|:----|:------------|:----|
+| **Aipom**       | 55% | Geodude       | 90% | Finneon     | 100% |
+| **Crabrawler**  | 20% | Diglett       | 7%  |      |  |
+| **Pineco**      | 10% | **Shuckle**   | 3%  |      |  |
+| **Butterfree**  | 5%  |    |   |       |   |
+| **Burmy**       | 5%  |    |   |       |   |
+| Metapod         | 4%  |    |   |       |   |
+| **Beedrill**    | 1%  |    |   |       |   |
 
 Catch a Cherubi and make sure to keep it in your party for a quest later, and a Dedenne for Zumi. We also need an Aipom for later but there’s an easier spot to catch it in this route if you don’t have Headbutt.
 
@@ -90,10 +90,11 @@ Go back down and through the cave entrance.
 {: .text-blue-000}
 Gemstream Mine
 
-| LAND          | %   | LAND          | %   | ROCK SMASH          | %   |
-|:--------------|:----|:--------------|:----|:--------------|:----|
-| **Purrloin**  | 35% | **Drowzee**   | 32% | **Rattata**   | 20% |
-| Pidgey        | 10% | Klink         | 4% |    |  |
+| LAND         | %   | LAND        | %   | ROCK SMASH  | %   |
+|:-------------|:----|:------------|:----|:------------|:----|
+| **Cufant**   | 42% | **Dwebble** | 9%  | Diglett     | 75% |
+| **Stunfisk** | 15% | **Onix**    | 7%  | Geodude     | 15% |
+| **Carbink**  | 25% | Shuckle     | 1%  | Shuckle     | 10% |
 
 {: .text-blue-000}
 ZCell 005: Gemstream Mine (Night)
@@ -108,10 +109,11 @@ Talk to the reporter during the day to engage in a battle, then continue going r
 {: .text-blue-000}
 Route 2 Mystery Egg
 
-| LAND          | %   | LAND          | %   | ROCK SMASH          | %   |
-|:--------------|:----|:--------------|:----|:--------------|:----|
-| **Purrloin**  | 35% | **Drowzee**   | 32% | **Rattata**   | 20% |
-| Pidgey        | 10% | Klink         | 4% |    |  |
+| SKIDDO         | MUDBRAY       | GALARIAN PONYTA  |
+|:---------------|:--------------|:-----------------|
+| Milkdrink      | Double Edge   | High Horsepower  |
+| Grassy Terrain | Magnitude     | Morning Sun      |
+| Rollout        | Close Combat  | Charm  |
 
 There’s a hidden *Ability Capsule* in the rock behind the egg.
 
@@ -127,19 +129,27 @@ This is the Kecleon Bazaar! The items on the left are chosen at random every day
 {: .text-blue-000}
 Kecleon Bazaar
 
-| TOP RIGHT ITEM          | PRICE  | TOP LEFT ITEM           | PRICE  |
-|:---------------|:-------|:---------------|:-------|
-| *Potion*       | $300   | *Poké Ball*    | $200   |
-| *Antidote*     | $100   | *Poké Ball*    | $200   |
-| *Repel*        | $350   | *Poké Ball*    | $200   |
-| *Poké Ball*    | $200   | *Poké Ball*    | $200   |
+| TOP RIGHT ITEM  | PRICE  | TOP LEFT ITEM    | PRICE  |
+|:----------------|:-------|:-----------------|:-------|
+| *Super Potion*  | $500   | *Pomeg Berry*    | $8500  |
+| *Max Revive*    | $9500  | *Kelpsy Berry*   | $8500  |
+| *Full Heal*     | $200   | *Qualot Berry*   | $8500  |
+| *Max Potion*    | $1500  | *Hondew Berry*   | $8500  |
+| *Lava Cookie*   | $50    | *Tamato Berry*   | $8500  |
+| *Ice Heal*      | $50    | *Greppa Berry*   | $8500  |
+| *Full Restore*  | $1600  | *Sitrus Berry*   | $8500  |
+| *Revive*        | $1000  | *Leppa Berry*    | $8500  |
 
-| BOTTOM RIGHT ITEM          | PRICE  | BOTTOM LEFT ITEM           | PRICE  |
-|:---------------|:-------|:---------------|:-------|
-| *Potion*       | $300   | *Poké Ball*    | $200   |
-| *Antidote*     | $100   | *Poké Ball*    | $200   |
-| *Repel*        | $350   | *Poké Ball*    | $200   |
-| *Poké Ball*    | $200   | *Poké Ball*    | $200   |
+| BOTTOM RIGHT ITEM  | PRICE  | BOTTOM LEFT ITEM  | PRICE  |
+|:-------------------|:-------|:------------------|:-------|
+| *Protein*          | $6800  | *Black Prism*     | $25000 |
+| *HP Up*            | $6800  | *Ice Store*       | $25000 |
+| *Iron*             | $6800  | *Link Store*      | $25000 |
+| *Calcium*          | $6800  | *Galarica Cuff*   | $25000 |
+| *Zinc*             | $6800  | *Galarica Wreath* | $25000 |
+| *Carbos*           | $6800  | *Dusk Stone*      | $25000 |
+| *PP Up*            | $12800 | *Dawn Stone*      | $25000 |
+| *PP Max*           | $12800 | *Shiny Stone*     | $25000 |
 
 Exit the bazaar when you’re ready and head left. Catch one of the Aipoms walking around for a trade later. There’s a hidden *Exp. Candy S* on a grassy tile 5 tiles to the right and 2 tiles up from the cell.
 
@@ -159,20 +169,22 @@ Watch the cutscene. There’s some new Pokémon here!
 {: .text-blue-000}
 Amethyst Cave
 
-| LAND          | %   | LAND          | %   | ROCK SMASH          | %   |
-|:--------------|:----|:--------------|:----|:--------------|:----|
-| **Purrloin**  | 35% | **Drowzee**   | 32% | **Rattata**   | 20% |
-| Pidgey        | 10% | Klink         | 4% |    |  |
+| LAND          | %   | LAND        | %   | OLD ROD      | %   |
+|:--------------|:----|:------------|:----|:-------------|:----|
+| Woobat        | 42% | Diglett     | 9%  | **Remoraid** | 75% |
+| Geodude       | 29% | Carbink     | 7%  | **Barbaoch** | 15% |
+| **Sandshrew** | 15% |      |   |      |   |
 
 We’ll come back to this cave soon enough for all the goodies, so for now just go right and down the stairs.
 
 {: .text-blue-000}
 Amethyst Depths
 
-| LAND          | %   | LAND          | %   | ROCK SMASH          | %   |
-|:--------------|:----|:--------------|:----|:--------------|:----|
-| **Purrloin**  | 35% | **Drowzee**   | 32% | **Rattata**   | 20% |
-| Pidgey        | 10% | Klink         | 4% |    |  |
+| LAND          | %   | LAND      | %   | OLD ROD   | %   |
+|:--------------|:----|:----------|:----|:----------|:----|
+| Chingling     | 35% | **Natu**  | 32% | Goldeen   | 20% |
+| Geodude       | 35% | Diglett   | 32% | Barboach  | 20% |
+| Sandshrew     | 10% | Carbink   | 4%  |    |  |
 
 Go and talk to Ren.
 
