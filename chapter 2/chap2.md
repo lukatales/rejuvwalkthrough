@@ -124,7 +124,7 @@ The following is everything that you should have gotten in Chapter 1 - Crossroad
 {: 	.text-blue-000}
 ##### Rare Pokémon Details:
 
-(While these Pokémon are listed above, this will specifically  list any shadow Pokémon, Aevian forms, and Leganderies for easy viewing.)
+(While these Pokémon are listed above, this will specifically  list any shadow Pokémon, Aevian forms, and Legendaries for easy viewing.)
 
  - Aevian Sewaddle
  - Shadow Meowth
