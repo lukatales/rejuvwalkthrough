@@ -235,13 +235,13 @@ Go to the left to get yourself a *Telluric Seed* at the bottom of the docks, rig
 {: .text-blue-000}
 ZCell 010: Gearen Alleyway (Sewer Entrance)
 
-Enter the Help Plaza and go to the back to talk to Ayuda since you have more than 5 cells. He’ll give you *TM49 - Echoed Voice*. Speak to him again and he’ll give you a *Cell Imprint* for having 10 cells.
+Leave and go to the Help Plaza. Go to the back to talk to Ayuda since you have more than 5 cells. He’ll give you *TM49 - Echoed Voice*. Speak to him again and he’ll give you a *Cell Imprint* for having 10 cells. We'll come back when we have more later.
 
 Go next door to the library and show off Dedenne to Zumi, who in return will give us the *Advanced Pokédex*. This will show a lot more details about the Pokémon you catch like their learnsets, possible egg and TM moves, stats and a whole bunch of other information. Our next mission is to catch a Drifloon, but that’s a while off so don’t worry.
 
 Go to Chrisola Hotel and in a room on the right hallway there’s a woman with a **Shinx**. Talk to her and she’ll give it to you!
 
-Enter the right hallway and then enter the right room on the top section where the lady and her Mincinno is where she’ll ask you to chase after it. Go to the lobby to talk to it, then the left hallway and around until it gets taken by a couple of grunts. Follow them to Gearen Park and battle them until they let it go. Follow it back to the room where it was originally where the old lady will let you battle the **Minccino**.
+Enter the right room on the top section where the lady and her Mincinno is where she’ll ask you to chase after it. Go to the lobby to talk to it, then the left hallway and around until it gets taken by a couple of grunts. Follow them to Gearen Park and battle them until they let it go. Follow it back to the room where it was originally where the old lady will let you battle the **Minccino**.
 
 South of the sewer entrance you can enter Karrina’s hideout. Go down the elevator to talk to her and she’ll ask for your help to fight off a rival gang in Amethyst Cave.
 
