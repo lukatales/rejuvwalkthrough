@@ -138,7 +138,7 @@ Go back upstairs and talk to the bellboy that’s in the hallway to the left, an
 Claim your reward at the Help Plaza: $1100 and, a *Gourmet Treat*, and *TM119 - Magical Leaf*! (+1 Karma)
 
 {: .text-blue-000}
-## EAST GEAREN ZYGARD CELLS
+## EAST GEAREN ZYGARDE CELLS
 ---
 
 {: .text-blue-000}
