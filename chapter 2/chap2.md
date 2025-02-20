@@ -38,9 +38,9 @@ The following is everything that you should have gotten in Chapter 1 - Crossroad
  - *TM60 - Quash*
 
 {: 	.text-blue-000}
-##### Mega Stone, Z-Crystal Count, and Crest:
+##### Mega Stone, Z-Crystal, and Crest Count:
 
-**0**
+**None available**
 
 {: 	.text-blue-000}
 ##### Pokémon Count:
