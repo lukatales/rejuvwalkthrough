@@ -11,10 +11,12 @@ nav_order: 3
 The following is everything that you should have gotten in Chapter 1 - Crossroads of Destiny:
 
 {: 	.text-blue-000}
-**Four (4) ZCells**
+##### Z Cell Count
+
+**4**
 
 {: 	.text-blue-000}
-**The following TMs:**
+##### TM Count
 
  - *TM83 - Infestation*
  - *TM126 - Whirlpool*
@@ -25,10 +27,9 @@ The following is everything that you should have gotten in Chapter 1 - Crossroad
  - *TM60 - Quash*
 
 {: 	.text-blue-000}
-**The following Pokémon were newly available to catch (This does not include evolutions of these Pokémon):**
+##### Pokémon Count:
 
-
-
+(This includes all of the newly caught Pokémon, not Pokémon hat could have been evolved from them or, in future chapters, from previously obtained Pokémon)
 
 
 
