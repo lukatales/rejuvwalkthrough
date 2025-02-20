@@ -27,7 +27,7 @@ The following is everything that you should have gotten in Chapter 1 - Crossroad
 **4**
 
 {: 	.text-blue-000}
-#### TM Count
+##### TM Count
 
  - *TM83 - Infestation*
  - *TM126 - Whirlpool*
@@ -38,12 +38,12 @@ The following is everything that you should have gotten in Chapter 1 - Crossroad
  - *TM60 - Quash*
 
 {: 	.text-blue-000}
-#### Mega Stone, Z-Crystal, and Crest Count
+##### Mega Stone, Z-Crystal, and Crest Count
 
 None available
 
 {: 	.text-blue-000}
-#### Pokémon Count
+##### Pokémon Count
 
 (This includes all of the newly caught Pokémon, not Pokémon hat could have been evolved from them or, in future chapters, from previously obtained Pokémon. Meaning, if you evolved your Fletchling into a Fletchinder the Fletchinder will not appear on this list, as it is not available to be caught)
 
@@ -122,7 +122,7 @@ None available
  - Aevian Sewaddle
 
 {: 	.text-blue-000}
-#### Rare Pokémon Sightings
+##### Rare Pokémon Sightings
 
 (While these Pokémon are listed above, this will specifically  list any shadow Pokémon, Aevian forms, and Legendaries for easy viewing.)
 
