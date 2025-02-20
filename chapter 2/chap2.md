@@ -16,7 +16,7 @@ nav_order: 3
 ---
 
 {: 	.text-blue-000}
-# CHAPTER SUMMARY
+# CHAPTER CHECK LIST
 ---
 
 The following is everything that you should have gotten in Chapter 1 - Crossroads of Destiny:
