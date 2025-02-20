@@ -44,6 +44,10 @@ Pick up the *Super Repel* just above then head to the left. There’s a **Whismu
 
 Pick up *TM60 - Quash* before heading through the gate.
 
+{: .text-blue-000}
+## GOLDENWOOD FOREST
+---
+
 Newer area, even newer Pokémon!
 
 | LAND         | %   | LAND      | %   | OLD ROD      | %   |
