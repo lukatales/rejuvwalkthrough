@@ -109,7 +109,7 @@ In this area pick up the hidden *Gourmet Treat* on the rightmost tile of the thr
 
 Go to the Emerald Building and talk to the lady in the green dress, then beat the guy in front of the elevator to be able to use it. The second floor will have a *Red Shard* in the bottom left corner. Talking to the red-haired girl will grant you a *Full Heal* and talking to the old woman will grant you a *Super Repel*.. Enter the third floor at night time for the chance to battle a level 5 **Shuppet**. Ghost Pokémon that can learn Curse, and any Pokémon that can learn Destiny Bond for that matter, are incredibly valuable to help with some of the harder boss fights in the game, so consider catching it.
 
-Exit and go further left to find a Help Plaza. This building acts as a hub for most of the sidequests in the game. As stated before, you can find sidequests both here and in the overworld - and some side quests won’t be connected to a Help Plaza at all, so be vigilant in your travels. I’ll be covering all of the sidequests found here later.
+Exit and go further left to find a Help Plaza. This building acts as a hub for most of the sidequests in the game. As stated before, you can find sidequests both here and in the overworld - and some side quests won’t be connected to a Help Plaza at all, so be vigilant in your travels. I’ll be covering all of the sidequests found here in {: .text-blue-000} Post-Gym Quests.
 
 Next to the plaza you’ll find the library where you can enter for $300, but there’s really no need to just yet. Instead, take the stairs and talk to the person on the far right of the room. This is Zumi and she’ll give us a quest to find and catch a Dedenne, a task we’ll keep note of for later.
 
