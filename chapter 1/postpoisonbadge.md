@@ -73,6 +73,8 @@ After this quest you’ll be able to get haircuts for your Pokémon for $1500 on
 ### HQ 3: Hidden Library 1
 ---
 
+You must complete "Save Starly" before this quest.
+
 Go to Gearen Lab and talk to the backpacker upstairs in the archives room. Talk to the mother directly south of the Help Plaza, the orange-haired girl named Karrina south of the entrance to the sewers, and the Chrisola Hotel receptionist.
 
 Go back to the backpacker and tell him the library is intact, closed off, and about the Gearen tunnels.
@@ -91,7 +93,7 @@ Claim your reward at the Help Plaza: $350 and a *Nugget*. (+1 Karma)
 ### HQ 5: Dangerous Pokémon
 ---
 
-Prepare yourself for a battle and go to Oceana Pier. Take a left right when you come out of the gate to fight a pride of lions!
+Prepare yourself for a battle and go to Oceana Pier. Take a right when you come out of the gate to fight a pride of lions!
 
 {: .text-blue-000}
 Pyroar Boss Battle
@@ -117,7 +119,7 @@ Win the fight to claim your reward at the Help Plaza: $350 and **Pichu**! (+1 Ka
 ### HQ 7: Wretched Music
 ---
 
-You can only accept this quest at nighttime, but after you accept you can complete it at any time of day.
+You can only accept this quest at nighttime.
 
 Prepare for a battle, talk to the Chrisola Hotel receptionist and go to the basement.
 
