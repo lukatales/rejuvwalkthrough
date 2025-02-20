@@ -47,7 +47,7 @@ None available
 
 This includes all of the newly caught Pokémon, not Pokémon that could have been evolved from them or, in future chapters, from previously obtained Pokémon. Meaning, if you evolved your Fletchling into a Fletchinder the Fletchinder will not appear on this list, as it is not available to be caught.
 
-These Pokémon are in oughly appearance order.
+These Pokémon are roughly in appearance order.
 
  - Wurmple
  - Alolan Rattata
