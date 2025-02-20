@@ -48,7 +48,7 @@ Poké Ball Boutique
 Go to the Help Plaza to begin all of the quests around the city, accepting them from the bulletin board if you haven’t already. Talk to Ayuda in the top left corner to start the Zygarde quest! I’ll be showing the location of each cell in East Gearen after the Help Plaza quests but afterwards I’ll be covering them as they appear in the story.
 
 {: .text-blue-000}
-## HQ 1: Save Starly!
+### HQ 1: Save Starly!
 ---
 
 Talk to the black haired girl in Gearen Lab next to Nurse Joy to get started, then make your way down to Oceana Pier. Go to the southwest dock to defeat a trainer and watch a lovely cutscene. Go back to the girl in the lab to finish the quest.
@@ -138,7 +138,7 @@ Go back upstairs and talk to the bellboy that’s in the hallway to the left, an
 Claim your reward at the Help Plaza: $1100 and, a *Gourmet Treat*, and *TM119 - Magical Leaf*! (+1 Karma)
 
 {: .text-blue-000}
-## East Gearen Zygarde Cells
+## EAST GEAREN ZYGARD CELLS
 ---
 
 {: .text-blue-000}
