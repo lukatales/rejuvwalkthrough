@@ -292,7 +292,7 @@ Enter the tent and prepare for excellence.
 This tent will serve as the hub for a number of things. For one, the Marshadow in front of the bookcase is a Move Tutor. More Marshadows will appear with better and better moves as you progress throughout the story.
 
 {: .text-blue-000}
-Marshie
+Marshie (Green Eyes)
 
 | MOVE           | PRICE           |
 |:---------------|:----------------|
@@ -353,14 +353,11 @@ Mr. Luck's Contracts
 
 Here’s where you can change the difficulty of the game, change your chosen protagonist sprite, or sign one of the many contracts that Mr. Luck has for you.
 
-**The Technique Contract**
-Makes Pokémon harder to catch for the next 20 encounters, but they can have rarer moves. What this means is that one of the moves in a Pokémons learn set is replaced with one move from its egg move, TM, or tutor move pool completely randomly. For example, if I encounter a Hoothoot it might replace Echoed Voice, a move that it learns at level 13, with Shadow Ball, a move that it can learn through TM. This contract works on wild Pokémon, Legendaries, static encounters like event Pokémon, and basically anything you can battle capture. It does NOT work on gift Pokémon, shadow and raid den Pokémon, and Pokémon that already come with four event moves.
+**The Technique Contract:** Makes Pokémon harder to catch for the next 20 encounters, but they can have rarer moves. What this means is that one of the moves in a Pokémons learn set is replaced with one move from its egg move, TM, or tutor move pool completely randomly. For example, if I encounter a Hoothoot it might replace Echoed Voice, a move that it learns at level 13, with Shadow Ball, a move that it can learn through TM. This contract works on wild Pokémon, Legendaries, static encounters like event Pokémon, and basically anything you can battle capture. It does NOT work on gift Pokémon, shadow and raid den Pokémon, and Pokémon that already come with four event moves.
 
-**The Wealth Contract**
-You won’t receive any prize money for the next 10 battles, but the following 10 will have double the money. This can kind of be useful if you time it right by fighting rich trainers, but overall is outclassed by items like an Amulet Coin later on.
+**The Wealth Contract:** You won’t receive any prize money for the next 10 battles, but the following 10 will have double the money. This can kind of be useful if you time it right by fighting rich trainers, but overall is outclassed by items like an Amulet Coin later on.
 
-**The Shiny Contract**
-Shiny Pokémon are easier to find, but can run away suddenly like in Safari battles for the next 80 encounters. Trapping moves or abilities like Mean Look and Shadow Tag do not work on stopping these Pokémon from escaping. This contract works on Pokémon you can battle and catch and static event Pokémon. It does NOT work on gift Pokémon or Pokémon hatched from eggs.
+**The Shiny Contract:** Shiny Pokémon are easier to find, but can run away suddenly like in Safari battles for the next 80 encounters. Trapping moves or abilities like Mean Look and Shadow Tag do not work on stopping these Pokémon from escaping. This contract works on Pokémon you can battle and catch and static event Pokémon. It does NOT work on gift Pokémon or Pokémon hatched from eggs.
 
 You can stack different contracts together, but you can’t stack duplicate contracts.
 
@@ -395,6 +392,12 @@ Abandoned Sewers
 | **Ekans**       | 10% | **Geodude**  | 2%  |    |  |
 
 Qwilfish is an incredibly useful Pokémon, especially later in the game. With its Intimidate ability to weaken enemy Pokémon (especially in double battles) and Destiny Bond that can be boosted with Swift Swim if necessary, it’s a great addition for a lot of the boss battles. If you want Geodude and Noibat I recommend waiting until just right after the first gym, since they’re much more common then.
+
+There’s a hidden *Poison Gem* south of the boy with the orange cap along the wall and a *Great Ball* if you go right after crossing the bridge. Don’t cross the bridge to the left just yet, instead go up and right to grab the hidden *Zinc* in the corner below the bridge near the bug catcher. There’s a *Bold Mint* here too. Above the girl there’s a hidden *Potion* and a second *Potion* hidden in the barrel to the right. The bug catcher also gives you a *Pecha Berry*.
+
+Head back down and to the left to cross the bridge, and take another bridge down. If you got the girl to flush her case down, you’ll find yourself one *Coin Case* richer! There’s also a hidden *Reverse Candy* in the bottom left corner near the biker.
+
+Go back up and left to talk to Venam. The door gets locked from the inside, so go to the left and into the open door after grabbing the *Antidote*. You’re gonna have to activate the 3rd generator, then the 1st, then the 2nd to get the door to open again. Prepare yourself for a battle and head inside to watch a cutscene.
 
 {: .text-blue-000}
 ### Ruthless Pokémon
