@@ -50,26 +50,24 @@ Do the same thing in the room to the left of the stage. You can now use the warp
 
 Thankfully, the tiles are labeled for us! Go ahead and input the code and enter the room at the top. Step on the right tile to get teleported to an alleyway. Interact with the sign to get a cutscene.
 
+{: .text-blue-000}
+Gearen Alleyway (Gym Entrance)
 
 
+| LAND          | %   | LAND          | %   | LAND          | %   |
+|:--------------|:----|:--------------|:----|:--------------|:----|
+| **Purrloin**  | 35% | **Drowzee**   | 32% | **Rattata**   | 20% |
+| Pidgey        | 10% | Klink         | 4% |    |  |
 
+There’s another hidden *Psychic Gem* 4 tiles to the right of the rock above the warp pad, and a *Fresh Water* in the bin with the yellow stuff in it. You can also get a **Seviper** Egg at the very end of the alley! Go back and step on the left tile, then the center heart tile when you’re ready to battle.
 
+{: .text-blue-000}
+Venam Battle
 
+Make sure to listen to the advice that Jan gives out from that podium whenever you get to a gym battle as he’ll have some really solid advice as well as information about each gym leader’s ace and their signature move. 
 
+This one isn’t too hard with a bit of light prep work! You can supply your Pokémon with their own Oran Berries to give them that extra bit of health to take them to the end. The Psychic Gems we just got are also useful, especially if you brought a Chingling, Spoink, or Drowzee to the party. Other Pokémon that can do wonders here are Dustox with its resistances and Confusion, and Hoothoot who can also learn Confusion. If worst comes to worst you can always push your Pokémon right up to the level 18 cap to give yourself a serious edge. 
 
+The Convert Venue field isn’t utilized to its full potential in this fight, but keep an eye on how much hype it generates with the background, or Seviper will get really nasty with boosted Snarl and Dragon’s Tail to sweep through your entire team. Be careful of Grimer’s Screech too, since its power is amplified and can leave you extra vulnerable. You have a lot of tools at your disposal here so I believe in you, trainer!
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+You’ll be rewarded with the *Poison Heart Badge* and *TM102 - Poison Sweep*. Before you leave the gym you’ll also get the *Gather Cube* from Ayuda. Neat!
