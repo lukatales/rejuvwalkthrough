@@ -24,7 +24,7 @@ The following is everything that you should have gotten in Chapter 1 - Crossroad
 {: 	.text-blue-000}
 #### Z Cell Count
 
-**4**
+4
 
 {: 	.text-blue-000}
 ##### TM Count
@@ -45,7 +45,7 @@ None available
 {: 	.text-blue-000}
 ##### Pokémon Count
 
-(This includes all of the newly caught Pokémon, not Pokémon hat could have been evolved from them or, in future chapters, from previously obtained Pokémon. Meaning, if you evolved your Fletchling into a Fletchinder the Fletchinder will not appear on this list, as it is not available to be caught)
+(This includes all of the newly caught Pokémon, not Pokémon that could have been evolved from them or, in future chapters, from previously obtained Pokémon. Meaning, if you evolved your Fletchling into a Fletchinder the Fletchinder will not appear on this list, as it is not available to be caught)
 
  - Wurmple
  - Alolan Rattata
