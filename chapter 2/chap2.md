@@ -4,6 +4,17 @@ layout: default
 nav_order: 3
 ---
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+---
+
 {: 	.text-blue-000}
 # CHAPTER SUMMARY
 ---
@@ -110,15 +121,16 @@ The following is everything that you should have gotten in Chapter 1 - Crossroad
  - Goldeen
  - Aevian Sewaddle
 
+{: 	.text-blue-000}
+##### Rare Pokémon Details:
 
+(While these Pokémon are listed above, this will specifically  list any shadow Pokémon, Aevian forms, and Leganderies for easy viewing.)
 
-
-
-
-
-
-
-
+ - Aevian Sewaddle
+ - Shadow Meowth
+ - Shadow Finneon
+ - Shadow Cacnea
+ - Shadow Snorunt
 
 
 
