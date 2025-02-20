@@ -20,7 +20,7 @@ nav_order: 5
 ## ROUTE 1
 ---
 
-Enter the train station on the left side of East Gearaen. Tesla’s here to check on you! She’ll buy you a lifetime pass for this train and give you 3 *Potions*. You can go say hi to her at the hotel if you’d like, but it doesn’t give you any friendship. Talk to the old man in the top left corner and agree to help him before you get on the train.
+Enter the train station on the left side of East Gearen. Tesla’s here to check on you! She’ll buy you a lifetime pass for this train and give you 3 *Potions*. You can go say hi to her at the hotel if you’d like, but it doesn’t give you any friendship. Talk to the old man in the top left corner and agree to help him before you get on the train.
 
 New area, new Pokémon!
 
