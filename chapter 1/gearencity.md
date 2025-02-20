@@ -138,8 +138,8 @@ East Gearen City (Right)
 | **Paras**      | 29% | **Paras**      | 29% | **Jigglypuff**   | 29% |
 | Alolan Rattata | 25% | Bidoof         | 25% | Alolan Rattata   | 25% |
 | Patrat         | 17% | Patrat         | 17% | Poochyena        | 17% |
-| **Pidgey**     | 15% | Pidove         | 15% | Hoothoot         | 15% |
-| **Klink**      | 4%  | **Bellsprout** | 4%  | **Klink**        | 4%  |
+| Pidgey         | 15% | Pidove         | 15% | Hoothoot         | 15% |
+| **Klink**      | 4%  | Bellsprout     | 4%  | **Klink**        | 4%  |
 
 Catch a female Jigglypuff to breed later.
 
@@ -248,7 +248,7 @@ Chrisola Rooftop (Right)
 | **Skitty**   | 29% | **Paras**      | 29% | Purrloin     | 29% |
 | **Caterpie** | 22% | **Caterpie**   | 22% | **Weedle**   | 22% |
 | **Glameow**  | 25% | **Glameow**    | 25% | **Meowth**   | 25% |
-| Meowth       | 10% | Meowth         | 10% | **Glameow**  | 10% |
+| **Meowth**   | 10% | **Meowth**     | 10% | **Glameow**  | 10% |
 | Bellsprout   | 4%  | Bellsprout     | 4%  | Oddish       | 4%  |
 
 There’s an Audino breeder here that will make grinding a breeze. Each time you beat them you’ll get *3 Exp. Candy S*. In the center of the rooftop there’s also a white-haired trainer with a quest marker, but I highly recommend waiting before you interact with her.
