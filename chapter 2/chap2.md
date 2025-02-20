@@ -45,7 +45,9 @@ None available
 {: 	.text-blue-000}
 ##### Pokémon Count
 
-(This includes all of the newly caught Pokémon, not Pokémon that could have been evolved from them or, in future chapters, from previously obtained Pokémon. Meaning, if you evolved your Fletchling into a Fletchinder the Fletchinder will not appear on this list, as it is not available to be caught)
+This includes all of the newly caught Pokémon, not Pokémon that could have been evolved from them or, in future chapters, from previously obtained Pokémon. Meaning, if you evolved your Fletchling into a Fletchinder the Fletchinder will not appear on this list, as it is not available to be caught.
+
+These Pokémon are in oughly appearance order.
 
  - Wurmple
  - Alolan Rattata
@@ -124,13 +126,13 @@ None available
 {: 	.text-blue-000}
 ##### Rare Pokémon Sightings
 
-(While these Pokémon are listed above, this will specifically  list any shadow Pokémon, Aevian forms, and Legendaries for easy viewing.)
+While these Pokémon are listed above, this will specifically  list any shadow Pokémon, Aevian forms, and Legendaries for easy viewing.
 
- - Aevian Sewaddle
  - Shadow Meowth
  - Shadow Finneon
  - Shadow Cacnea
  - Shadow Snorunt
+ - Aevian Sewaddle
 
 
 
