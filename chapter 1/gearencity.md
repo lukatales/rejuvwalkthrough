@@ -198,7 +198,7 @@ There’s a *Red Shard* hidden on the floor 3 tiles four tiles right and two til
 
 Exit the alleyway, go down and then all the way to the right until you hit the ocean. You’ll see a **Buizel** staring sadly off into the ocean. Interact with it and win the battle against its old trainer to get it to join your team!
 
-Go up but don’t pass the hedges yet. Pick up the hidden *Paralyze Heal* on the left fence before entering the area. There’s an Iron in the upper left corner and a *Green Shard* in the blue and white flower tile  right before the maze entrance. In the maze you’ll find an *Antidote* in the top right, a hidden *Revive* in the bottom right (in a blue and white flower tile), a hidden *Repel* in the rock in the middle, and a hidden *Red Shard* next to *TM83 - Infestation*!
+Go up but don’t pass the hedges yet. Pick up the hidden *Paralyze Heal* on the left fence before entering the area. There’s an *Iron* in the upper left corner and a *Green Shard* in the blue and white flower tile  right before the maze entrance. In the maze you’ll find an *Antidote* in the top right, a hidden *Revive* in the bottom right (in a blue and white flower tile), a hidden *Repel* in the rock in the middle, and a hidden *Red Shard* next to *TM83 - Infestation*!
 
 Enter the Crisola Hotel.
 
@@ -208,7 +208,7 @@ Enter the Crisola Hotel.
 
 Watch a short cutscene where you almost get run over by a Ms. Blakeory. Oops! (Saki +1)
 
-After regaining control you can talk to the black belt in the bottom right corner for a free *Super Potio*. Go to the right hallway and grab *TM126 - Whirlpool* in the first open room you see. Circle around to the left and enter the middle room. Stand on the tile 1 down and 1 to the right of the upper left plant and hit the interact button when facing the bed to get $1500!
+After regaining control you can talk to the black belt in the bottom right corner for a free *Super Potion*. Go to the right hallway and grab *TM126 - Whirlpool* in the first open room you see. Circle around to the left and enter the middle room. Stand on the tile 1 down and 1 to the right of the upper left plant and hit the interact button when facing the bed to get $1500!
 
 Go back to the lobby and go to the elevator to head to the Casino/AP Center. Talk to the girl with red hair to get her to flush her Coin Case down the toilet so we can pick it up later.
 
@@ -252,7 +252,7 @@ Chrisola Rooftop (Right)
 
 There’s an Audino breeder here that will make grinding a breeze. Each time you beat them you’ll get *3 Exp. Candy S*. In the center of the rooftop there’s also a white-haired trainer with a quest marker, but I highly recommend waiting before you interact with her.
 
-There’s a hidden *Oran Berry* 3 tiles down and 2 to the right of the top left lamp post below the bench, a *Reverse Candy* diagonally left from the purple flower on the right in front of the helicopter pad, and a *Resist Wing* all he way to the right and up one tile from the bottom center lantern.
+There’s a hidden *Oran Berry* 3 tiles down and 2 to the right of the top left lamp post below the bench, a *Reverse Candy* diagonally left from the purple flower on the right in front of the helicopter pad, and a *Resist Wing* all the way to the right and up one tile from the bottom center lantern.
 
 Go back into the elevator and grab yourself a *Repel* in the pool room, hidden in the first rack of towels along the top wall. More free money!
 
