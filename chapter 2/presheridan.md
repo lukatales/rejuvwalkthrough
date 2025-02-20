@@ -95,10 +95,12 @@ Gemstream Mine
 | **Purrloin**  | 35% | **Drowzee**   | 32% | **Rattata**   | 20% |
 | Pidgey        | 10% | Klink         | 4% |    |  |
 
+{: .text-blue-000}
 ZCell 005: Gemstream Mine (Night)
 
 Exit and watch a cloaked figure walk away from you. There’s a hidden *Relaxed Mint* on a right purple flower up from the bridge. There’s also a *Rose Incense* on the second level in the topmost light pink flower on the right.
 
+{: .text-blue-000}
 ZCell 006: Route 2
 
 Talk to the reporter during the day to engage in a battle, then continue going right and enter the mine again. Go all the way down and exit, then go left past the waterfalls. There’s a mystery egg here that can contain Skiddo, Mudbray, or Galarian Ponyta with a random move. You can’t reset the Pokémon as that’s decided when you first make your save, but you can soft reset for shininess, IVs, ability, and the egg move.
@@ -115,6 +117,7 @@ There’s a hidden *Ability Capsule* in the rock behind the egg.
 
 Go back up through the cave, then take the entrance to the right of the ladder. Go down, 4 tiles to the right of the dark pink flower there’s a hidden *Blue Shard*. Keep going down and find yourself a hidden *Level Ball* tucked away to the right of the bottommost stairs.
 
+{: .text-blue-000}
 ZCell 007: Route 2
 
 To the left there’s a hidden *Lemonade* one tile left and up from the cell. Enter the building above.
@@ -140,6 +143,7 @@ Kecleon Bazaar
 
 Exit the bazaar when you’re ready and head left. Catch one of the Aipoms walking around for a trade later. There’s a hidden *Exp. Candy S* on a grassy tile 5 tiles to the right and 2 tiles up from the cell.
 
+{: .text-blue-000}
 ZCell 008: Route 2
 
 There’s a hidden *Ether* in the wall 6 tiles above the primadonna. 
@@ -147,7 +151,7 @@ There’s a hidden *Ether* in the wall 6 tiles above the primadonna.
 Go all the way back to the entrance of the cave, then head north. There’s a healing star there for you if you need to heal your party and 2 tiles right and 1 tile up of it there’s a hidden *Gourmet Treat*. Enter the cave when you’re ready.
 
 {: .text-blue-000}
-## AMETHYST CAVE (FIRST VISIT
+## AMETHYST CAVE (FIRST VISIT)
 ---
 
 Watch the cutscene. There’s some new Pokémon here!
@@ -205,8 +209,33 @@ Watch the following sad cutscenes until you find yourself at the docks on Oceana
 
 We have a lot of new things to do before we go to Sheridan Village, so lets ge them out of the way.
 
+Reenter East Gearen and head left and up until you see the purple striped building. Go down the alleyway on the right and pick up the hidden *Burn Heal* in the box before entering the sewers. You can pick up a *Rare Candy* next to the cell.
 
+{: .text-blue-000}
+ZCell 009: Abandoned Sewers (West Entrance)
 
+There’s a hidden *Reverse Candy* on the right wall of the stairs when you enter. Go through the gates to watch a peculiar cutscene.
+
+You can battle a **Munna** if you give it a Gourmet Treat. There’s a hidden *Super Potion* in the top right corner next to the dumpster, a hidden *Green Shard* above the rightmost Munna, a **Red Shard** 3 tiles left and 1 tile up from the leftmost Munna, and a *Super Repel* 2 tiles down and 1 tile left from that.
+
+Go to the left to get yourself a *Telluric Seed* at the bottom of the docks, right below the line of dumpsters, and a cell.
+
+{: .text-blue-000}
+ZCell 010: Gearen Alleyway (Sewer Entrance)
+
+Enter the Help Plaza and go to the back to talk to Ayuda since you have more than 5 cells. He’ll give you *TM49 - Echoed Voice*. Speak to him again and he’ll give you a *Cell Imprint* for having 10 cells.
+
+Go next door to the library and show off Dedenne to Zumi, who in return will give us the *Advanced Pokédex*. This will show a lot more details about the Pokémon you catch like their learnsets, possible egg and TM moves, stats and a whole bunch of other information. Our next mission is to catch a Drifloon, but that’s a while off so don’t worry.
+
+Go to Chrisola Hotel and in a room on the right hallway there’s a woman with a **Shinx**. Talk to her and she’ll give it to you!
+
+Enter the right hallway and then enter the right room on the top section where the lady and her Mincinno is where she’ll ask you to chase after it. Go to the lobby to talk to it, then the left hallway and around until it gets taken by a couple of grunts. Follow them to Gearen Park and battle them until they let it go. Follow it back to the room where it was originally where the old lady will let you battle the **Minccino**.
+
+South of the sewer entrance you can enter Karrina’s hideout. Go down the elevator to talk to her and she’ll ask for your help to fight off a rival gang in Amethyst Cave.
+
+{: .text-blue-000}
+## AMETHYST CAVE (SECOND VISIT)
+---
 
 
 
