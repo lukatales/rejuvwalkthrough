@@ -67,7 +67,7 @@ Sheridan Drink Vendor
 
 Next to the cell you can find Truck Guy! He’ll take you back to East Gearen for free. We'll make use of this service a lot later, don't worry!
 
-Keep going all the way to the right to enter the inn. There’s a hidden Ability Capsule in the blue and white flower tile just outside, and inside the Aroma Lady will give you a Sweet Heart. Right now you’ll have to pay $450 to heal your Pokémon, but if you can hold off for a bit it’ll become free with story progression. For now,  enter the first room on the left to trigger a sidequest where we’ll have to go save a girl’s boyfriend. Exit the inn.
+Keep going all the way to the right to enter the inn. There’s a hidden Ability Capsule in the blue and white flower tile just outside, and inside the Aroma Lady will give you a Sweet Heart. Right now you’ll have to pay $450 to heal your Pokémon, but if you can hold off for a bit it’ll become free with story progression. 
 
 Head north and take a left. There’s an Audino breeder here that will give you 3 Exp. Candy S every time you win. 
 
