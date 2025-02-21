@@ -249,6 +249,66 @@ South of the sewer entrance you can enter Karrina’s hideout. Go down the eleva
 ## AMETHYST CAVE (SECOND VISIT)
 ---
 
+Take the train back to Route 2 and enter Amethyst Cave once more.
+
+Down 2 tiles and 1 tile to the left of the girl next to the rock to grab a hidden *Nugget*. Head left, here’s a hidden *Green Shard* 4 tiles down from the lone train track. Grab the *Quiet Mint* and the hidden *Mineral Ball* in the right corner of the minecart. 
+
+In the room where you got sucked in through a portal to fight Galvantula there’s hidden *Electric Gem* in the top left minecart. Return to the entrance of the cave.
+
+Go up the bridge. There’s a *Red Shard* below the smashable rock at the end of it, and a *Super Potion* to the right of the smashable rock along the right wall. Above that, there’s a *Mineral Ball* in the center of the top minecart if you interact with it from the top, and a *Green Shard* 1 tile up and 6 tiles to the left of that.
+
+Walk left. There’s a hidden *Zinc* behind the smashable rock below the drill, embedded in the wall, and in that same drill there’s another *Mineral Ball*. Go to the left to find a *Reverse Candy* to the left of the second drill, then smash the rocks and go through the exit.
+
+We can’t do much here until we get cut, but you can grab the *Blue Shard* in the purple flower below the large black one, and a *Green Shard* in the pink flower 2 tiles to the right of the cuttable tree.
+
+Go back through the exit and climb up the stairs. You’ll have to talk to the weird cloaked figure to get through, but after that you can pick up the *Electric Gem* in the rock right next to him.
+
+Don’t go through the gate yet and keep going left. You’ll have to battle the Biker to complete Karrina’s gang quest, but it’s a pretty easy fight. You’ll get **Houndour** for your efforts! Go through the north gate once you’re ready.
+
+There’s a *Genius Wing* directly to the right once you enter the new area and a *Reverse Candy* 3 tiles left and 2 tiles down from the smashable rock. Go all the way around and exit to the next area.
+
+Grab the *Repel* in the wooden crate to the right, then go down the stairs and around to the right to grab the Rock Gem in the tall rock before heading through another gate.
+
+When you’re ready for a battle, go north and get selected to play the fun games! Pick any of the smashable rocks to make a purple pebble, then pick the rightmost tree since it looks a little suspicious.
+
+Get ready for a battle with Nim!
+
+{: .text-blue-000}
+NimBattle
+
+This double battle is fairly simple. Lunatone and Solrock can be an issue with their Rock Slides, but if you have a faster, hard hitting Pokémon you should be all set! Also, don’t be me and constantly forget that Psychic Terrain blocks priority moves.
+
+{: .text-blue-000}
+**Friendship Value Choices**
+ - Yes (Nim +2)
+ - No (Nim - 2)
+
+Watch an endearing cutscene to get yourself a *Room ID Card*, we’ll figure out where that goes later. Grab the *Super Potion* 2 tiles left and 2 tiles up from the sign, and the *Reverse Candy* up the stairs to the right in a wall before exiting the cave.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
