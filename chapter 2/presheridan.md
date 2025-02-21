@@ -143,7 +143,7 @@ Kecleon Bazaar
 | BOTTOM RIGHT ITEM  | PRICE  | BOTTOM LEFT ITEM  | PRICE  |
 |:-------------------|:-------|:------------------|:-------|
 | *Protein*          | $6800  | *Black Prism*     | $25000 |
-| *HP Up*            | $6800  | *Ice Store*       | $25000 |
+| *HP Up*            | $6800  | *Ice Stone*       | $25000 |
 | *Iron*             | $6800  | *Link Store*      | $25000 |
 | *Calcium*          | $6800  | *Galarica Cuff*   | $25000 |
 | *Zinc*             | $6800  | *Galarica Wreath* | $25000 |
