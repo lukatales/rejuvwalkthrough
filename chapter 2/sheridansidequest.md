@@ -20,5 +20,6 @@ nav_order: 3
 ## PRE-GYM SIDEQUESTS
 ---
 
-First off, let's go get Daria's boyfriend.
+First off, ask Truck Guy to take you back to East Gearen. Head to to the lab. Enter Professor Jenner’s room, then go up and to the right and enter the room on the right with the ID Key. There’s an *Exp. Share* you can grab here, and some fun notes to read below it. After reading, grab the *Audition Tape* and stick it in the computer to watch a wholesome cutscene. Go back to Sheridan when you’re ready. 
 
+Accept all of the quests at the Help Plaza.
