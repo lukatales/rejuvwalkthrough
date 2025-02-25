@@ -25,15 +25,23 @@ Watch the cutscene. A new area means new Pokémon!
 {: .text-blue-000}
 Sheridan Village Grass
 
-| GRASS: MORN    | %   | GRASS: DAY    | %   | GRASS: NIGHT    | %   |
-|:---------------|:----|:--------------|:----|:----------------|:----|
-| **Pansage**    | 27% | **Pansear**   | 27% | **Panpour**     | 27% |
-| **Spearow**    | 25% | **Spearow**   | 25% | **Spearow**     | 25% |
-| **Psyduck**    | 15% | **Psyduck**   | 15% | **Psyduck**     | 15% |
-| **Skwovet**    | 15% | **Skwovet**   | 15% | **Stunky**      | 15% |
-| **Fomantis**   | 12% | **Fomantis**  | 12% | **Kricketot**   | 12% |
-| **Seedot**     | 6%  | **Seedot**    | 6%  | **Seedot**      | 6%  |
-| **Mankey**     | 6%  | **Mankey**    | 6%  | **Mankey**      | 6%  |
+| GRASS: MORN/DAY | %   | GRASS: NIGHT   | %   |
+|:----------------|:----|:---------------|:----|
+| **Zignagoon**   | 27% | **Zigzagoon**  | 27% |
+| **Makuhita**    | 25% | Chingling      | 25% |
+| Spearow         | 15% | Makuhita       | 15% |
+| Kricketot       | 15% | Hoothoot       | 15% |
+| **Kricketune**  | 12% | **Dustox**     | 12% |
+| **Ledyba**      | 6%  | Kricketot      | 6%  |
+|                 |     | **Kricketune** | 6%  |
+
+{: .text-blue-000}
+Sheridan Village Misc.
+
+| OLD ROD    | %   | ROCK SMASH  | %   |
+|:-----------|:----|:------------|:----|
+| Goldeen    | 70% | Geodude     | 93% |
+| Finneon    | 30% | Diglett     | 7%  |
 
 If you haven’t caught one already, Spearow evolves at Lvl. 20 and can be useful for the next gym.
 
@@ -49,27 +57,32 @@ If you enter the building through the correct doorway there’s a new shop. You 
 {: .text-blue-000}
 Sheridan Mart
 
-| ITEM           | PRICE  |
-|:---------------|:-------|
-| *Potion*       | $300   |
-| *Antidote*     | $100   |
-| *Repel*        | $350   |
-| *Poké Ball*    | $200   |
+| ITEM            | PRICE  |
+|:----------------|:-------|
+| *Poké Ball*     | $200   |
+| *Great Ball*    | $600   |
+| *Potion*        | $300   |
+| *Super Potion*  | $700   |
+| *Ice Heal*      | $250   |
+| *Antidote*      | $100   |
+| *Gourmet Treat* | $1500  |
+| *Super Repel*   | $500   |
+| *Potion*        | $50    |
 
-On Monday, Wednesday, Friday, and Sunday mornings Beth shows up on the top counter and the first time you see her she’ll give you a free Moomoo Milk sample.
+On Monday, Wednesday, Friday, and Sunday mornings Beth shows up on the top counter and the first time you see her she’ll give you a free *Moomoo Milk* sample.
 
 {: .text-blue-000}
 Sheridan Drink Vendor
 
 | ITEM           | PRICE  |
 |:---------------|:-------|
-| *Potion*       | $300   |
+| *Berry Juice*  | $300   |
 
 Next to the cell you can find Truck Guy! He’ll take you back to East Gearen for free. We'll make use of this service a lot later, don't worry!
 
-Keep going all the way to the right to enter the inn. There’s a hidden Ability Capsule in the blue and white flower tile just outside, and inside the Aroma Lady will give you a Sweet Heart. Right now you’ll have to pay $450 to heal your Pokémon, but if you can hold off for a bit it’ll become free with story progression. 
+Keep going all the way to the right to enter the inn. There’s a hidden *Ability Capsule* in the blue and white flower tile just outside, and inside the Aroma Lady will give you a *Sweet Heart*. Right now you’ll have to pay $450 to heal your Pokémon, but if you can hold off for a bit it’ll become free with story progression. 
 
-Head north and take a left. There’s an Audino breeder here that will give you 3 Exp. Candy S every time you win. 
+Head north and take a left. There’s an Audino breeder here that will give you *3 Exp. Candy S* every time you win. 
 
 The building next door is the Daycare where you can leave your Pokémon if you’d like. For now, take the female Jigglypuff you caught and any Pokémon in the Fairy Egg group (Pikachu, Pachirisu, Cherubi, Skitty, etc.) to get an Igglybuff to trade with someone at the Inn. In return you’ll get a **Smoochum** holding a *Twisted Spoon*!
 
@@ -78,15 +91,23 @@ Go north until you enter Sheridan Arena.
 {: .text-blue-000}
 Sheridan Arena
 
-| GRASS: MORN    | %   | GRASS: DAY    | %   | GRASS: NIGHT    | %   |
-|:---------------|:----|:--------------|:----|:----------------|:----|
-| **Pansage**    | 27% | **Pansear**   | 27% | **Panpour**     | 27% |
-| **Spearow**    | 25% | **Spearow**   | 25% | **Spearow**     | 25% |
-| **Psyduck**    | 15% | **Psyduck**   | 15% | **Psyduck**     | 15% |
-| **Skwovet**    | 15% | **Skwovet**   | 15% | **Stunky**      | 15% |
-| **Fomantis**   | 12% | **Fomantis**  | 12% | **Kricketot**   | 12% |
-| **Seedot**     | 6%  | **Seedot**    | 6%  | **Seedot**      | 6%  |
-| **Mankey**     | 6%  | **Mankey**    | 6%  | **Mankey**      | 6%  |
+| GRASS: MORN/DAY  | %   | GRASS: NIGHT   | %   |
+|:-----------------|:----|:---------------|:----|
+| Zignagoon        | 30% | Zigzagoon      | 30% |
+| Makuhita         | 31% | Chingling      | 21% |
+| **Fletchinder**  | 15% | Makuhita       | 12% |
+| Kricketot        | 15% | Hoothoot       | 17% |
+| Kricketune       | 7%  | Dustox         | 10% |
+| Ledyba           | 2%  | Kricketot      | 5%  |
+|                  |     | Kricketune     | 5%  |
+
+{: .text-blue-000}
+Sheridan Arena Misc.
+
+| OLD ROD    | %   | ROCK SMASH  | %    |
+|:-----------|:----|:------------|:-----|
+| Goldeen    | 70% | Geodude     | 100% |
+| Finneon    | 30% |      |   |
 
 You can battle the **Swablu** flying overhead. Knock on the door and when you get no response, go back to the Cherry Blossom Inn to watch another cutscene. Follow Aelita upstairs to her room.
 
