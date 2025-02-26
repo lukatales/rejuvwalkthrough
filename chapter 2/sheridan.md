@@ -27,7 +27,7 @@ Sheridan Village Grass
 
 | GRASS: MORN/DAY | %   | GRASS: NIGHT   | %   |
 |:----------------|:----|:---------------|:----|
-| **Zignagoon**   | 27% | **Zigzagoon**  | 27% |
+| **Zigzagoon**   | 27% | **Zigzagoon**  | 27% |
 | **Makuhita**    | 25% | Chingling      | 25% |
 | Spearow         | 15% | Makuhita       | 15% |
 | Kricketot       | 15% | Hoothoot       | 15% |
