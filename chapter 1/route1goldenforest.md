@@ -126,6 +126,8 @@ Welcome to the Silent Grove! You can follow Melia all the way up to the castle-l
 {: .text-blue-000}
 MeliaBattle
 
+![Melia1](https://media.discordapp.net/attachments/1344174707238502421/1344174816055525437/melia1.PNG?ex=67bff3d9&is=67bea259&hm=a5b58564959bec40cd7b3b9b34347e870f60d50e41e264c83d324a1eaff72cff&=&format=webp&quality=lossless)  
+
 Melia doesn’t get a boost to basically anything on her team on this field, so this battle is pretty straightforward.
 
 {: .text-blue-000}
@@ -152,6 +154,8 @@ Walk up towards the dried lake bed to get pulled into a double battle. If you ne
 {: .text-blue-000}
 EliAndSharonBattle
 
+![EliAndSharon1](https://media.discordapp.net/attachments/1344174707238502421/1344174785101430795/elisharon1.PNG?ex=67bff3d2&is=67bea252&hm=8df6ef2dd598dd1d7fa42a83b374e5cdf9ff5ea50f691a8db67d3b03a5f73117&=&format=webp&quality=lossless)  
+
 Another pretty straightforward double battle. Don’t let yourself get hit with too many debuff or status moves and you should be fine here, especially since you have Melia in your party! It’s also important to note that this isn’t really a true double battle, meaning you can’t focus on one side to make it a 2v1.
 
 Walk forward and talk to the mysterious figure for another battle. This time you’re on your own.
@@ -159,12 +163,16 @@ Walk forward and talk to the mysterious figure for another battle. This time you
 {: .text-blue-000}
 ZettaBattle
 
+![Zetta1](https://media.discordapp.net/attachments/1344174707238502421/1344174818559397899/zetta1.PNG?ex=67bff3da&is=67bea25a&hm=1f55d995c2c18779b71b592fe7b981824651001bab2e5956f38296e0bff921e4&=&format=webp&quality=lossless)  
+
 Good news! You can cut down his team right off the bat by catching **Snorunt**. Be careful of self destructing Minior’s and Zepto, Zetta’s ace who can cut you down if you’re unprepared. Try paralyzing it or grabbing a Pokémon with Intimidate (Qwilfish, Mightyena, etc.) to lower its attack.
 
 Watch the cutscene and get devoured. Then walk left and up until you go into the forest. You can heal yourself with the faint green healing star right before you step on the bridge. Grab the strange looking Poké Ball to the left of it to update your CyberNav to get a new app called “Rift Dex” and receive the data for Code: Evo. Review the data, then walk forward when you’re ready for a fight.
 
 {: .text-blue-000}
 GyaradosBoss
+
+![Gyarados1](https://media.discordapp.net/attachments/1344174707238502421/1344174785935966239/gyarados1.PNG?ex=67bff3d2&is=67bea252&hm=69a4253c853c35ddc4e15243c4b1ebe0e23c6c0a4a07ed4e2370d8c119858407&=&format=webp&quality=lossless)  
 
 With field boosted Bite and Shadow Sneak (which also gets STAB), Rift Gyarados’ strength is nothing to sneeze at and can be considered a major hurdle for early game if you’re not prepared. Try paralyzing it if you can - Pikachu can come in clutch here if you've got it. Alolan Raticate can also put in work since it’ll deal massive damage with field boosted, super effective, STAB Crunch. It’ll boost its defenses when you break down its shield, so you might want to switch to special moves if you’ve got any as well. Good luck!
 
@@ -176,6 +184,8 @@ Exit the station and run all the way back to Gearen Lab to watch a cutscene in t
 
 {: .text-blue-000}
 MadelisBattle
+
+![Madelis1](https://media.discordapp.net/attachments/1344174707238502421/1344174786229698662/madelis1.PNG?ex=67bff3d2&is=67bea252&hm=9003b598c8fbbdc68f2daeaf162a3b25b0f3b68ab6e6056340b146f850092a73&=&format=webp&quality=lossless)  
 
 You’ll be using Melia’s Togepi and Buneary here. It’s important to note that this seemingly impossible fight isn’t mandatory to win against, though if you do you’ll gain (Melia +1). If you want to try your luck I recommend Yawning with Hapi, switching to Buneary to take the Incinerate and then spamming Ancient Power when you switch Hapi back in. If you’re lucky you’ll get 3 sleep turns and an omni-boost to be able to tank an Incinerate. Hopefully at this point Houndoom’s health is low enough that when you sacrifice Hapi to revive Buneary, Buneary’s Fake Out defeats it.
 
