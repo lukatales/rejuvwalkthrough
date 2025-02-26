@@ -422,6 +422,8 @@ For this guide I’ll be using a specific template to try and streamline as much
 {: .text-blue-000}
 GarbodorBoss
 
+![Garbodor1](https://media.discordapp.net/attachments/1344174707238502421/1344174785634111508/garbodor1.PNG?ex=67bff3d2&is=67bea252&hm=fdfa0da1b41e098889557399f0a60618ab777a12cdbffbf37f4bcee2a549882e&=&format=webp&quality=lossless)  
+
 They’ve kept it pretty simple for your first boss fight, just keep an eye on that type change when all the shields go down, especially if you’re relying on psychic moves. Fast, hard hitting Pokémon will do good things here, especially with Ren and his 3 Pokémon at your side. 
 
 Watch the following cutscene until you gain control over yourself again. Before we do anything else let’s get the most important thing out of the way: gambling!
@@ -496,5 +498,8 @@ You can also go back to the library to fight Ren for some extra experience and c
 
 {: .text-blue-000}
 RenBattle
+
+![Ren2](![image](https://github.com/user-attachments/assets/da2f12f5-63d7-47a5-9b1f-73aa36f38334)
+)  
 
 A simple Pokémon battle, all things considered. It’s finally time to head to East Gearen’s gym! It’s located right next to Venam’s house.
