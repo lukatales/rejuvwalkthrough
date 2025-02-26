@@ -100,7 +100,7 @@ Prepare yourself for a battle and go to Oceana Pier. Take a right when you come 
 {: .text-blue-000}
 PyroarBoss
 
-![Pyroar1](https://media.discordapp.net/attachments/1344174707238502421/1344174816877346909/pyroar1.PNG?ex=67bff3d9&is=67bea259&hm=5ca94d0b3c9b5047b0757a2c6dcb79bc83097b71ad0a652024d8f3369fa41cc2&=&format=webp&quality=lossless)  
+![Pyroar1](https://media.discordapp.net/attachments/1344174707238502421/1344186561645772821/pyroar.PNG?ex=67bffeca&is=67bead4a&hm=c712784fefa4a8710b35380a7484456da7427d8b68dac5fa24df9182dc73dea2&=&format=webp&quality=lossless)  
 
 A bit of a tough one, as Pyroar gets field boosted STAB Take Down that can sweep your team if you’re not careful. Try some attack lowering moves on it, or cut its speed down by paralyzing it, both can be done with a Pikachu’s Thunder Wave and Charm (obtainable in HQ 6) if you’re having trouble. Once you win you can get **Litleo** on your team.
 
