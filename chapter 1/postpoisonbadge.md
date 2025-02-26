@@ -29,7 +29,9 @@ If you go back to Gearen Park you’ll be able to battle **Gossifleur** if you g
 Go back to the lab and talk to the lady in orange sitting in front of the computer. You’ll be able to participate in the Virtual League now that you have a badge and will give you a *Badge Card* to get you started. Talk to her to challenge the first gym leader, Falkner.
 
 {: .text-blue-000}
-Falkner Battle
+FalknerBattle
+
+![Falkner1](https://media.discordapp.net/attachments/1344174707238502421/1344174785390968923/falkner1.PNG?ex=67bff3d2&is=67bea252&hm=0265a97174397bfcdfb083281679c51a72110ddde23c7d5ac5131c2d056e9578&=&format=webp&quality=lossless)  
 
 I always go with Cyndaquil as my starter which gives me an Onix. If you choose Totodile you’ll get a Phanpy, and if you go with Chikorita you’ll get a Mareep. All Pokémon are decently viable, with Chikorita’s pick being the hardest of the three, but you get coverage with Mareep in this first gym. The biggest thing to remember is that the Glitch Field reverts back to Gen 1 mechanics, yikes. Give yourself a refresh of old mechanics - or learn them for the first time - if you need to, as well as the other changes by checking the Field_Effect_Manuel in your Rejuvenation folder.
 
@@ -96,7 +98,9 @@ Claim your reward at the Help Plaza: $350 and a *Nugget*. (+1 Karma)
 Prepare yourself for a battle and go to Oceana Pier. Take a right when you come out of the gate to fight a pride of lions!
 
 {: .text-blue-000}
-Pyroar Boss Battle
+PyroarBoss
+
+![Pyroar1](https://media.discordapp.net/attachments/1344174707238502421/1344174816877346909/pyroar1.PNG?ex=67bff3d9&is=67bea259&hm=5ca94d0b3c9b5047b0757a2c6dcb79bc83097b71ad0a652024d8f3369fa41cc2&=&format=webp&quality=lossless)  
 
 A bit of a tough one, as Pyroar gets field boosted STAB Take Down that can sweep your team if you’re not careful. Try some attack lowering moves on it, or cut its speed down by paralyzing it, both can be done with a Pikachu’s Thunder Wave and Charm (obtainable in HQ 6) if you’re having trouble. Once you win you can get **Litleo** on your team.
 
@@ -109,7 +113,9 @@ Claim your reward at the Help Plaza: $350 and a *Nugget*. (+1 Karma)
 Let’s go to Chrisola Hotel and take the elevator up to the rooftop to battle that white haired trainer. Her name is Novae and she’s got a strong team!
 
 {: .text-blue-000}
-Novae Battle
+NovaeBattle
+
+![Novae1](https://media.discordapp.net/attachments/1344174707238502421/1344174816445464689/novae1.PNG?ex=67bff3d9&is=67bea259&hm=1fd12bd369176eca4b531b67fb079f84d0aa6f2e92997bab39d4cb7622a4c438&=&format=webp&quality=lossless)  
 
 This battle can be quite difficult if you’re not prepared. All normal type attacks are boosted on the city field, so even weak attacks like Passimian’s Tackle hit hard. Speaking of Passimian, it’s easily the strongest member on her team and will only get stronger if you try lowering its stats. Make sure you’ve got your own team of six and if you really need to, you can always return to this battle when you’ve raised the level cap with the next badge.
 
@@ -124,7 +130,9 @@ You can only accept this quest at nighttime.
 Prepare for a battle, talk to the Chrisola Hotel receptionist and go to the basement.
 
 {: .text-blue-000}
-Rorim B. Battle
+RorimBBBattle
+
+![RorimB1](https://media.discordapp.net/attachments/1344174707238502421/1344174817716207666/rorimb1.PNG?ex=67bff3da&is=67bea25a&hm=b80a2d68d5a57e06b09fe19009bd013794d496e8e7e6e38a77f54b5ec34fc6ae&=&format=webp&quality=lossless)  
 
 Watch out for those Teeter Dances!
 
