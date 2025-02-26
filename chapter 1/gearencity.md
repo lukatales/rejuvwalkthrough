@@ -89,13 +89,13 @@ East Gearen City (Left)
 
 Wurmple evolving into Dustox is good for the first gym, as well as Chingling and Hoothoot. Alolan Rattata is also a certified beast in early game with the boosts it gets in City Field, as well as its significant speed.
 
-There’s a *Gourmet Treat* in a flowery tile in the grass patch below the lab, to the left of the round bush. These treats are used to encounter some event Pokémon, so make sure to always have a few on hand!
+There’s a *Gourmet Treat* in a flowery grass tile in the grass patch below the lab, to the left of the round bush. These treats are used to encounter some event Pokémon, so make sure to always have a few on hand!
 
 Below that patch of grass there's a rock with a hidden *Poké Ball* in it. If you go to the right and down and talk to the nerd, he’ll give you a *Reverse Candy*. Below him and to the right there’s a rock with a *Potion*, and to the right there’s another rock with a *Green Shard*.  Go north of the charmer that battles you and in the patch of lighter colored grass to the right of the girl there's a hidden *Oran Berry*.
 
 Head back down toward Oceana Pier. There’s a **Nidoran M** looking for food and you can feed it a Gourmet Treat for a battle.
 
-The garden to the south is now open, and you’ll be able to battle the **Fletchling** there if you interact with them. There’s an *X Accuracy* to the right of  the middle bottom blue and white flower tile, and a *Sweet Heart* in the other flower patch of grass in the bottom right corner.
+The garden to the south is now open, and you’ll be able to battle the **Fletchling** there if you interact with them. There’s an *X Accuracy* to the right of the middle bottom blue and white flower tile, and a *Sweet Heart* in the other flower patch of grass in the bottom right corner.
 
 Enter the building on the west side labeled “Ferry Terminal.” Talk to the blonde guy and exit the building to watch the Buizel run by. This starts a quest for later.
 
@@ -111,7 +111,7 @@ Exit and go to the right, all the way to where you fought that charmer and go up
 
 In this area pick up the hidden *Gourmet Treat* on the rightmost tile of the three shipping crates and the hidden *Super Repel* in the little crevice on the building's wall tile.
 
-Go to the Emerald Building and talk to the lady in the green dress, then beat the guy in front of the elevator to be able to use it. The second floor will have a *Red Shard* in the bottom left corner. Talking to the red-haired girl will grant you a *Full Heal* and talking to the old woman will grant you a *Super Repel*.. Enter the third floor at night time for the chance to battle a level 5 **Shuppet**. Ghost Pokémon that can learn Curse, and any Pokémon that can learn Destiny Bond for that matter, are incredibly valuable to help with some of the harder boss fights in the game, so consider catching it.
+Go to the Emerald Building. Before going inside, grab the hidden *Grass Gem* in the grass patch below in the 9th tile. Enter and talk to the lady in the green dress, then beat the guy in front of the elevator to be able to use it. The second floor will have a *Red Shard* in the bottom left corner. Talking to the red-haired girl will grant you a *Full Heal* and talking to the old woman will grant you a *Super Repel*.. Enter the third floor at night time for the chance to battle a level 5 **Shuppet**. Ghost Pokémon that can learn Curse, and any Pokémon that can learn Destiny Bond for that matter, are incredibly valuable to help with some of the harder boss fights in the game, so consider catching it.
 
 Exit and go further left to find a Help Plaza. This building acts as a hub for most of the sidequests in the game. As stated before, you can find sidequests both here and in the overworld - and some side quests won’t be connected to a Help Plaza at all, so be vigilant in your travels. I’ll be covering all of the sidequests found here in 
 [Post-Gym Quests](https://lukatales.github.io/rejuvwalkthrough/chapter%201/postpoisonbadge.html)
@@ -213,7 +213,7 @@ Enter the Crisola Hotel.
 
 Watch a short cutscene where you almost get run over by a Ms. Blakeory. Oops! (Saki +1)
 
-After regaining control you can talk to the black belt in the bottom right corner for a free *Super Potion*. Go to the right hallway and grab *TM126 - Whirlpool* in the first open room you see. Circle around to the left and enter the middle room. Stand on the tile 1 down and 1 to the right of the upper left plant and hit the interact button when facing the bed to get $1500!
+After regaining control you can talk to the black belt in the bottom right corner for a free *Super Potion*. Go to the right hallway and grab *TM126 - Whirlpool* in the first open room you see. Circle your way up and to the left and enter the middle room. Stand on the tile 1 down and 1 to the right of the upper left plant and hit the interact button when facing the bed to get $1500!
 
 Go back to the lobby and go to the elevator to head to the Casino/AP Center. Talk to the girl with red hair to get her to flush her Coin Case down the toilet so we can pick it up later.
 
@@ -483,7 +483,7 @@ After you’ve spent the next seven or eight hours gambling your life away, exit
 {: .text-blue-000}
 **Friendship Value Choices**
  - You like photography? (Melia +1)
- - Maybe (Neutral)
+ - What are you doing? (Neutral)
 
 {: .text-blue-000}
 **Friendship Value Choices**
