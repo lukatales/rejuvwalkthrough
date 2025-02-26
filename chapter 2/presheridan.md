@@ -101,10 +101,14 @@ Gemstream Mine
 {: .text-blue-000}
 ZCell 005: Gemstream Mine (Night)
 
+![Cell5](https://media.discordapp.net/attachments/1344183747406200883/1344183802926207027/7.PNG?ex=67bffc38&is=67beaab8&hm=f16d442efa2e1c4d0de9b066fa095a9974a3b61b70a3f34b0ea20fe2391a3d0a&=&format=webp&quality=lossless)  
+
 Exit and watch a cloaked figure walk away from you. There’s a hidden *Relaxed Mint* on a right purple flower up from the bridge. There’s also a *Rose Incense* on the second level in the topmost light pink flower on the right.
 
 {: .text-blue-000}
 ZCell 006: Route 2
+
+![Cell6](https://media.discordapp.net/attachments/1344183747406200883/1344183851035000912/8.PNG?ex=67bffc43&is=67beaac3&hm=dfbda11ed6a27e4c104ce8cb12c7b062ed0bcd70474fc4d97354ae58b13fda40&=&format=webp&quality=lossless)  
 
 Talk to the reporter during the day to engage in a battle, then continue going right and enter the mine again. Go all the way down and exit, then go left past the waterfalls. There’s a mystery egg here that can contain Skiddo, Mudbray, or Galarian Ponyta with a random move. You can’t reset the Pokémon as that’s decided when you first make your save, but you can soft reset for shininess, IVs, ability, and the egg move.
 
@@ -123,6 +127,8 @@ Go back up through the cave, then take the entrance to the right of the ladder. 
 
 {: .text-blue-000}
 ZCell 007: Route 2
+
+![Cell7](https://media.discordapp.net/attachments/1344183747406200883/1344183851752362016/9.PNG?ex=67bffc43&is=67beaac3&hm=4b2cb4fcc6b0ca80317b35e09c49cbe4a9679ab2ff2786b32792f12ba1c85684&=&format=webp&quality=lossless)  
 
 To the left there’s a hidden *Lemonade* one tile left and up from the cell. Enter the building above.
 
@@ -157,6 +163,8 @@ Exit the bazaar when you’re ready and head left. Catch one of the Aipoms walki
 
 {: .text-blue-000}
 ZCell 008: Route 2
+
+![Cell8](https://media.discordapp.net/attachments/1344183747406200883/1344183851991306292/10.PNG?ex=67bffc44&is=67beaac4&hm=dcfcca2ec81464374eb6570ed45e2748b8cd335033f7fec324e7ece01ee2795a&=&format=webp&quality=lossless)  
 
 There’s a hidden *Ether* in the wall 6 tiles above the primadonna. 
 
@@ -230,6 +238,8 @@ Reenter East Gearen and head left and up until you see the purple striped buildi
 {: .text-blue-000}
 ZCell 009: Abandoned Sewers (West Entrance)
 
+![Cell9](https://media.discordapp.net/attachments/1344183747406200883/1344183802452512778/5.PNG?ex=67bffc38&is=67beaab8&hm=102a75e11ceef8068dd1d28c076e98546feba963272712687527b52a0be77453&=&format=webp&quality=lossless)  
+
 There’s a hidden *Reverse Candy* on the right wall of the stairs when you enter. Go through the gates to watch a peculiar cutscene.
 
 You can battle a **Munna** if you give it a Gourmet Treat. There’s a hidden *Super Potion* in the top right corner next to the dumpster, a hidden *Green Shard* above the rightmost Munna, a **Red Shard** 3 tiles left and 1 tile up from the leftmost Munna, and a *Super Repel* 2 tiles down and 1 tile left from that.
@@ -238,6 +248,8 @@ Go to the left to get yourself a *Telluric Seed* at the bottom of the docks, rig
 
 {: .text-blue-000}
 ZCell 010: Gearen Alleyway (Sewer Entrance)
+
+![Cell10](https://media.discordapp.net/attachments/1344183747406200883/1344183802691457134/6.PNG?ex=67bffc38&is=67beaab8&hm=30209370dcc8fc2630e9e3992987311b9e5e9e60cc6aae6f6490027317d06eef&=&format=webp&quality=lossless)  
 
 Leave and go to the Help Plaza. Go to the back to talk to Ayuda since you have more than 5 cells. He’ll give you *TM49 - Echoed Voice*. Speak to him again and he’ll give you a *Cell Imprint* for having 10 cells. We'll come back when we have more later.
 
