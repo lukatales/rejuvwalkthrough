@@ -64,6 +64,8 @@ There’s another hidden *Psychic Gem* 4 tiles to the right of the rock above th
 {: .text-blue-000}
 VenamBattle
 
+![Venam1](https://media.discordapp.net/attachments/1344174707238502421/1344174818240626698/venam1.PNG?ex=67bff3da&is=67bea25a&hm=316fd984af14d54a5cc03402869c7b85aac4154a8d2f714acadb35e5feecf8f5&=&format=webp&quality=lossless)  
+
 Make sure to listen to the advice that Jan gives out from that podium whenever you get to a gym battle as he’ll have some really solid advice as well as information about each gym leader’s ace and their signature move. 
 
 This one isn’t too hard with a bit of light prep work! You can supply your Pokémon with their own Oran Berries to give them that extra bit of health to take them to the end. The Psychic Gems we just got are also useful, especially if you brought a Chingling, Spoink, or Drowzee to the party. Other Pokémon that can do wonders here are Dustox with its resistances and Confusion, and Hoothoot who can also learn Confusion. If worst comes to worst you can always push your Pokémon right up to the level 18 cap to give yourself a serious edge. 
