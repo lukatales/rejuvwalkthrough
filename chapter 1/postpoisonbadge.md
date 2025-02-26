@@ -130,7 +130,7 @@ You can only accept this quest at nighttime.
 Prepare for a battle, talk to the Chrisola Hotel receptionist and go to the basement.
 
 {: .text-blue-000}
-RorimBBBattle
+RorimBBattle
 
 ![RorimB1](https://media.discordapp.net/attachments/1344174707238502421/1344174817716207666/rorimb1.PNG?ex=67bff3da&is=67bea25a&hm=b80a2d68d5a57e06b09fe19009bd013794d496e8e7e6e38a77f54b5ec34fc6ae&=&format=webp&quality=lossless)  
 
