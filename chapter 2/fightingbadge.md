@@ -48,11 +48,11 @@ Aelita is going to be joining you here, so it’s the same with Ren and Melia: f
 {: .text-blue-000}
 Caratos Mountain
 
-| LAND       | %   | LAND        | %   |
-|:-----------|:----|:------------|:----|
-| Noibat     | 34% | **Woobat**  | 17% |
-| Geodude    | 44% | Furret      | 4%  |
-| Geodude    | 44% | Furret      | 4%  |
+| LAND       | %   | LAND          | %   |
+|:-----------|:----|:--------------|:----|
+| **Slugma** | 32% | **Rolycoly**  | 9%  |
+| **Numel**  | 45% | **Nosepass**   | 4%  |
+| Onix       | 20% |       |   |
 
 Catch a Slugma, we’ll need to evolve it for the painter on Route 2 later.
 
@@ -124,11 +124,11 @@ Grab the Magical Seed on the way to the Eldest.
 {: .text-blue-000}
 Spring of Purification
 
-| LAND       | %   | LAND        | %   | LAND        | %   |
-|:-----------|:----|:------------|:----|:------------|:----|
-| Noibat     | 34% | **Woobat**  | 17% | **Woobat**  | 17% |
-| Geodude    | 44% | Furret      | 4%  | **Woobat**  | 17% |
-| Geodude    | 44% | Furret      | 4%  | **Woobat**  | 17% |
+| LAND       | %   | LAND        | %   | OLD ROD     | %    |
+|:-----------|:----|:------------|:----|:------------|:-----|
+| Bellsprout | 43% | Volbeat     | 10% | Goldeen     | 100% |
+| Zigzagoon  | 22% | Paras       | 10% |   |  |
+| Illumise   | 10% | Oddish      | 5%  |   |  |
 
 {: 	.text-blue-000}
 **Karma Value Choices**
