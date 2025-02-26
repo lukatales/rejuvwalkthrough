@@ -25,6 +25,8 @@ Go to the Sheridan Arena and talk to Aelita, it’s time for a battle.
 {: .text-blue-000}
 KetaBattle
 
+![Keta1](https://media.discordapp.net/attachments/1344174707238502421/1344182025174908980/keta1.PNG?ex=67bffa90&is=67bea910&hm=56aca5af699e3f66bfbc3a6956f58bd617b10da721e06b7605b2ea4afab805f8&=&format=webp&quality=lossless)  
+
 Ren was right, Keta can be a real pleb stomper if you’re not prepared. Forest Field boosts Gale Strike x1.5 times in power and Cut x2 and all the coverage he has for his weaknesses means he’s nothing to sneeze at, not to mention he’s a double battle which already makes things harder. I like lowering one Pokémon’s stats down so they do less damage and focusing the other side, just don’t lower them too much or the AI might switch them out, which is usually around -3.
 
 Swoobat and Fearow are always highly recommended for this battle, and if you’ve saved them you can use all of those Psychic Gems in your bag. I’m also going to go ahead and recommend Dustox again. Poison types resist most of their moves too because of their natural fighting resistance + the field making a lot of their moves part grass type. Three of his Pokémon are also weak to ground moves as well so it’s possible to take a Diglett, give it a Rare Candy to evolve and then a Reverse candy to get it back to the level cap, or just bring any other ground type and go wild.
@@ -81,6 +83,8 @@ There’s some butterflies here waiting to heal you, so that means there’s a b
 {: .text-blue-000}
 MadelisBattle
 
+![Madelis2](https://media.discordapp.net/attachments/1344174707238502421/1344182966108160010/madelis2.PNG?ex=67bffb70&is=67bea9f0&hm=eb755cea9fe9242820849eb48c23eb9ed93b9df6605ec654693a4e1b6b75bfa0&=&format=webp&quality=lossless)  
+
 Not only do you have to deal with the beast that is Shadow Mewtwo AND Madelis’ other Pokémon, but you have to do it within ten turns. You have no option but to focus down Mewtwo, but Cufant will try and make your life difficult. If you have a Pokémon with Intimidate it might be useful to send it out first to debuff Cufant so you can focus everything on Mewtwo. Poisoning or burning Mewtwo will also prove useful to get it low. Keta is going to almost exclusively focus on Mewtwo until it’s down, so you just have to help him get there as quickly as possible.
 
 If you didn’t know, shadow types are weak to Fairy, but if you plan on relying on that I’d recommend getting rid of Cufant if you want to use STAB fairy moves. If you’ve got really fast Pokémon, you might be able to take advantage of its worsening defenses after its shield breaks, just remember to keep some of your team healthy for the remainder of the fight.
@@ -110,6 +114,8 @@ Go down after making your decision and go up the ladder to the left. Interact wi
 
 {: .text-blue-000}
 VolcanionBoss
+
+![Volcanion1](https://media.discordapp.net/attachments/1344174707238502421/1344183235415900170/volcanion1.PNG?ex=67bffbb1&is=67beaa31&hm=90304ee27037c1b7c1ef35dc1561d7872a892eb5a6528db79777dd21e8e3b42e&=&format=webp&quality=lossless)  
 
 The poor thing is only going to get weaker as time goes on, so just hold your own during that first shield and then knock it out quickly afterwards. Volcanion is very slow, so you should be fine if you have hard hitting moves.  It should also be known that its nature is Lonely, a small detail that you’d never get to see unless you went into the files. Ruthless Pokémon fights have really great potential for storytelling and I implore you to do them when you can.
 
