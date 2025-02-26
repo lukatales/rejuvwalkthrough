@@ -25,6 +25,8 @@ Accept Karrina’s fast travel to Junction Bridge and head inside the lab for a 
 {: .text-blue-000}
 JenkelBattle
 
+![Jenkel1](https://media.discordapp.net/attachments/1344174707238502421/1344182024906346527/jenkel1.PNG?ex=67bffa90&is=67bea910&hm=1b48915b5902862d1253e711e6822e009b0d49aa7d7f38873af877b7ae580c45&=&format=webp&quality=lossless)  
+
 You get to choose between Ren or Venam in this fight as your partner in this fight, and both are solid allies to have. Musharna does have a considerate amount of bulk, but as long as you don’t let it get too many boosts with Charge Beam you should be fine.
 
 You get *TM94 - Rock Smash* for your troubles and there’s *6 Cell Batteries* found back inside the factory, three of which we’ll need for a quest later on, so save them!
@@ -206,6 +208,8 @@ You’ll get to pick between Venam and Ren for this fight. I recommend Venam bec
 {: .text-blue-000}
 GalvantulaBoss
 
+![Galvantula1](https://media.discordapp.net/attachments/1344174707238502421/1344182024608677920/galvantula1.PNG?ex=67bffa90&is=67bea910&hm=758a7dd6638d121a984327560f82d31742ef6616e4f648a6c907a33ba2f71a7e&=&format=webp&quality=lossless)  
+
 Here’s where you’re going to start to see those shield break effects really add up. Galvantula is going to do its best to lower your speed and poison you to do massive damage, and its Joltiks will keep coming around to ruin your day. Luckily it doesn’t have any field boosted moves, so you can try to take advantage of that. If you have a steel type you should be set with its resistances, or you can use its quad weakness to ground moves to your advantage.
 
 Watch the following sad cutscenes until you find yourself at the docks on Oceana Pier.
@@ -276,6 +280,8 @@ Get ready for a battle with Nim!
 {: .text-blue-000}
 NimBattle
 
+![Nim1](https://media.discordapp.net/attachments/1344174707238502421/1344182025405337630/nim1.PNG?ex=67bffa90&is=67bea910&hm=bb832ab70ec6116506fb43e559525dc2b0d12ba95a0804c096d21e6ea54e821c&=&format=webp&quality=lossless)  
+
 This double battle is fairly simple. Lunatone and Solrock can be an issue with their Rock Slides, but if you have a faster, hard hitting Pokémon you should be all set! Also, don’t be me and constantly forget that Psychic Terrain blocks priority moves.
 
 {: .text-blue-000}
@@ -284,32 +290,4 @@ This double battle is fairly simple. Lunatone and Solrock can be an issue with t
  - No (Nim - 2)
 
 Watch an endearing cutscene to get yourself a *Room ID Card*, we’ll figure out where that goes later. Grab the *Super Potion* 2 tiles left and 2 tiles up from the sign, and the *Reverse Candy* up the stairs to the right in a wall before exiting the cave.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
