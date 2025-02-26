@@ -500,6 +500,5 @@ You can also go back to the library to fight Ren for some extra experience and c
 RenBattle
 
 ![Ren2](![image](https://github.com/user-attachments/assets/da2f12f5-63d7-47a5-9b1f-73aa36f38334)
-)  
 
 A simple Pokémon battle, all things considered. It’s finally time to head to East Gearen’s gym! It’s located right next to Venam’s house.
