@@ -154,14 +154,22 @@ Claim your reward at the Help Plaza: $1100 and, a *Gourmet Treat*, and *TM119 - 
 {: .text-blue-000}
 ZCell 001: Next to the Help Plaza
 
+![Cell1](https://media.discordapp.net/attachments/1344183747406200883/1344183801449811998/1.PNG?ex=67bffc37&is=67beaab7&hm=c8b5b06a8d20557af6d31c2e25ae5798a3710fc97a38bf2db42de5437f518710&=&format=webp&quality=lossless)  
+
 {: .text-blue-000}
 ZCell 002: Chrisola Hotel Rooftop
+
+![Cell2](https://media.discordapp.net/attachments/1344183747406200883/1344183801697538131/2.PNG?ex=67bffc38&is=67beaab8&hm=e5c174ccbdfd2a4c433c0c704edc0d320ba724a1c00f8066ab911026700c62d0&=&format=webp&quality=lossless)  
 
 {: .text-blue-000}
 ZCell 003: Gearen Gym (Venam’s Junkyard)
 
+![Cell3](https://media.discordapp.net/attachments/1344183747406200883/1344183801940541515/3.PNG?ex=67bffc38&is=67beaab8&hm=836ec1428f4fb6119e62633ad23539b1c8a13f825279e960819393bd479fa941&=&format=webp&quality=lossless)  
+
 {: .text-blue-000}
 ZCell 004: Oceana Pier
+
+![Cell4](https://media.discordapp.net/attachments/1344183747406200883/1344183802200592424/4.PNG?ex=67bffc38&is=67beaab8&hm=f7febd828625dac3cc24c5f7d87767caa52a50aa5aaf8be9357d6cdf6989a954&=&format=webp&quality=lossless)  
 
 And we’re done with our post-gym checklist, let’s head over to the train station that’s left of the Help Plaza!
 
