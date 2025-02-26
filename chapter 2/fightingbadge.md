@@ -125,7 +125,7 @@ Keep going up and enter the facility, there’s a pink panel that will take you 
 ### SPRING OF PURIFICATION
 ---
 
-Grab the Magical Seed on the way to the Eldest.
+Grab the *Magical Seed* on the way to the Eldest.
 
 {: .text-blue-000}
 Spring of Purification
