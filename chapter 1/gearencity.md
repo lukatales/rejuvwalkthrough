@@ -46,12 +46,16 @@ Once you’ve picked out your starter, talk to Amanda and get ready for a battle
 {: .text-blue-000}
 AmandaBattle
 
+![Amanda1](https://media.discordapp.net/attachments/1344174707238502421/1344174784782532630/amanda1.PNG?ex=67bff3d2&is=67bea252&hm=d448867bbcc33de8aa838ffbde65f80ec3141354c0c3d3693a8a2ba39b4c1855&=&format=webp&quality=lossless)  
+
 You can press the ‘S’ key to check the stat changes of all the Pokémon on the field, as well as the field effect, weather, screens, and other nifty information. Amanda will give you 5 Poké Balls to get started after the battle.
 
 Go back down to talk to Professor Jenner where you’ll fight Ren. You can win or lose this one too!
 
 {: .text-blue-000}
 RenBattle
+
+![Ren1](https://media.discordapp.net/attachments/1344174707238502421/1344174817233993768/ren1.PNG?ex=67bff3d9&is=67bea259&hm=7d09cc4c12d2b3b974c9ba72ac29645eb2cee82631b5cf8bcf446edee0c4f708&=&format=webp&quality=lossless)  
 
 After battling, Jenner will ask you to check in on his daughter Melia on Route 1. For your trouble you get a *Pokédex* and a *Cybernav*! The Pokédex is self explanatory, but there’s a few features on the Cybernav that are very helpful to us. You can check where you are with the “Map” and change what music you’re listening to with the “Jukebox” apps. “Achievements” allows you to track your progress on all the achievements listed, and help you figure out what you need to do to complete them. “Spice Scent” essentially replaces the need for repels forever, as it changes the encounter rate. Don’t want to run back and forth waiting for an encounter? Set it to 9999 and you’ll be running into a Pokémon on every tile! Or you can set it to 0 and never run into any Pokémon at all! 
 
