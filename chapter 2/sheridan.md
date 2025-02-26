@@ -139,4 +139,6 @@ Amethyst Grotto
 
 Catch a Dunsparce for later.
 
+There’s a hidden *Moon Ball* behind the first tree on the left, 1 tile down and 1 tile left from the yellow flower. There’s also a hidden *Heart Scale* behind the smashable rock on the right of the stairs, and a *Red Shard* on the tree right behind the top left pedestal. There's another *Red Shard* in the lower right, 3 tiles down and 1 tile right of the pink flowers.
+
 Continue north and talk to… Keta? Receive the *Soul Stone* and accept the fast travel request. Let’s go to the Help Plaza, it’s sidequest time!
