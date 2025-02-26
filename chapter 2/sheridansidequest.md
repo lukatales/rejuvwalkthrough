@@ -101,7 +101,7 @@ This quest is only available at night time. Novae is waiting outside of the Cher
 {: .text-blue-000}
 NovaeAndRorimBBattle
 
-![NovaeAndRorimB](https://media.discordapp.net/attachments/1344174707238502421/1344187025284268053/novaeandrorimb1.PNG?ex=67bfff38&is=67beadb8&hm=6887e14b05998cc38682110f5e8def4ec3b45b9d9dfb149508da879edb6c95d7&=&format=webp&quality=lossless)  
+![NovaeAndRorimB](https://media.discordapp.net/attachments/1344174707238502421/1344187730942361631/novaeandrorimb1.PNG?ex=67bfffe0&is=67beae60&hm=e81dd27f98b511dcce569ebe5d4e5f62b7b86e9e6fec4395705e95e1b2fc7c99&=&format=webp&quality=lossless)  
 
 Our first proper double battle! Rorim B’s Mr. Mime is going to want to slowly whittle you down with Icy Winds and lower your speed. I recommend focusing on his team first, so that you can face Novae’s team 2v1 and you won’t have to worry about her Pokémon hitting insanely hard on top of Rorim whittling you down. You can try using the field to your advantage too.
 
