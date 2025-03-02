@@ -24,6 +24,8 @@ The following is everything that you should have gotten in Chapter 1 - Crossroad
 {: 	.text-blue-000}
 ##### Z Cell Count
 
+To check how many cells you have, select the Gather Cube in your bag.
+
 4
 
 {: 	.text-blue-000}
