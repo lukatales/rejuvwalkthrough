@@ -24,6 +24,8 @@ The following is everything that you should have gotten in Chapter 2 - Redemptio
 {: 	.text-blue-000}
 ##### Z Cell Count
 
+To check how many cells you have, select the Gather Cube in your bag.
+
 12
 
 {: 	.text-blue-000}
