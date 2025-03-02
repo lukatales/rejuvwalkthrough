@@ -93,7 +93,7 @@ Sheridan Arena
 
 | GRASS: MORN/DAY  | %   | GRASS: NIGHT   | %   |
 |:-----------------|:----|:---------------|:----|
-| Zignagoon        | 30% | Zigzagoon      | 30% |
+| Zigzagoon        | 30% | Zigzagoon      | 30% |
 | Makuhita         | 31% | Chingling      | 21% |
 | **Fletchinder**  | 15% | Makuhita       | 12% |
 | Kricketot        | 15% | Hoothoot       | 17% |
@@ -132,10 +132,10 @@ Go back to the cave but this time go all the way back to the Route 2 entrance. T
 {: .text-blue-000}
 Amethyst Grotto
 
-| LAND          | %   | LAND          | %   | LAND          | %   |
-|:--------------|:----|:--------------|:----|:--------------|:----|
-| **Purrloin**  | 35% | **Drowzee**   | 32% | **Rattata**   | 20% |
-| Pidgey        | 10% | Klink         | 4% |    |  |
+| LAND          | %   | LAND        | %   | LAND          | %   |
+|:--------------|:----|:------------|:----|:--------------|:----|
+| **Dunsparce** | 37% | Meowth      | 27% | Jigglypuff   | 27% |
+| **Girafarig** | 9% |             |  |    |  |
 
 Catch a Dunsparce for later.
 
