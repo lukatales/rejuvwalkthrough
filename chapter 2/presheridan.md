@@ -182,7 +182,7 @@ Amethyst Cave
 | LAND          | %   | LAND        | %   | OLD ROD      | %   |
 |:--------------|:----|:------------|:----|:-------------|:----|
 | Woobat        | 42% | Diglett     | 9%  | **Remoraid** | 75% |
-| Geodude       | 29% | Carbink     | 7%  | **Barbaoch** | 15% |
+| Geodude       | 29% | Carbink     | 7%  | **Barboach** | 15% |
 | **Sandshrew** | 15% |      |   |      |   |
 
 We’ll come back to this cave soon enough for all the goodies, so for now just go right and down the stairs.
