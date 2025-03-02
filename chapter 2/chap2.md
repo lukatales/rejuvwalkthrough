@@ -122,6 +122,8 @@ These Pokémon are roughly in appearance order.
  - Woobat
  - Goldeen
  - Aevian Sewaddle
+ - Cacnea
+ - Snorunt
 
 {: 	.text-blue-000}
 ##### Rare Pokémon Sightings
