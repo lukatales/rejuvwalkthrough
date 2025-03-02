@@ -242,7 +242,7 @@ ZCell 009: Abandoned Sewers (West Entrance)
 
 There’s a hidden *Reverse Candy* on the right wall of the stairs when you enter. Go through the gates to watch a peculiar cutscene.
 
-You can battle a **Munna** if you give it a Gourmet Treat. There’s a hidden *Super Potion* in the top right corner next to the dumpster, a hidden *Green Shard* above the rightmost Munna, a **Red Shard** 3 tiles left and 1 tile up from the leftmost Munna, and a *Super Repel* 2 tiles down and 1 tile left from that.
+You can battle a **Munna** if you give it a Gourmet Treat. There’s a hidden *Super Potion* in the top right corner next to the dumpster, a hidden *Green Shard* above the rightmost Munna, a *Red Shard* 3 tiles left and 1 tile up from the leftmost Munna, and a *Super Repel* 2 tiles down and 1 tile left from that.
 
 Go to the left to get yourself a *Telluric Seed* at the bottom of the docks, right below the line of dumpsters, and a cell.
 
