@@ -1,5 +1,5 @@
 ---
-title: THE ROAD TO GOLDENLEAF
+title: GOLDENLEAF TOWN
 layout: default
 parent: Chapter 4 - Isolation
 nav_order: 2
