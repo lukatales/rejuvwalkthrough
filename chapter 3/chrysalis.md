@@ -94,6 +94,9 @@ Go to the right and through the hidden entrance next to the vines to find Passwo
 
 The patches of grass here have some new Pokémon for us.
 
+{: .text-blue-000}
+Chrysalis Courtyard
+
 | LAND              | %   | LAND          | %   | LAND          | %   |
 |:------------------|:----|:--------------|:----|:--------------|:----|
 | **Alolan Meowth** | 32% | **Plusle**    | 15% | **Porygon**   | 4% |
