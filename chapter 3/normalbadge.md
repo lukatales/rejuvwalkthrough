@@ -1,5 +1,5 @@
 ---
-title: THE MYSTERIOUS MANSION
+title: THE NORMALITY BADGE
 layout: default
 parent: Chapter 3 - Tainted Light
 nav_order: 2
