@@ -136,7 +136,7 @@ Keep going up, there’s a hidden *X Defend* 3 tiles down and 1 tile right of th
 
 
 {: .text-blue-000}
-### MIRAGE TOWN
+### Mirage Town
 ---
 
 To the right of the house with the red roof there’s a hidden *Genius Wing* above the stools. Enter the house with the red roof to grab a *Steam Ball* and get a quest from the scientist. There’s also a PC and a recovery machine here for you if you need it.
