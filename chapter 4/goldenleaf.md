@@ -28,7 +28,7 @@ Goldenleaf Town Grass
 | GRASS: MORN       | %   | GRASS: DAY        | %   | GRASS: NIGHT    | %   |
 |:------------------|:----|:------------------|:----|:----------------|:----|
 | **Phanpy**        | 32% | Spoink            | 32% | **Pumpkaboor**  | 32% |
-| **Alolan Meowth** | 35% | **Alolan Meowth   | 35% | Drowzee         | 45% |
+| **Alolan Meowth** | 35% | **Alolan Meowth**   | 35% | Drowzee         | 45% |
 | **Bunnelby**      | 15% | **Bunnelby**      | 15% | **Noctowl**     | 10% |
 | Pineco            | 10% | Pineco            | 10% | **Hypno**       | 4%  |
 | **Diggersby**     | 4%  | **Diggersby**     | 4%  | **Drifloon**    | 4%  |
@@ -104,12 +104,12 @@ Let’s hold off on going to the tower and explore a bit.
 {: .text-blue-000}
 Wispy Path Misc.
 
-| LAND                 | %   | LAND                | %   | OLD ROD       | %   |
-|:---------------------|:----|:--------------------|:----|:--------------|:-----|
-| Pumpkaboo            | 35% | Phanpy              | 32% | **Basculin**   | 100% |
-| Spewpa               | 10% | **Mightyena**       | 4% |    |  |
-| Spoink               | 10% | **Glarian Linoone** | 4% |    |  |
-| **Galarian Zigzagoon | 10% | Drifloon            | 4% |    |  |
+| LAND                   | %   | LAND                | %   | OLD ROD       | %   |
+|:-----------------------|:----|:--------------------|:----|:--------------|:-----|
+| Pumpkaboo              | 35% | Phanpy              | 32% | **Basculin**   | 100% |
+| Spewpa                 | 10% | **Mightyena**       | 4% |    |  |
+| Spoink                 | 10% | **Glarian Linoone** | 4% |    |  |
+| **Galarian Zigzagoon** | 10% | Drifloon            | 4% |    |  |
 
 Head down at the fork in the road and pass through the gate. Grab the *Reverse Candy*, the cell, the wisp, and the hidden *Tiny Mushroom* and *Lemonade*.
 
