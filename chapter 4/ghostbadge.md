@@ -33,7 +33,7 @@ Let’s go to Narcissa’s gym.
 Head through the door on the left, it’s time for a gym puzzle! And also some Pokémon.
 
 {: .text-blue-000}
-backstage Theatre
+Backstage Theatre
 
 | LAND      | %   | LAND         | %   | LAND         | %   |
 |:----------|:----|:-------------|:----|:-------------|:----|
