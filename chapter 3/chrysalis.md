@@ -79,7 +79,7 @@ Amanda will give you *HM01 - Cut* when you beat her!
 Enter the sewers and go all the way up through the glowing door.
 
 {: .text-blue-000}
-## Chrysalis Manor
+## CHRYSALIS MANOR
 ---
 
 Venam is back!
