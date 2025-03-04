@@ -28,7 +28,7 @@ Goldenleaf Town Grass
 | GRASS: MORN       | %   | GRASS: DAY        | %   | GRASS: NIGHT    | %   |
 |:------------------|:----|:------------------|:----|:----------------|:----|
 | **Phanpy**        | 32% | Spoink            | 32% | **Pumpkaboor**  | 32% |
-| **Alolan Meowth** | 35% | **Alolan Meowth**   | 35% | Drowzee         | 45% |
+| Alolan Meowth     | 35% | Alolan Meowth     | 35% | Drowzee         | 45% |
 | **Bunnelby**      | 15% | **Bunnelby**      | 15% | **Noctowl**     | 10% |
 | Pineco            | 10% | Pineco            | 10% | **Hypno**       | 4%  |
 | **Diggersby**     | 4%  | **Diggersby**     | 4%  | **Drifloon**    | 4%  |
