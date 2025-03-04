@@ -54,7 +54,7 @@ Phew, hopefully you got through that alright. There’s a recovery star and a PC
 {: .text-blue-000}
 RenBattle
 
-Ren’s still got a few Pokémon that aren’t fully evolved so overall it should be too difficult of a fight. You might be surprised because of Corvisquire’s unexpected bulk with its Eviolite, but you shouldn’t have to worry about its moves, especially if you have a rock or steel type Pokémon. Frogadier hasn’t reached its full potential either, so an electric type can do work there. Arcanine is going to be the hardest of its Pokémon to defeat, but it doesn’t have Extreme Speed, so you should be able to out speed it with some priority moves of your own to finish it off.
+Ren’s still got a few Pokémon that aren’t fully evolved so overall it should be too difficult of a fight. You might be surprised because of Corvisquire’s unexpected bulk with its Eviolite but you shouldn’t have to worry about its moves, especially if you have a rock or steel type Pokémon. Frogadier hasn’t reached its full potential either so an electric type can do work there. Arcanine is going to be the hardest of its Pokémon to defeat but it doesn’t have Extreme Speed, so you should be able to out speed it with some priority moves of your own to finish it off.
 
 Once you win, head through the mirror. Before challenging Narcissa, pick up the *Super Potion*, *Rawst Berry*, and *Rare Candy* in the audience space.
 
