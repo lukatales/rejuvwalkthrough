@@ -1,5 +1,5 @@
 ---
-title: Chapter 5 - IMPRISONED
+title: Chapter 5 - Imprisoned
 layout: default
 nav_order: 6
 ---
