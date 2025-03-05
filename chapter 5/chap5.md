@@ -90,7 +90,7 @@ These Pokémon are roughly in appearance order.
  - Noctowl
  - Hypno
  - Drifloon
- - Galarian Zignzagoon
+ - Galarian Zigzagoon
  - Mightyena
  - Galarian Linoone
  - Basculin
