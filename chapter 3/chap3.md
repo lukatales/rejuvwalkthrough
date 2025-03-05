@@ -24,8 +24,6 @@ The following is everything that you should have gotten in Chapter 2 - Redemptio
 {: 	.text-blue-000}
 ##### Z Cell Count
 
-To check how many cells you have select the Gather Cube in your bag.
-
 12
 
 {: 	.text-blue-000}
@@ -45,10 +43,6 @@ None available
 
 {: 	.text-blue-000}
 ##### Pokémon Count
-
-This includes all of the newly caught Pokémon, not Pokémon that could have been evolved from them or, in future chapters, from previously obtained Pokémon. Meaning, if you evolved your Fletchling into a Fletchinder the Fletchinder will not appear on this list, as it is not available to be caught.
-
-These Pokémon are roughly in appearance order.
 
  - Blitzle
  - Vanillite
@@ -105,8 +99,6 @@ These Pokémon are roughly in appearance order.
 
 {: 	.text-blue-000}
 ##### Rare Pokémon Sightings
-
-While these Pokémon are listed above, this will specifically  list any shadow Pokémon, Aevian forms, and Legendaries for easy viewing.
 
  - Shadow Vanillite
  - Shadow Wooper
