@@ -283,7 +283,7 @@ If you fought the vengeful Rift Gyarados you and Melia get invited to eat at Dar
  - Agent C…? (Crawli +2)
 
 {: .text-blue-000}
-**Friendship Value Choices**
+**Friendship Value Choices if you defeated Rift Gyarados**
  - Cheers! (Crawli +3, Melia +3)
  - I’m not doing that. (Crawli-3, Melia -3)
 
