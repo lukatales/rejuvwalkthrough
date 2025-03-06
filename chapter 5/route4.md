@@ -380,36 +380,9 @@ Andrew's Berry Store
 
 Those are all the kids we can get right now. Go back to Akuwa Town.
 
+{: .warning }
+> This is your last chance to do anything on Floria Island. We will not be coming back for a long time, so make sure that you have any items, Pokémon, and that you've done the quests you want to do. The Goldenleaf Forest Gyarados boss will be locked out once you talk to Aelita. I would also recommend making sure you have a ghost Pokémon that has/can learn Curse in your PC box.
 
+Return to the aquarium and walk all the way to the back and left. Talk to Aelita.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Oh, and don’t worry about winning or not in the next battle. It won’t matter.
