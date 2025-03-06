@@ -349,12 +349,12 @@ Go back to Route 4, we’re almost done! Don’t enter the Akuwa gate, instead t
 Watch the cutscene and meet Maman! A lovely woman for sure. She wants us to find some lost children and send them here so they have a place to stay. Maman says that there’s 11 lost children we need to find. Some of these aren’t available yet since we need Surf and Rock Climb, but we’re going to go ahead and get the ones we can now for some neat rewards.
 
 During the day you can ask her for hints on where to find these lost children, but don’t worry, I got them all on a list for you right here if you want:
-Marissa: Wispy path, where you found Espurr
-Matthew: At the bottom of Route 3 being terrorized by adorable Bidoof
-Cybur: In the little fair area, next to where you got your mystery egg
-James: In the Spring of Purification on the right side
-Andrew: In the Abandoned Sewers through the entrance near Venam’s Gym
-Jessibelle: Right of the Akuwa Town Gym (You can get this one
+ 1. Marissa: Wispy path, where you found Espurr
+ 2. Matthew: At the bottom of Route 3 being terrorized by adorable Bidoof
+ 3. Cybur: In the little fair area, next to where you got your mystery egg
+ 4. James: In the Spring of Purification on the right side
+ 5. Andrew: In the Abandoned Sewers through the entrance near Venam’s Gym
+ 6. Jessibelle: Right of the Akuwa Town Gym
 
 Go back to the Lost Camp once you find these 6 kids. Talk to Maman during the day and she will ask you to donate $5000, then after following her into the new house talk to her again and donate $7000. After you’ve donated twice you can find **Eevee** running around the front garden, and the Eevee will keep coming back too. Endless Eevees!
 
@@ -381,7 +381,7 @@ Andrew's Berry Store
 Those are all the kids we can get right now. Go back to Akuwa Town.
 
 {: .warning }
-> This is your last chance to do anything on Floria Island. We will not be coming back for a long time, so make sure that you have any items, Pokémon, and that you've done the quests you want to do. The Goldenleaf Forest Gyarados boss will be locked out once you talk to Aelita. I would also recommend making sure you have a ghost Pokémon that has/can learn Curse in your PC box.
+> This is your last chance to do anything on Floria Island. We will not be coming back for a long time, so make sure that you have any items, Pokémon, and that you've done the quests you want to do. The Rift Gyarados boss will be locked out once you talk to Aelita. I would also recommend making sure you have a ghost Pokémon that has/can learn Curse in your PC box.
 
 Return to the aquarium and walk all the way to the back and left. Talk to Aelita.
 
