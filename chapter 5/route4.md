@@ -326,7 +326,7 @@ Go to the AP Center in the hotel and buy the Golden Surfboard and the Golden Cla
 Get that Slugma you caught in Caratos and the Emolga you caught in Route 4. Now that the level cap was raised you can evolve it into a Magcargo at Lvl. 38 and give it to the painter on Route 2. He’ll give you a *Charcoal* for it and ask for an Emolga, which you already have! He’ll give you a *Magnet* for it and *TM96 - Nature Power* for completing the quest.
 
 {: .text-blue-000}
-## Mystery Egg
+### Mystery Egg
 ---
 
 Take the truck to Sheridan and put the female Phantump and a compatible Pokémon from the Grass or Amorphous egg groups in the daycare (Oddish, Paras, Bellsprout, Sunkern, etc.). Get the Phantump egg and go to Route 3 and talk to the boy with the orange hat in front of a stall. He wants to trade it for the egg he just got. You’ll receive 1 of 21 options of Pokémon. Once again, you cannot reset for the species since that’s determined when you first start the game.
@@ -343,7 +343,7 @@ Take the truck to Sheridan and put the female Phantump and a compatible Pokémon
 Go back to Route 4, we’re almost done! Don’t enter the Akuwa gate, instead take a left and go north between a broken chain link fence.
 
 {: .text-blue-000}
-## Lost Camp
+### Lost Camp
 ---
 
 Watch the cutscene and meet Maman! A lovely woman for sure. She wants us to find some lost children and send them here so they have a place to stay. Maman says that there’s 11 lost children we need to find. Some of these aren’t available yet since we need Surf and Rock Climb, but we’re going to go ahead and get the ones we can now for some neat rewards.
