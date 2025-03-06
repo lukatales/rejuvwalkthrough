@@ -220,7 +220,6 @@ Rift Den (East) <8 Badges
 | **Wailmer**    | Snorunt       |
 | Dunsparce      | Cacnea        |
 | **Vullaby**    |  |
-| **Nidorino**   |  |
 
 Keep going right and enter Cairo’s house. He’s got a few things to sell, but his shop won’t “open” until you have some essence in your inventory.
 
