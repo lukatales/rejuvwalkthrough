@@ -148,9 +148,6 @@ Route 4 (South)
 | Plusle         | 2%  | Minun          | 2%  |      |  |
 | Linoone        | 2%  | Linoone        | 2%  |      |  |
 
-{: .text-blue-000}
-Route 4 (South)
-
 | OLD ROD        | %    |
 |:---------------|:-----|
 | Finneon        | 100% |
