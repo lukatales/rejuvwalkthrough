@@ -200,3 +200,103 @@ That’s just one of the many ways of winning this fight also! I know some peopl
  - I could’ve done it myself. (Aelita -1)
 
 Watch the following cutscenes and celebrate that if nothing else we managed to escape this castle
+
+{: .text-blue-000}
+## THE AFTERMATH
+---
+How are you doing?
+
+{: .text-blue-000}
+**Friendship Value Choices**
+ - … (Neutral)
+ - Don’t feel guilty. (Adam +1)
+ - Maybe so. (Adam +2)
+
+Use the recovery star nearby to heal your Pokémon since there’s been no healing since Madame X’s battle, then interact with the Pokéball next to you to obtain a **Mawile** from Nancy.
+
+You can fight the Audino Breeder here to get *5 Exp. Candy M*.
+
+Exit the barracks and head downstairs to grab a *Dull Key*. There’s also a clerk here!
+
+{: .text-blue-000}
+Xen Battleship Clerk
+
+| ITEM            | PRICE  |
+|:----------------|:-------|
+| *Poké Ball*     | $200   |
+| *Great Ball*    | $600   |
+| *Potion*        | $300   |
+| *Super Potion*  | $700   |
+| *Antidote*      | $100   |
+| *Ice Heal*      | $250   |
+| *Gourmet Treat* | $1500  |
+| *Super Repel*   | $500   |
+| *Reverse Candy* | $50    |
+
+Go back upstairs, down, and to the right.
+
+{: .text-blue-000}
+**Friendship Value Choices**
+ - It’s okay. (Melia +2)
+ - I don’t know… (Melia -1)
+ - … (Melia -1)
+
+Hey, at least Saki fixed your Snag Machine! Go back inside the ship and head up the ladders for a battle.
+
+{: .text-blue-000}
+MeliaBattle
+
+The first Pokémon she throws out is Fortitude, not Hapi. With that knowledge you should do fine here, especially since she doesn’t make good use of the factory field and you can use it against her. Just watch out for Hapi’s flamethrower if you’re relying on steel type Pokémon, and Melia’s signature move since you might not realize it’s super effective right off the bat.
+
+Win you win you’ll wake up at the barracks again. Remember to heal since the game doesn’t heal you (again), and head out to the main deck on the left and watch a cutscene.
+
+{: .text-blue-000}
+### Landing on Terajuma
+---
+
+You’ll be pulled into a battle with a couple of rangers, but you’ll have Melia by your side for it! Winning grants you (Melia +3) and losing grants you (Melia -3).
+
+We technically can explore a little bit of the island now, but instead we’re just going to go straight to Kakori Village to keep everything organized, so follow the group into the jungle and watch a cutscene!
+
+{: .text-blue-000}
+**Friendship Value Choices**
+ - Everything okay? (Melia +1, Aelita +1)
+ - Huh? (Neutral)
+ - Where do we go? (Neutral)
+ - I can handle myself. (Melia -1, Aelita -2)
+
+Do not be tempted by exploration! I promise we’ll get there after a few cutscenes. Go straight up, the game will force it to be nighttime once you enter the village.
+
+{: .text-blue-000}
+**Friendship Value Choices**
+ - You’re our friend. (Nim +6)
+ - About that house… (Neutral)
+ - She’s right, we don’t. (Nim -4, Adam -4, Aelita -4, Melia -4, Valarie -4, Braixen -4)
+
+Before we do anything we’re going to go to the house that Crawli gifted us and interact with the Noctowl statue. These are gonna serve as fast travel points around Terajuma Island, but you have to make sure you activate them unlike Truck Guy. Go inside and talk to Melia.
+
+If you fought the vengeful Rift Gyarados you and Melia get invited to eat at Dartreaux’s Izakaya! If not, you’ll just hang out with the gang and can skip until it's morning. Head to the gym building and enter the restaurant on the left.
+
+{: .text-blue-000}
+**Friendship Value Choices if you defeated Rift Gyarados**
+ - Don’t know him. (Neutral)
+ - Agent C…? (Crawli +2)
+
+{: .text-blue-000}
+**Friendship Value Choices**
+ - Cheers! (Crawli +3, Melia +3)
+ - I’m not doing that. (Crawli-3, Melia -3)
+
+Go back home and watch a cutscene until it’s morning.
+
+{: .text-blue-000}
+**Friendship Value Choices**
+ - Are you really okay? (Neutral)
+  - I do. (Nim +1)
+  - Not really. (Neutral)
+ - You seem worse. (Neutral)
+ - Move, please. (Nim -2)
+
+Exit the house and you’ll be challenged to a gym battle by Valarie. Technically we can explore a few places, but I’m going to hold them off for the next chapter which is when we’ll get Surf. If you need help with Valarie and want to try catching more Pokémon for your team, jump ahead to chapter 6 and look at the Kakori Village, Terajuma Jungle, Deep Terajuma Jungle, and Terajuma Shore sections and grab what you can without Surf and come back here. You can also go to East Gearen if you really need to by talking to the yacht guy in Kakori Village.
+
+Once you’re ready to challenge Valarie go north from Kakori.
