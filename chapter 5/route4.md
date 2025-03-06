@@ -44,11 +44,15 @@ A strong trio of bugs! Aside from Galvantula you should be able to outspeed all 
 {: .text-blue-000}
 Goldenwood Forest Grass (Post Melia)
 
-| LAND         | %   | LAND        | %   | LAND          | %   | OLD ROD          | %   |
-|:-------------|:----|:------------|:----|:--------------|:----|:--------------|:----|
-| Poochyena    | 20% | Mightyena   | 20% | Pidove        | 12% | Goldeen        | 12% |
-| Plusle       | 10% | Minun       | 10% | Pansage       | 10% |        |  |
-| **Tranquil** | 12% | Spewpa      | 4%  | Furret        | 2%  |        |  |
+| LAND         | %   | LAND        | %   | LAND          | %   |
+|:-------------|:----|:------------|:----|:--------------|:----|
+| Poochyena    | 20% | Mightyena   | 20% | Pidove        | 12% |
+| Plusle       | 10% | Minun       | 10% | Pansage       | 10% |
+| **Tranquil** | 12% | Spewpa      | 4%  | Furret        | 2%  |
+
+| OLD ROD        | %    |
+|:---------------|:-----|
+| Goldeen        | 100% |
 
 Go into the cave to grab a *Nugget* behind a smashable rock if you go left across the bridge and a *Rare Candy* and hidden *Blue Shard* around Challenger Mars. Exit the cave.
 
