@@ -180,9 +180,6 @@ Route 4 (Central)
 | Plusle         | 2%  | Minun          | 2%  |      |  |
 | Nuzleaf        | 2%  | Nuzleaf        | 2%  |      |  |
 
-{: .text-blue-000}
-Route 4 (South)
-
 | OLD ROD        | %    |
 |:---------------|:-----|
 | Finneon        | 100% |
@@ -272,6 +269,62 @@ NimBattle
 Nim’s team is always quite tough, especially since it thrives on the psychic terrain that she sets up. Don’t underestimate her Pokémon, even if they are slow, since they’re bulky and will hit back twice as hard if you don’t knock them out. Take out Stonjourner first since it’s going to be boosting the strength of any Pokémon next to it, and Darmanitan is going to be in Zen Mode the entire time because of this field. If you’re having trouble I recommend picking any Pokémon after Stonjourner is gone and lowering its Attack or Sp. Attack, that way you can focus on one Pokémon without worrying about the other picking your Pokémon off while they’re weak. I wouldn’t recommend bug types for her team since so many of them have coverage and high defenses to make you regret your choice. Watch out for the Lunatone and Solrock wombo combo too, since Lunatone can flinch you with Rock Slide and Solrock has a tendency to explode if you don’t knock it out fast enough.
 
 Right now, Nim’s team still isn’t at it’s full potential so you should be able to use some dark or ghost types to deal with it. I mean, can you imagine this with Trick Room? You got this!
+
+{: .text-blue-000}
+## AKUWA TOWN?
+---
+
+Follow Aelita into Akuwa Town. Grab the hidden *Super Repel* right at the entrance and find a hurt old man! Head inside the Pokémon Center to grab the *Defibrillator*. Use it on the old man and get yelled at, but don’t follow Aelita just yet!
+
+{: .text-blue-000}
+Akuwa Town
+
+| GRASS: MORN    | %   | GRASS: DAY     | %   | GRASS: NIGHT    | %   |
+|:---------------|:----|:---------------|:----|:----------------|:----|
+| Buizel         | 32% | Buizel         | 32% | Buizel          | 32% |
+| Skitty         | 15% | Girafarig      | 40% | Illumise        | 15% |
+| **Delcatty**   | 10% | Blitzle        | 15% | Volbeat         | 10% |
+| Blitzle        | 15% | **Floatzel**   | 5%  | Noctowl         | 15% |
+| Girafarig      | 15%  | **Audino**    | 6%  | Girafarig       | 15% |
+| **Floatzel**   | 5%  | **Lickitung**  | 2%  | **Lickitung**   | 5%  |
+| **Audino**     | 6%  |                |     | **Audino**      | 6%  |
+| **Lickitung**  | 2%  |                |     | **Floatzel**    | 2%  |
+
+| OLD ROD        | %    |
+|:---------------|:-----|
+| Finneon        | 100% |
+
+Go to the right of town. There’s a cell that appears at nighttime next to Truck Guy, and you can enter the building above to find another cell.
+
+{: .text-blue-000}
+ZCell 031: Akuwa Town (Night)
+
+{: .text-blue-000}
+ZCell 032: Akuwa Town
+
+Go down below where the old man was. There’s a **Ducklett** Egg there that you can pick up and hatch, and another cell at nighttime.
+
+{: .text-blue-000}
+ZCell 033: Akuwa Town (Night)
+
+Let’s follow Aelita to the beach. You can battle the **Clauncher** running around the sand. Don’t forget to pick up *TM135 - Brine* and the hidden Soda Pop in the rock. Grab the cell just outside the ACDMC.
+
+ZCell 034: Akuwa Town
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
