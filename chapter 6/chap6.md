@@ -24,7 +24,12 @@ The following is everything that you should have gotten in Chapter 5 - Imprisone
 {: 	.text-blue-000}
 ##### Z Cell Count
 
-12
+34
+
+{: 	.text-blue-000}
+##### Wisp Count
+
+7
 
 {: 	.text-blue-000}
 ##### TM Count
@@ -34,7 +39,10 @@ The following is everything that you should have gotten in Chapter 5 - Imprisone
 {: 	.text-blue-000}
 ##### Mega Stone, Z-Crystal, and Crest Count
 
-None available
+ - Noctowl Crest
+ - Simisage Crest
+ - Simipour Crest
+ - Simisear Crest
 
 {: 	.text-blue-000}
 ##### Pokémon Count
