@@ -292,10 +292,11 @@ Go back home and watch a cutscene until it’s morning.
 {: .text-blue-000}
 **Friendship Value Choices**
  - Are you really okay? (Neutral)
-  - I do. (Nim +1)
-  - Not really. (Neutral)
+   - I do. (Nim +1)
+   - Not really. (Neutral)
  - You seem worse. (Neutral)
  - Move, please. (Nim -2)
+
 
 Exit the house and you’ll be challenged to a gym battle by Valarie. Technically we can explore a few places, but I’m going to hold them off for the next chapter which is when we’ll get Surf. If you need help with Valarie and want to try catching more Pokémon for your team, jump ahead to chapter 6 and look at the Kakori Village, Terajuma Jungle, Deep Terajuma Jungle, and Terajuma Shore sections and grab what you can without Surf and come back here. You can also go to East Gearen if you really need to by talking to the yacht guy in Kakori Village.
 
