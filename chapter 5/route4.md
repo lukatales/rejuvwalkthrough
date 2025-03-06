@@ -311,6 +311,84 @@ Let’s follow Aelita to the beach. You can battle the **Clauncher** running aro
 
 ZCell 034: Akuwa Town
 
+DO NOT FOLLOW AELITA INTO THE GYM. We have a few more things to do before we continue story, and going through the next cutscenes will cut us off from Floria Island for a while.
+
+{: .text-blue-000}
+## PRE-AQUARIUM ERRANDS
+---
+
+Go back to Goldenleaf and take the truck back to East Gearen with your Drifloon in tow. Go to the library. Talk to the blue-haired girl at the front for a fun cutscene that will become relevant later, then go upstairs. Show Zumi the Drifloon to get *3 Exp. Candy M*. She doesn’t have another Pokémon for us right now so we’ll come back later. Pay to enter the library proper and go to the room on the left to talk to the little girl. She’ll give you a quiz so you have to answer brown, Goldenwood Forest, Goldenleaf Area. Get them all right and she’ll give you a *Thunderstone*!
+
+Go to the Help Plaza next door and talk to Ayuda to get a *Cell Imprint* for finding 25 cells. He’ll want 35 for the next reward.
+
+Go to the AP Center in the hotel and buy the Golden Surfboard and the Golden Claws if you haven’t already. If you can’t afford both, focus on the surfboard. There’s also some new TMs here, *TM56 - Fling* and *TM47 - Low Sweep*.
+
+Get that Slugma you caught in Caratos and the Emolga you caught in Route 4. Now that the level cap was raised you can evolve it into a Magcargo at Lvl. 38 and give it to the painter on Route 2. He’ll give you a *Charcoal* for it and ask for an Emolga, which you already have! He’ll give you a *Magnet* for it and *TM96 - Nature Power* for completing the quest.
+
+{: .text-blue-000}
+## Mystery Egg
+---
+
+Take the truck to Sheridan and put the female Phantump and a compatible Pokémon from the Grass or Amorphous egg groups in the daycare (Oddish, Paras, Bellsprout, Sunkern, etc.). Get the Phantump egg and go to Route 3 and talk to the boy with the orange hat in front of a stall. He wants to trade it for the egg he just got. You’ll receive 1 of 21 options of Pokémon. Once again, you cannot reset for the species since that’s determined when you first start the game.
+
+| ROUTE 3 MYSTERY EGG                                  |
+|:-----------|:-----------|:--------------|:-----------|
+| Azurill    | Aron       | Absol         | Togepi     |
+| Sneasel    | Dhelmise   | Aevian Litwik | Axew       |
+| Mienfoo    | Pawniard   | Trapinch      | Hippototas |
+| Cottonee   | Darumaka   | Hatenna       | Starly     |
+| Tyrunt     | Larvesta   | Mareanie      | Stufful    |
+| Rookidee   |     |     |     |
+
+Go back to Route 4, we’re almost done! Don’t enter the Akuwa gate, instead take a left and go north between a broken chain link fence.
+
+{: .text-blue-000}
+## Lost Camp
+---
+
+Watch the cutscene and meet Maman! A lovely woman for sure. She wants us to find some lost children and send them here so they have a place to stay. Maman says that there’s 11 lost children we need to find. Some of these aren’t available yet since we need Surf and Rock Climb, but we’re going to go ahead and get the ones we can now for some neat rewards.
+
+During the day you can ask her for hints on where to find these lost children, but don’t worry, I got them all on a list for you right here if you want:
+Marissa: Wispy path, where you found Espurr
+Matthew: At the bottom of Route 3 being terrorized by adorable Bidoof
+Cybur: In the little fair area, next to where you got your mystery egg
+James: In the Spring of Purification on the right side
+Andrew: In the Abandoned Sewers through the entrance near Venam’s Gym
+Jessibelle: Right of the Akuwa Town Gym (You can get this one
+
+Go back to the Lost Camp once you find these 6 kids. Talk to Maman during the day and she will ask you to donate $5000, then after following her into the new house talk to her again and donate $7000. After you’ve donated twice you can find **Eevee** running around the front garden, and the Eevee will keep coming back too. Endless Eevees!
+
+A few of these kids have little stores too!
+
+{: .text-blue-000}
+Andrew's Berry Store
+
+| ITEM           | PRICE |
+|:---------------|:------|
+| *Pomeg Berry*  | $600  |
+| *Kelpsy Berry* | $600  |
+| *Qualot Berry* | $600  |
+
+{: .text-blue-000}
+Andrew's Berry Store
+
+| ITEM           | PRICE |
+|:---------------|:------|
+| *Water Stone*  | $2100 |
+| *Fire Stone*   | $2100 |
+| *Leaf Stone*   | $2100 |
+
+Those are all the kids we can get right now. Go back to Akuwa Town.
+
+
+
+
+
+
+
+
+
+
 
 
 
