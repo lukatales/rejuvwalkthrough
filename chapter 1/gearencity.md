@@ -371,7 +371,7 @@ If you’re eyeing that ??? ust remember that Mr. Luck knows all, and you signed
 Exit Gearen Park when you’re ready so we can finally continue the story! Enter the front yard of the house to the left of the gym to watch a cutscene, then go to the Berry Emporium to receive a Pecha Berry? From the clerk. Give it to the girl on the floor.
 
 {: .text-blue-000}
-**Friendship Value Choices**
+Friendship Value Choices
  - All me. (Venam +2)
  - Maybe (Venam +1)
  - No, actually. (Neutral)
@@ -481,12 +481,12 @@ Out of the prizes, Spoink is an easy choice for the first gym and Hidden Power i
 After you’ve spent the next seven or eight hours gambling your life away, exit the casino to get a few more optional friendship values with Melia in Gearen Park by watching the cutscene.
 
 {: .text-blue-000}
-**Friendship Value Choices**
+Friendship Value Choices
  - You like photography? (Melia +1)
  - What are you doing? (Neutral)
 
 {: .text-blue-000}
-**Friendship Value Choices**
+Friendship Value Choices
  - I love photography! (Melia +2)
  - I appreciate the art! (Melia +1)
  - It’s not for me. (Neutral)
