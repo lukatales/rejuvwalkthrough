@@ -72,7 +72,7 @@ Keep going south until you find that old man’s granddaughter. Talk to her to s
 Go back to the fisherman from the beginning and prepare for a really easy fight. You won’t be able to catch… Whatever this is. But the following cutscene is fun!
 
 {: 	.text-blue-000}
-**Friendship Value Choices**
+Friendship Value Choices
 
  - You okay? (Melia +2)
  - That was close… (Neutral)
@@ -109,7 +109,7 @@ You’ll get a *Star Shard* when you win and an **Aevian** Sewaddle with Baton P
 Go back and head north on the bridge to learn more about Prism Pokémon! I already explained them when we met with Mr. Luck, but these specific Prism Pokémon are different to the ones that you find by chance in wild battles. For one, you can’t catch these (therefore you can’t take their Black Prisms away from them), and they’ll appear in the overworld with a rainbow silhouette. All of their stats get +2 so be prepared when you spot them.
 
 {: 	.text-blue-000}
-**Friendship Value Choices**
+Friendship Value Choices
 
  - Did you get my good side? (Melia +2)
  - Don’t take pictures of me… (Melia -2)
@@ -141,7 +141,7 @@ Whenever you have your working Snag Machine, you’ll be able to catch Shadow Po
 If you talk to the grunt to the left you can catch a shadow Finneon. There’s a PC star to the right if you want to switch out your team for a future boss fight. Keep walking down the path.
 
 {: 	.text-blue-000}
-**Friendship Value Choices**
+Friendship Value Choices
 
  - We have to. (Melia +2)
  - I’m not so sure myself… (Neutral)
