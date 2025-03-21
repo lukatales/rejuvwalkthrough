@@ -137,7 +137,7 @@ RorimBBattle
 Watch out for those Teeter Dances!
 
 {: .text-blue-000}
-**Friendship Value Choices**
+Friendship Value Choices
 
  - You should stop. (Rorim B -2)
  - Yeah, he’s a jerk. (Rorim B +2)
