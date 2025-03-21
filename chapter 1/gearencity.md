@@ -46,7 +46,7 @@ Once you’ve picked out your starter, talk to Amanda and get ready for a battle
 {: .text-blue-000}
 AmandaBattle
 
-![Amanda1](https://media.discordapp.net/attachments/1344174707238502421/1344174784782532630/amanda1.PNG?ex=67bff3d2&is=67bea252&hm=d448867bbcc33de8aa838ffbde65f80ec3141354c0c3d3693a8a2ba39b4c1855&=&format=webp&quality=lossless)  
+![AmandaBattle](/docs/assets/amanda1.png)
 
 You can press the ‘S’ key to check the stat changes of all the Pokémon on the field, as well as the field effect, weather, screens, and other nifty information. Amanda will give you 5 Poké Balls to get started after the battle.
 
