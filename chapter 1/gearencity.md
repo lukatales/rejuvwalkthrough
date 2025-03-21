@@ -44,7 +44,7 @@ For those that’d like a strong starter to make the game a bit easier, Speed Bo
 Once you’ve picked out your starter, talk to Amanda and get ready for a battle! You can win or lose this one.
 
 {: .text-blue-000}
-AmandaBattl
+AmandaBattle
 
 ![AmandaBattle](/assets/images/trainerbattles/amanda1.PNG)
 
