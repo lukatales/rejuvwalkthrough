@@ -8,6 +8,8 @@ callouts:
     color: red
 back_to_top: true
 back_to_top_text: "Back to top"
+include:
+   - "images"
 
 url: https://lukatales.github.io/rejuvwalkthrough/
 
